@@ -1,0 +1,5 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+plotly>=5.24,<7
+statsmodels>=0.14,<1
+pytest>=8,<9

@@ -1,0 +1,1001 @@
+buyer_id,buyer_name,crop,variety,grade,required_quantity_quintals,offered_price_per_quintal,preferred_market,latitude,longitude,pickup_available,active,synthetic_demo_data
+B-SYN-0001,Synthetic Buyer 0001,Paddy,Culture,Local,15.8,1805.55,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0002,Synthetic Buyer 0002,Paddy,ADT 37,Local,31.7,2081.95,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0003,Synthetic Buyer 0003,Paddy,Culture,FAQ,72.0,2075.11,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0004,Synthetic Buyer 0004,Paddy,ADT 37,Local,77.7,1753.19,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0005,Synthetic Buyer 0005,Paddy,Ponni,Local,213.4,2259.79,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0006,Synthetic Buyer 0006,Paddy,ADT 37,Local,7.2,1948.53,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0007,Synthetic Buyer 0007,Paddy,Other,FAQ,30.8,1889.73,Vallam,10.714,79.702,True,True,True
+B-SYN-0008,Synthetic Buyer 0008,Paddy,ADT 43,Local,90.8,1983.82,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0009,Synthetic Buyer 0009,Paddy,Other,Local,61.1,2034.6,Vallam,10.714,79.702,True,True,True
+B-SYN-0010,Synthetic Buyer 0010,Paddy,Paddy,FAQ,22.6,1963.07,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0011,Synthetic Buyer 0011,Paddy,Culture,FAQ,22.3,1988.71,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0012,Synthetic Buyer 0012,Paddy,Ponni,Local,58.9,2422.22,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0013,Synthetic Buyer 0013,Paddy,Culture,FAQ,124.5,1704.89,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0014,Synthetic Buyer 0014,Paddy,ADT 37,Local,183.5,1836.59,Vallam,10.714,79.702,True,True,True
+B-SYN-0015,Synthetic Buyer 0015,Paddy,Other,Local,104.3,1947.22,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0016,Synthetic Buyer 0016,Paddy,Paddy,FAQ,94.4,1782.37,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0017,Synthetic Buyer 0017,Paddy,ADT 43,Local,22.9,1749.89,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0018,Synthetic Buyer 0018,Paddy,ADT 37,Local,28.1,1993.44,Thiruppananthal,,,True,True,True
+B-SYN-0019,Synthetic Buyer 0019,Paddy,Paddy,FAQ,73.5,2086.46,Vallam,10.714,79.702,False,True,True
+B-SYN-0020,Synthetic Buyer 0020,Paddy,I.R. 49,FAQ,11.6,1672.53,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0021,Synthetic Buyer 0021,Paddy,ADT 43,FAQ,73.6,2297.43,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0022,Synthetic Buyer 0022,Paddy,Other,FAQ,87.4,2110.21,Vallam,10.714,79.702,True,True,True
+B-SYN-0023,Synthetic Buyer 0023,Paddy,1001,Local,66.8,1645.34,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0024,Synthetic Buyer 0024,Paddy,I.R. 49,FAQ,82.3,1999.46,Thiruppananthal,,,False,True,True
+B-SYN-0025,Synthetic Buyer 0025,Paddy,1001,Local,40.1,1655.11,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0026,Synthetic Buyer 0026,Paddy,ADT 43,Local,74.2,2301.1,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0027,Synthetic Buyer 0027,Paddy,I.R. 49,FAQ,38.6,1964.38,Orathanadu,10.628,79.2531,False,False,True
+B-SYN-0028,Synthetic Buyer 0028,Paddy,Culture,Local,92.1,1914.35,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0029,Synthetic Buyer 0029,Paddy,ADT 43,Local,42.9,1831.15,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0030,Synthetic Buyer 0030,Paddy,1001,FAQ,36.1,1580.36,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0031,Synthetic Buyer 0031,Paddy,ADT 37,Local,229.6,1955.76,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0032,Synthetic Buyer 0032,Paddy,ADT 43,Local,70.9,1898.64,Thiruppananthal,,,False,True,True
+B-SYN-0033,Synthetic Buyer 0033,Paddy,Paddy,FAQ,31.7,1890.44,Thiruppananthal,,,True,True,True
+B-SYN-0034,Synthetic Buyer 0034,Paddy,1001,FAQ,44.4,1684.96,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0035,Synthetic Buyer 0035,Paddy,Ponni,FAQ,57.6,1757.37,Thiruppananthal,,,False,True,True
+B-SYN-0036,Synthetic Buyer 0036,Paddy,Culture,Local,165.7,2085.78,Vallam,10.714,79.702,True,True,True
+B-SYN-0037,Synthetic Buyer 0037,Paddy,Culture,FAQ,12.9,1700.74,Vallam,10.714,79.702,True,True,True
+B-SYN-0038,Synthetic Buyer 0038,Paddy,Paddy,FAQ,38.7,1827.78,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0039,Synthetic Buyer 0039,Paddy,B P T,Local,51.4,2550.0,Thanjavur,10.787,79.1378,True,False,True
+B-SYN-0040,Synthetic Buyer 0040,Paddy,ADT 43,Local,33.2,1443.32,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0041,Synthetic Buyer 0041,Paddy,Other,Local,54.8,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0042,Synthetic Buyer 0042,Paddy,Paddy,FAQ,92.8,1612.54,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0043,Synthetic Buyer 0043,Paddy,ADT 43,FAQ,18.3,1882.07,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0044,Synthetic Buyer 0044,Paddy,Culture,FAQ,56.7,1990.89,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0045,Synthetic Buyer 0045,Paddy,Other,Local,38.3,2550.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0046,Synthetic Buyer 0046,Paddy,ADT 37,Local,6.7,2029.43,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0047,Synthetic Buyer 0047,Paddy,Culture,Local,28.5,1683.18,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0048,Synthetic Buyer 0048,Paddy,Other,Local,88.1,2550.0,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0049,Synthetic Buyer 0049,Paddy,1001,FAQ,137.3,2148.79,Vallam,10.714,79.702,False,True,True
+B-SYN-0050,Synthetic Buyer 0050,Paddy,B P T,FAQ,30.4,1837.69,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0051,Synthetic Buyer 0051,Paddy,ADT 37,Local,35.7,1855.82,Vallam,10.714,79.702,True,True,True
+B-SYN-0052,Synthetic Buyer 0052,Paddy,ADT 37,Local,14.2,1929.27,Orathanadu,10.628,79.2531,True,False,True
+B-SYN-0053,Synthetic Buyer 0053,Paddy,ADT 37,FAQ,70.8,1683.1,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0054,Synthetic Buyer 0054,Paddy,Paddy,FAQ,82.3,1927.31,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0055,Synthetic Buyer 0055,Paddy,I.R. 49,FAQ,119.2,1950.15,Vallam,10.714,79.702,True,True,True
+B-SYN-0056,Synthetic Buyer 0056,Paddy,I.R. 49,FAQ,78.9,1778.84,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0057,Synthetic Buyer 0057,Paddy,1001,FAQ,28.3,1455.32,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0058,Synthetic Buyer 0058,Paddy,ADT 43,FAQ,65.7,1707.71,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0059,Synthetic Buyer 0059,Paddy,I.R. 49,FAQ,56.2,1361.5,Papanasam,10.9252,79.2708,True,False,True
+B-SYN-0060,Synthetic Buyer 0060,Paddy,ADT 43,Local,81.1,2287.39,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0061,Synthetic Buyer 0061,Paddy,B P T,FAQ,176.3,2273.41,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0062,Synthetic Buyer 0062,Paddy,Paddy,FAQ,53.2,1849.16,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0063,Synthetic Buyer 0063,Paddy,I.R. 49,FAQ,38.2,1876.23,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0064,Synthetic Buyer 0064,Paddy,Paddy,FAQ,40.0,1604.07,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0065,Synthetic Buyer 0065,Paddy,B P T,FAQ,98.5,1947.6,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0066,Synthetic Buyer 0066,Paddy,Other,FAQ,95.5,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0067,Synthetic Buyer 0067,Paddy,1001,FAQ,62.5,1946.32,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0068,Synthetic Buyer 0068,Paddy,ADT 37,FAQ,63.8,2046.54,Thiruppananthal,,,True,True,True
+B-SYN-0069,Synthetic Buyer 0069,Paddy,ADT 43,Local,37.3,1720.7,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0070,Synthetic Buyer 0070,Paddy,B P T,FAQ,42.2,1917.68,Vallam,10.714,79.702,True,True,True
+B-SYN-0071,Synthetic Buyer 0071,Paddy,Culture,FAQ,26.3,1689.3,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0072,Synthetic Buyer 0072,Paddy,Ponni,Local,241.7,1826.63,Vallam,10.714,79.702,False,True,True
+B-SYN-0073,Synthetic Buyer 0073,Paddy,ADT 37,FAQ,29.3,1842.19,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0074,Synthetic Buyer 0074,Paddy,Culture,FAQ,23.3,1931.26,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0075,Synthetic Buyer 0075,Paddy,Ponni,Local,20.4,1923.92,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0076,Synthetic Buyer 0076,Paddy,1001,FAQ,163.5,1993.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0077,Synthetic Buyer 0077,Paddy,ADT 37,Local,30.1,1894.27,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0078,Synthetic Buyer 0078,Paddy,B P T,FAQ,55.8,1792.32,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0079,Synthetic Buyer 0079,Paddy,ADT 43,Local,30.2,1646.99,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0080,Synthetic Buyer 0080,Paddy,Culture,Local,94.3,1904.71,Vallam,10.714,79.702,True,True,True
+B-SYN-0081,Synthetic Buyer 0081,Paddy,Culture,FAQ,89.3,1922.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0082,Synthetic Buyer 0082,Paddy,Culture,FAQ,83.1,1704.23,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0083,Synthetic Buyer 0083,Paddy,B P T,FAQ,159.3,1985.98,Thiruppananthal,,,False,False,True
+B-SYN-0084,Synthetic Buyer 0084,Paddy,B P T,FAQ,94.6,2005.1,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0085,Synthetic Buyer 0085,Paddy,ADT 43,Local,74.4,1841.32,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0086,Synthetic Buyer 0086,Paddy,ADT 37,Local,77.0,2308.86,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0087,Synthetic Buyer 0087,Paddy,Paddy,FAQ,77.3,1687.79,Thiruppananthal,,,True,False,True
+B-SYN-0088,Synthetic Buyer 0088,Paddy,Other,Local,29.9,2550.0,Papanasam,10.9252,79.2708,False,False,True
+B-SYN-0089,Synthetic Buyer 0089,Paddy,Paddy,FAQ,25.6,1884.03,Thiruppananthal,,,False,True,True
+B-SYN-0090,Synthetic Buyer 0090,Paddy,Paddy,Local,23.2,1956.67,Thiruppananthal,,,True,True,True
+B-SYN-0091,Synthetic Buyer 0091,Paddy,Paddy,Local,22.6,1860.11,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0092,Synthetic Buyer 0092,Paddy,I.R. 49,Local,6.1,1907.07,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0093,Synthetic Buyer 0093,Paddy,ADT 37,Local,36.8,1897.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0094,Synthetic Buyer 0094,Paddy,Ponni,Local,54.9,2024.78,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0095,Synthetic Buyer 0095,Paddy,B P T,FAQ,73.3,2007.46,Vallam,10.714,79.702,True,False,True
+B-SYN-0096,Synthetic Buyer 0096,Paddy,I.R. 49,Local,221.0,2259.49,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0097,Synthetic Buyer 0097,Paddy,Paddy,FAQ,56.8,1943.48,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0098,Synthetic Buyer 0098,Paddy,Other,FAQ,84.8,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0099,Synthetic Buyer 0099,Paddy,ADT 37,Local,24.9,1954.81,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0100,Synthetic Buyer 0100,Paddy,I.R. 49,Local,12.6,2055.25,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0101,Synthetic Buyer 0101,Paddy,I.R. 49,FAQ,86.4,1962.6,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0102,Synthetic Buyer 0102,Paddy,B P T,FAQ,70.5,2485.19,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0103,Synthetic Buyer 0103,Paddy,ADT 43,FAQ,23.6,1826.86,Thiruppananthal,,,False,True,True
+B-SYN-0104,Synthetic Buyer 0104,Paddy,1001,FAQ,33.6,2053.3,Vallam,10.714,79.702,True,True,True
+B-SYN-0105,Synthetic Buyer 0105,Paddy,Culture,FAQ,91.7,2017.36,Thiruppananthal,,,True,True,True
+B-SYN-0106,Synthetic Buyer 0106,Paddy,ADT 37,Local,47.8,1739.52,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0107,Synthetic Buyer 0107,Paddy,Other,FAQ,25.6,1950.36,Vallam,10.714,79.702,False,True,True
+B-SYN-0108,Synthetic Buyer 0108,Paddy,I.R. 49,FAQ,99.8,1806.46,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0109,Synthetic Buyer 0109,Paddy,Ponni,Local,55.5,1810.83,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0110,Synthetic Buyer 0110,Paddy,Paddy,Local,77.1,1889.24,Thiruppananthal,,,True,True,True
+B-SYN-0111,Synthetic Buyer 0111,Paddy,Ponni,Local,37.9,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0112,Synthetic Buyer 0112,Paddy,Other,Local,9.4,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0113,Synthetic Buyer 0113,Paddy,B P T,Local,28.0,2511.51,Vallam,10.714,79.702,True,True,True
+B-SYN-0114,Synthetic Buyer 0114,Paddy,I.R. 49,Local,79.6,1893.33,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0115,Synthetic Buyer 0115,Paddy,B P T,FAQ,9.2,1661.75,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0116,Synthetic Buyer 0116,Paddy,ADT 37,Local,59.2,2322.81,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0117,Synthetic Buyer 0117,Paddy,ADT 37,Local,31.6,2056.52,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0118,Synthetic Buyer 0118,Paddy,Culture,FAQ,84.8,2155.12,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0119,Synthetic Buyer 0119,Paddy,ADT 43,Local,18.0,1842.75,Vallam,10.714,79.702,True,True,True
+B-SYN-0120,Synthetic Buyer 0120,Paddy,1001,FAQ,58.3,1654.82,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0121,Synthetic Buyer 0121,Paddy,Culture,FAQ,6.0,1680.36,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0122,Synthetic Buyer 0122,Paddy,1001,FAQ,15.6,1871.25,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0123,Synthetic Buyer 0123,Paddy,Other,FAQ,41.2,2209.83,Orathanadu,10.628,79.2531,False,False,True
+B-SYN-0124,Synthetic Buyer 0124,Paddy,I.R. 49,FAQ,33.9,2233.41,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0125,Synthetic Buyer 0125,Paddy,I.R. 49,FAQ,135.3,1797.12,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0126,Synthetic Buyer 0126,Paddy,ADT 37,Local,34.0,1963.29,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0127,Synthetic Buyer 0127,Paddy,I.R. 49,Local,15.1,1867.29,Vallam,10.714,79.702,True,True,True
+B-SYN-0128,Synthetic Buyer 0128,Paddy,ADT 37,FAQ,91.4,2409.47,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0129,Synthetic Buyer 0129,Paddy,Culture,FAQ,31.5,1881.1,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0130,Synthetic Buyer 0130,Paddy,Paddy,FAQ,31.7,1902.97,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0131,Synthetic Buyer 0131,Paddy,Paddy,FAQ,54.1,1879.99,Vallam,10.714,79.702,True,True,True
+B-SYN-0132,Synthetic Buyer 0132,Paddy,B P T,FAQ,91.9,1752.41,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0133,Synthetic Buyer 0133,Paddy,Paddy,FAQ,137.8,1888.11,Vallam,10.714,79.702,False,True,True
+B-SYN-0134,Synthetic Buyer 0134,Paddy,I.R. 49,FAQ,86.2,1885.79,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0135,Synthetic Buyer 0135,Paddy,Other,Local,85.3,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0136,Synthetic Buyer 0136,Paddy,1001,FAQ,33.7,1891.5,Vallam,10.714,79.702,True,True,True
+B-SYN-0137,Synthetic Buyer 0137,Paddy,ADT 43,Local,86.1,2012.96,Thiruppananthal,,,True,False,True
+B-SYN-0138,Synthetic Buyer 0138,Paddy,B P T,Local,39.2,1991.67,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0139,Synthetic Buyer 0139,Paddy,B P T,FAQ,59.3,2550.0,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0140,Synthetic Buyer 0140,Paddy,Ponni,Local,15.0,1856.2,Vallam,10.714,79.702,True,True,True
+B-SYN-0141,Synthetic Buyer 0141,Paddy,ADT 43,Local,116.4,2066.2,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0142,Synthetic Buyer 0142,Paddy,B P T,FAQ,27.7,1494.45,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0143,Synthetic Buyer 0143,Paddy,B P T,FAQ,42.3,1672.18,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0144,Synthetic Buyer 0144,Paddy,ADT 37,Local,9.4,2550.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0145,Synthetic Buyer 0145,Paddy,1001,FAQ,45.0,1692.61,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0146,Synthetic Buyer 0146,Paddy,Ponni,FAQ,28.1,1865.32,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0147,Synthetic Buyer 0147,Paddy,1001,FAQ,84.2,2016.67,Vallam,10.714,79.702,False,True,True
+B-SYN-0148,Synthetic Buyer 0148,Paddy,Ponni,Local,91.3,1885.23,Vallam,10.714,79.702,True,True,True
+B-SYN-0149,Synthetic Buyer 0149,Paddy,1001,FAQ,60.5,1361.5,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0150,Synthetic Buyer 0150,Paddy,ADT 37,Local,26.4,1815.03,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0151,Synthetic Buyer 0151,Paddy,ADT 37,Local,72.6,1757.63,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0152,Synthetic Buyer 0152,Paddy,1001,FAQ,37.1,1780.89,Thiruppananthal,,,True,True,True
+B-SYN-0153,Synthetic Buyer 0153,Paddy,ADT 43,Local,12.9,1793.28,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0154,Synthetic Buyer 0154,Paddy,Paddy,FAQ,23.5,1923.95,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0155,Synthetic Buyer 0155,Paddy,I.R. 49,FAQ,70.2,1751.78,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0156,Synthetic Buyer 0156,Paddy,Other,Local,78.6,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0157,Synthetic Buyer 0157,Paddy,Ponni,Local,58.5,1724.38,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0158,Synthetic Buyer 0158,Paddy,ADT 43,FAQ,69.5,2032.51,Vallam,10.714,79.702,True,True,True
+B-SYN-0159,Synthetic Buyer 0159,Paddy,ADT 43,FAQ,66.2,2453.12,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0160,Synthetic Buyer 0160,Paddy,Other,FAQ,71.1,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0161,Synthetic Buyer 0161,Paddy,B P T,FAQ,82.9,1913.35,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0162,Synthetic Buyer 0162,Paddy,Ponni,Local,94.5,1824.37,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0163,Synthetic Buyer 0163,Paddy,1001,FAQ,10.5,1568.31,Thiruppananthal,,,False,True,True
+B-SYN-0164,Synthetic Buyer 0164,Paddy,I.R. 49,FAQ,32.1,1889.29,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0165,Synthetic Buyer 0165,Paddy,ADT 43,FAQ,14.8,2023.02,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0166,Synthetic Buyer 0166,Paddy,ADT 37,Local,78.1,1988.33,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0167,Synthetic Buyer 0167,Paddy,Ponni,Local,63.3,1734.42,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0168,Synthetic Buyer 0168,Paddy,ADT 43,Local,63.6,1871.67,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0169,Synthetic Buyer 0169,Paddy,Culture,FAQ,22.7,1887.61,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0170,Synthetic Buyer 0170,Paddy,ADT 37,Local,118.3,2217.06,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0171,Synthetic Buyer 0171,Paddy,Other,Local,84.9,2383.11,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0172,Synthetic Buyer 0172,Paddy,Other,Local,12.6,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0173,Synthetic Buyer 0173,Paddy,Culture,FAQ,17.7,1791.9,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0174,Synthetic Buyer 0174,Paddy,I.R. 49,Local,75.7,2047.89,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0175,Synthetic Buyer 0175,Paddy,I.R. 49,FAQ,13.3,2200.64,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0176,Synthetic Buyer 0176,Paddy,I.R. 49,FAQ,5.3,1885.15,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0177,Synthetic Buyer 0177,Paddy,Culture,FAQ,64.7,1924.44,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0178,Synthetic Buyer 0178,Paddy,1001,FAQ,16.6,1580.85,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0179,Synthetic Buyer 0179,Paddy,ADT 43,Local,53.4,1996.53,Vallam,10.714,79.702,True,True,True
+B-SYN-0180,Synthetic Buyer 0180,Paddy,1001,FAQ,20.4,1860.1,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0181,Synthetic Buyer 0181,Paddy,ADT 37,Local,51.8,1802.2,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0182,Synthetic Buyer 0182,Paddy,B P T,FAQ,78.1,1996.42,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0183,Synthetic Buyer 0183,Paddy,Ponni,Local,23.4,1785.55,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0184,Synthetic Buyer 0184,Paddy,Other,FAQ,54.7,2550.0,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0185,Synthetic Buyer 0185,Paddy,ADT 43,FAQ,33.6,1965.46,Vallam,10.714,79.702,True,True,True
+B-SYN-0186,Synthetic Buyer 0186,Paddy,B P T,FAQ,10.1,1702.63,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0187,Synthetic Buyer 0187,Paddy,ADT 43,Local,70.3,1737.29,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0188,Synthetic Buyer 0188,Paddy,I.R. 49,FAQ,65.0,1861.35,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0189,Synthetic Buyer 0189,Paddy,Ponni,Local,60.6,1704.26,Vallam,10.714,79.702,True,False,True
+B-SYN-0190,Synthetic Buyer 0190,Paddy,1001,FAQ,5.8,1621.04,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0191,Synthetic Buyer 0191,Paddy,B P T,FAQ,26.4,1941.48,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0192,Synthetic Buyer 0192,Paddy,ADT 37,FAQ,58.4,2093.88,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0193,Synthetic Buyer 0193,Paddy,ADT 37,Local,11.1,1810.99,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0194,Synthetic Buyer 0194,Paddy,ADT 37,FAQ,73.8,1832.13,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0195,Synthetic Buyer 0195,Paddy,ADT 37,FAQ,45.3,2004.33,Vallam,10.714,79.702,True,True,True
+B-SYN-0196,Synthetic Buyer 0196,Paddy,B P T,FAQ,39.7,1784.92,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0197,Synthetic Buyer 0197,Paddy,Paddy,FAQ,30.1,1926.17,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0198,Synthetic Buyer 0198,Paddy,ADT 37,Local,71.7,1672.81,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0199,Synthetic Buyer 0199,Paddy,1001,FAQ,185.9,1539.53,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0200,Synthetic Buyer 0200,Paddy,Other,Local,31.4,2407.22,Vallam,10.714,79.702,True,True,True
+B-SYN-0201,Synthetic Buyer 0201,Paddy,ADT 37,Local,110.9,1664.19,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0202,Synthetic Buyer 0202,Paddy,B P T,FAQ,15.2,1947.57,Vallam,10.714,79.702,True,True,True
+B-SYN-0203,Synthetic Buyer 0203,Paddy,Culture,FAQ,5.2,2254.76,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0204,Synthetic Buyer 0204,Paddy,1001,FAQ,8.8,1738.28,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0205,Synthetic Buyer 0205,Paddy,Culture,FAQ,52.1,1903.79,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0206,Synthetic Buyer 0206,Paddy,Culture,FAQ,190.3,1811.13,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0207,Synthetic Buyer 0207,Paddy,Culture,FAQ,16.5,2392.11,Papanasam,10.9252,79.2708,False,False,True
+B-SYN-0208,Synthetic Buyer 0208,Paddy,Ponni,FAQ,74.6,1969.08,Vallam,10.714,79.702,False,True,True
+B-SYN-0209,Synthetic Buyer 0209,Paddy,Paddy,FAQ,32.5,1831.47,Vallam,10.714,79.702,True,True,True
+B-SYN-0210,Synthetic Buyer 0210,Paddy,ADT 43,Local,99.5,1832.62,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0211,Synthetic Buyer 0211,Paddy,Ponni,Local,27.1,1696.3,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0212,Synthetic Buyer 0212,Paddy,ADT 37,Local,18.9,2125.01,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0213,Synthetic Buyer 0213,Paddy,Other,Local,10.1,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0214,Synthetic Buyer 0214,Paddy,Other,FAQ,17.5,2157.03,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0215,Synthetic Buyer 0215,Paddy,Paddy,FAQ,57.9,1817.72,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0216,Synthetic Buyer 0216,Paddy,ADT 37,FAQ,94.3,2015.02,Vallam,10.714,79.702,False,True,True
+B-SYN-0217,Synthetic Buyer 0217,Paddy,Paddy,FAQ,232.7,1654.3,Thiruppananthal,,,False,True,True
+B-SYN-0218,Synthetic Buyer 0218,Paddy,I.R. 49,FAQ,79.0,1962.17,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0219,Synthetic Buyer 0219,Paddy,ADT 37,FAQ,32.3,2041.66,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0220,Synthetic Buyer 0220,Paddy,Other,Local,64.7,2550.0,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0221,Synthetic Buyer 0221,Paddy,1001,FAQ,24.3,1634.79,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0222,Synthetic Buyer 0222,Paddy,Culture,FAQ,30.5,1992.44,Thiruppananthal,,,True,True,True
+B-SYN-0223,Synthetic Buyer 0223,Paddy,ADT 43,FAQ,37.6,1426.98,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0224,Synthetic Buyer 0224,Paddy,B P T,FAQ,83.9,1823.22,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0225,Synthetic Buyer 0225,Paddy,Culture,Local,97.6,2185.29,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0226,Synthetic Buyer 0226,Paddy,I.R. 49,FAQ,37.6,1648.15,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0227,Synthetic Buyer 0227,Paddy,Culture,FAQ,30.9,1852.81,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0228,Synthetic Buyer 0228,Paddy,Culture,FAQ,131.2,1946.63,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0229,Synthetic Buyer 0229,Paddy,Culture,FAQ,62.0,1672.06,Papanasam,10.9252,79.2708,False,False,True
+B-SYN-0230,Synthetic Buyer 0230,Paddy,Ponni,FAQ,16.3,1823.69,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0231,Synthetic Buyer 0231,Paddy,Other,Local,26.9,1721.76,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0232,Synthetic Buyer 0232,Paddy,Ponni,Local,68.1,2216.38,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0233,Synthetic Buyer 0233,Paddy,I.R. 49,FAQ,20.0,1904.15,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0234,Synthetic Buyer 0234,Paddy,Ponni,FAQ,71.1,2068.72,Vallam,10.714,79.702,True,True,True
+B-SYN-0235,Synthetic Buyer 0235,Paddy,Culture,FAQ,75.9,1610.7,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0236,Synthetic Buyer 0236,Paddy,B P T,Local,17.3,2485.98,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0237,Synthetic Buyer 0237,Paddy,Paddy,FAQ,46.1,1799.95,Thanjavur,10.787,79.1378,True,False,True
+B-SYN-0238,Synthetic Buyer 0238,Paddy,ADT 43,Local,22.5,2034.48,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0239,Synthetic Buyer 0239,Paddy,B P T,FAQ,59.5,2458.89,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0240,Synthetic Buyer 0240,Paddy,Paddy,Local,75.1,1852.47,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0241,Synthetic Buyer 0241,Paddy,I.R. 49,FAQ,36.4,1660.86,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0242,Synthetic Buyer 0242,Paddy,1001,FAQ,29.9,1807.5,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0243,Synthetic Buyer 0243,Paddy,ADT 37,Local,58.7,1593.17,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0244,Synthetic Buyer 0244,Paddy,B P T,FAQ,19.7,2329.44,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0245,Synthetic Buyer 0245,Paddy,1001,FAQ,63.5,1841.11,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0246,Synthetic Buyer 0246,Paddy,B P T,FAQ,51.0,1869.72,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0247,Synthetic Buyer 0247,Paddy,B P T,FAQ,31.1,2038.61,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0248,Synthetic Buyer 0248,Paddy,Ponni,Local,198.6,1886.43,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0249,Synthetic Buyer 0249,Paddy,Other,FAQ,85.3,2403.14,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0250,Synthetic Buyer 0250,Paddy,B P T,FAQ,31.9,1729.62,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0251,Synthetic Buyer 0251,Paddy,Culture,FAQ,36.5,2376.45,Vallam,10.714,79.702,False,True,True
+B-SYN-0252,Synthetic Buyer 0252,Paddy,1001,Local,225.9,1651.2,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0253,Synthetic Buyer 0253,Paddy,Ponni,Local,114.8,2165.91,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0254,Synthetic Buyer 0254,Paddy,Paddy,FAQ,59.4,2118.84,Vallam,10.714,79.702,False,True,True
+B-SYN-0255,Synthetic Buyer 0255,Paddy,1001,FAQ,80.1,1804.17,Vallam,10.714,79.702,False,True,True
+B-SYN-0256,Synthetic Buyer 0256,Paddy,Culture,FAQ,38.4,1622.58,Thiruppananthal,,,False,False,True
+B-SYN-0257,Synthetic Buyer 0257,Paddy,Ponni,Local,48.6,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0258,Synthetic Buyer 0258,Paddy,Ponni,Local,61.5,2037.37,Vallam,10.714,79.702,True,True,True
+B-SYN-0259,Synthetic Buyer 0259,Paddy,Other,FAQ,29.8,2230.14,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0260,Synthetic Buyer 0260,Paddy,B P T,Local,92.8,2550.0,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0261,Synthetic Buyer 0261,Paddy,I.R. 49,FAQ,71.2,1818.67,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0262,Synthetic Buyer 0262,Paddy,ADT 37,Local,82.3,1361.5,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0263,Synthetic Buyer 0263,Paddy,Other,Local,58.0,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0264,Synthetic Buyer 0264,Paddy,Ponni,Local,49.5,1986.75,Thiruppananthal,,,True,True,True
+B-SYN-0265,Synthetic Buyer 0265,Paddy,Paddy,FAQ,45.8,1873.44,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0266,Synthetic Buyer 0266,Paddy,B P T,FAQ,93.4,1686.13,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0267,Synthetic Buyer 0267,Paddy,ADT 37,FAQ,33.7,1855.51,Vallam,10.714,79.702,True,True,True
+B-SYN-0268,Synthetic Buyer 0268,Paddy,Other,Local,80.4,2550.0,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0269,Synthetic Buyer 0269,Paddy,I.R. 49,FAQ,10.8,1694.69,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0270,Synthetic Buyer 0270,Paddy,Ponni,Local,173.9,1821.19,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0271,Synthetic Buyer 0271,Paddy,Paddy,FAQ,41.7,1860.89,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0272,Synthetic Buyer 0272,Paddy,Ponni,Local,67.9,1698.29,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0273,Synthetic Buyer 0273,Paddy,Other,Local,56.4,1663.09,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0274,Synthetic Buyer 0274,Paddy,Paddy,Local,24.7,1766.17,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0275,Synthetic Buyer 0275,Paddy,Culture,FAQ,14.4,1712.57,Vallam,10.714,79.702,True,True,True
+B-SYN-0276,Synthetic Buyer 0276,Paddy,B P T,FAQ,42.2,1856.29,Thiruppananthal,,,True,True,True
+B-SYN-0277,Synthetic Buyer 0277,Paddy,ADT 43,Local,42.7,2256.27,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0278,Synthetic Buyer 0278,Paddy,ADT 43,Local,58.6,2015.01,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0279,Synthetic Buyer 0279,Paddy,ADT 43,Local,99.7,1846.8,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0280,Synthetic Buyer 0280,Paddy,Paddy,FAQ,60.2,1893.09,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0281,Synthetic Buyer 0281,Paddy,B P T,FAQ,97.8,1823.01,Vallam,10.714,79.702,False,True,True
+B-SYN-0282,Synthetic Buyer 0282,Paddy,Paddy,FAQ,24.9,2013.47,Thiruppananthal,,,True,True,True
+B-SYN-0283,Synthetic Buyer 0283,Paddy,Culture,FAQ,82.2,2081.45,Vallam,10.714,79.702,True,True,True
+B-SYN-0284,Synthetic Buyer 0284,Paddy,1001,FAQ,234.0,1985.39,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0285,Synthetic Buyer 0285,Paddy,Paddy,Local,67.4,1882.16,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0286,Synthetic Buyer 0286,Paddy,B P T,Local,32.3,2406.4,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0287,Synthetic Buyer 0287,Paddy,I.R. 49,FAQ,72.7,1767.41,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0288,Synthetic Buyer 0288,Paddy,1001,FAQ,64.2,1361.5,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0289,Synthetic Buyer 0289,Paddy,Ponni,Local,107.6,1653.25,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0290,Synthetic Buyer 0290,Paddy,ADT 43,FAQ,6.2,1718.8,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0291,Synthetic Buyer 0291,Paddy,Culture,FAQ,9.1,1910.95,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0292,Synthetic Buyer 0292,Paddy,ADT 43,FAQ,51.9,1973.96,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0293,Synthetic Buyer 0293,Paddy,Paddy,Local,18.4,1616.03,Vallam,10.714,79.702,True,False,True
+B-SYN-0294,Synthetic Buyer 0294,Paddy,Ponni,FAQ,17.8,1854.07,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0295,Synthetic Buyer 0295,Paddy,B P T,FAQ,15.1,1866.96,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0296,Synthetic Buyer 0296,Paddy,1001,FAQ,51.4,1599.01,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0297,Synthetic Buyer 0297,Paddy,Ponni,Local,210.0,2550.0,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0298,Synthetic Buyer 0298,Paddy,ADT 43,Local,37.6,1748.24,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0299,Synthetic Buyer 0299,Paddy,1001,FAQ,60.7,1868.73,Vallam,10.714,79.702,True,False,True
+B-SYN-0300,Synthetic Buyer 0300,Paddy,I.R. 49,FAQ,62.3,1968.5,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0301,Synthetic Buyer 0301,Paddy,I.R. 49,FAQ,26.8,2463.19,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0302,Synthetic Buyer 0302,Paddy,Paddy,FAQ,48.9,1797.04,Orathanadu,10.628,79.2531,True,False,True
+B-SYN-0303,Synthetic Buyer 0303,Paddy,Paddy,FAQ,57.4,1753.31,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0304,Synthetic Buyer 0304,Paddy,ADT 37,FAQ,81.7,1611.97,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0305,Synthetic Buyer 0305,Paddy,I.R. 49,FAQ,22.0,1396.46,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0306,Synthetic Buyer 0306,Paddy,ADT 43,Local,19.7,1693.14,Thiruppananthal,,,True,True,True
+B-SYN-0307,Synthetic Buyer 0307,Paddy,Other,Local,37.8,2351.33,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0308,Synthetic Buyer 0308,Paddy,Ponni,FAQ,197.6,1948.71,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0309,Synthetic Buyer 0309,Paddy,Ponni,FAQ,44.5,2034.51,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0310,Synthetic Buyer 0310,Paddy,B P T,FAQ,30.5,1962.58,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0311,Synthetic Buyer 0311,Paddy,B P T,FAQ,70.3,1879.53,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0312,Synthetic Buyer 0312,Paddy,B P T,Local,88.3,2396.26,Vallam,10.714,79.702,True,True,True
+B-SYN-0313,Synthetic Buyer 0313,Paddy,Paddy,FAQ,29.3,1809.28,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0314,Synthetic Buyer 0314,Paddy,Other,Local,71.9,1518.7,Thiruppananthal,,,False,True,True
+B-SYN-0315,Synthetic Buyer 0315,Paddy,ADT 43,Local,51.1,1559.84,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0316,Synthetic Buyer 0316,Paddy,Paddy,FAQ,62.7,1856.43,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0317,Synthetic Buyer 0317,Paddy,Other,Local,27.3,2550.0,Vallam,10.714,79.702,False,True,True
+B-SYN-0318,Synthetic Buyer 0318,Paddy,ADT 43,Local,56.4,2197.38,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0319,Synthetic Buyer 0319,Paddy,1001,Local,35.4,1790.68,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0320,Synthetic Buyer 0320,Paddy,Other,Local,57.1,2443.33,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0321,Synthetic Buyer 0321,Paddy,Paddy,FAQ,50.4,2015.15,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0322,Synthetic Buyer 0322,Paddy,1001,Local,26.0,1792.7,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0323,Synthetic Buyer 0323,Paddy,Paddy,FAQ,23.4,1801.54,Thiruppananthal,,,True,True,True
+B-SYN-0324,Synthetic Buyer 0324,Paddy,ADT 37,FAQ,96.8,1816.13,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0325,Synthetic Buyer 0325,Paddy,Ponni,Local,87.0,1861.82,Vallam,10.714,79.702,True,True,True
+B-SYN-0326,Synthetic Buyer 0326,Paddy,B P T,FAQ,46.5,1658.01,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0327,Synthetic Buyer 0327,Paddy,1001,FAQ,225.7,1607.59,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0328,Synthetic Buyer 0328,Paddy,B P T,FAQ,15.0,1812.1,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0329,Synthetic Buyer 0329,Paddy,ADT 43,Local,30.9,2285.2,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0330,Synthetic Buyer 0330,Paddy,Culture,FAQ,76.4,2082.97,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0331,Synthetic Buyer 0331,Paddy,Paddy,FAQ,67.9,1738.06,Thiruppananthal,,,False,True,True
+B-SYN-0332,Synthetic Buyer 0332,Paddy,B P T,Local,28.3,2398.82,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0333,Synthetic Buyer 0333,Paddy,1001,Local,149.0,1665.38,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0334,Synthetic Buyer 0334,Paddy,ADT 37,FAQ,11.3,1957.09,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0335,Synthetic Buyer 0335,Paddy,I.R. 49,Local,42.7,2314.01,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0336,Synthetic Buyer 0336,Paddy,ADT 37,FAQ,205.7,1905.55,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0337,Synthetic Buyer 0337,Paddy,1001,FAQ,137.0,1810.52,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0338,Synthetic Buyer 0338,Paddy,1001,Local,136.0,1741.08,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0339,Synthetic Buyer 0339,Paddy,ADT 37,Local,61.2,1786.15,Vallam,10.714,79.702,True,False,True
+B-SYN-0340,Synthetic Buyer 0340,Paddy,ADT 37,Local,204.9,1799.28,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0341,Synthetic Buyer 0341,Paddy,ADT 37,Local,223.1,2156.2,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0342,Synthetic Buyer 0342,Paddy,Other,Local,177.1,2002.18,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0343,Synthetic Buyer 0343,Paddy,B P T,Local,18.8,2085.5,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0344,Synthetic Buyer 0344,Paddy,Culture,FAQ,5.4,2362.28,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0345,Synthetic Buyer 0345,Paddy,Other,Local,136.7,2550.0,Vallam,10.714,79.702,True,True,True
+B-SYN-0346,Synthetic Buyer 0346,Paddy,1001,FAQ,52.1,1631.64,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0347,Synthetic Buyer 0347,Paddy,1001,FAQ,87.6,1588.12,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0348,Synthetic Buyer 0348,Paddy,Paddy,FAQ,37.1,1596.96,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0349,Synthetic Buyer 0349,Paddy,I.R. 49,FAQ,218.2,1898.78,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0350,Synthetic Buyer 0350,Paddy,Culture,Local,51.5,2072.81,Vallam,10.714,79.702,False,True,True
+B-SYN-0351,Synthetic Buyer 0351,Paddy,I.R. 49,FAQ,93.5,1855.3,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0352,Synthetic Buyer 0352,Paddy,I.R. 49,FAQ,232.9,1739.03,Thiruppananthal,,,True,True,True
+B-SYN-0353,Synthetic Buyer 0353,Paddy,I.R. 49,FAQ,9.3,1789.15,Vallam,10.714,79.702,False,True,True
+B-SYN-0354,Synthetic Buyer 0354,Paddy,Paddy,FAQ,50.0,1666.53,Vallam,10.714,79.702,True,True,True
+B-SYN-0355,Synthetic Buyer 0355,Paddy,Other,Local,84.4,2224.95,Vallam,10.714,79.702,False,True,True
+B-SYN-0356,Synthetic Buyer 0356,Paddy,B P T,FAQ,63.4,1854.56,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0357,Synthetic Buyer 0357,Paddy,1001,Local,102.2,1662.15,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0358,Synthetic Buyer 0358,Paddy,ADT 43,Local,8.4,1585.52,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0359,Synthetic Buyer 0359,Paddy,Culture,FAQ,44.9,2501.77,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0360,Synthetic Buyer 0360,Paddy,I.R. 49,FAQ,59.0,1948.44,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0361,Synthetic Buyer 0361,Paddy,Other,FAQ,177.5,2508.09,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0362,Synthetic Buyer 0362,Paddy,I.R. 49,FAQ,27.9,2274.41,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0363,Synthetic Buyer 0363,Paddy,Culture,FAQ,77.9,2285.36,Thiruppananthal,,,True,True,True
+B-SYN-0364,Synthetic Buyer 0364,Paddy,ADT 37,Local,62.8,1925.08,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0365,Synthetic Buyer 0365,Paddy,Culture,Local,8.7,2044.3,Thiruppananthal,,,True,True,True
+B-SYN-0366,Synthetic Buyer 0366,Paddy,I.R. 49,FAQ,42.0,2156.33,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0367,Synthetic Buyer 0367,Paddy,Other,Local,39.1,2325.12,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0368,Synthetic Buyer 0368,Paddy,Ponni,Local,208.4,1967.74,Vallam,10.714,79.702,True,True,True
+B-SYN-0369,Synthetic Buyer 0369,Paddy,Paddy,FAQ,82.6,2071.27,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0370,Synthetic Buyer 0370,Paddy,I.R. 49,FAQ,36.7,1470.54,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0371,Synthetic Buyer 0371,Paddy,I.R. 49,FAQ,74.0,1814.71,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0372,Synthetic Buyer 0372,Paddy,Culture,FAQ,7.2,1906.12,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0373,Synthetic Buyer 0373,Paddy,Other,Local,59.3,2427.38,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0374,Synthetic Buyer 0374,Paddy,I.R. 49,FAQ,154.0,1833.36,Vallam,10.714,79.702,True,True,True
+B-SYN-0375,Synthetic Buyer 0375,Paddy,I.R. 49,FAQ,84.8,2069.89,Thiruppananthal,,,True,True,True
+B-SYN-0376,Synthetic Buyer 0376,Paddy,Other,Local,85.1,2186.83,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0377,Synthetic Buyer 0377,Paddy,Paddy,FAQ,136.2,2062.72,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0378,Synthetic Buyer 0378,Paddy,Paddy,FAQ,14.5,2053.35,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0379,Synthetic Buyer 0379,Paddy,Paddy,FAQ,93.4,2024.43,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0380,Synthetic Buyer 0380,Paddy,ADT 43,Local,61.9,2237.42,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0381,Synthetic Buyer 0381,Paddy,Paddy,FAQ,25.9,1862.75,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0382,Synthetic Buyer 0382,Paddy,B P T,FAQ,51.8,1913.65,Vallam,10.714,79.702,False,True,True
+B-SYN-0383,Synthetic Buyer 0383,Paddy,1001,Local,43.3,1871.2,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0384,Synthetic Buyer 0384,Paddy,ADT 43,Local,63.5,2100.35,Vallam,10.714,79.702,False,True,True
+B-SYN-0385,Synthetic Buyer 0385,Paddy,Culture,Local,43.2,2034.71,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0386,Synthetic Buyer 0386,Paddy,B P T,Local,41.6,2246.54,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0387,Synthetic Buyer 0387,Paddy,Culture,Local,55.1,1752.57,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0388,Synthetic Buyer 0388,Paddy,B P T,FAQ,30.8,1790.92,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0389,Synthetic Buyer 0389,Paddy,ADT 37,Local,157.3,1952.39,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0390,Synthetic Buyer 0390,Paddy,ADT 37,FAQ,91.4,1755.53,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0391,Synthetic Buyer 0391,Paddy,Other,Local,83.2,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0392,Synthetic Buyer 0392,Paddy,B P T,FAQ,67.7,1912.33,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0393,Synthetic Buyer 0393,Paddy,1001,Local,85.4,1677.98,Thiruppananthal,,,False,True,True
+B-SYN-0394,Synthetic Buyer 0394,Paddy,I.R. 49,FAQ,55.8,1956.6,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0395,Synthetic Buyer 0395,Paddy,1001,FAQ,14.5,1405.79,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0396,Synthetic Buyer 0396,Paddy,1001,FAQ,88.4,2078.61,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0397,Synthetic Buyer 0397,Paddy,I.R. 49,FAQ,230.3,2550.0,Thanjavur,10.787,79.1378,True,False,True
+B-SYN-0398,Synthetic Buyer 0398,Paddy,I.R. 49,FAQ,19.8,1925.23,Vallam,10.714,79.702,True,True,True
+B-SYN-0399,Synthetic Buyer 0399,Paddy,ADT 43,Local,85.9,2074.95,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0400,Synthetic Buyer 0400,Paddy,ADT 37,FAQ,186.8,2287.65,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0401,Synthetic Buyer 0401,Paddy,I.R. 49,FAQ,87.9,1904.68,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0402,Synthetic Buyer 0402,Paddy,ADT 37,Local,79.0,1893.66,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0403,Synthetic Buyer 0403,Paddy,ADT 43,FAQ,61.4,1708.74,Vallam,10.714,79.702,True,True,True
+B-SYN-0404,Synthetic Buyer 0404,Paddy,I.R. 49,FAQ,24.4,1912.03,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0405,Synthetic Buyer 0405,Paddy,I.R. 49,FAQ,39.4,2243.69,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0406,Synthetic Buyer 0406,Paddy,ADT 43,Local,79.5,1910.85,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0407,Synthetic Buyer 0407,Paddy,B P T,FAQ,23.3,2163.32,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0408,Synthetic Buyer 0408,Paddy,ADT 43,Local,12.8,1742.38,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0409,Synthetic Buyer 0409,Paddy,ADT 37,Local,57.4,2003.76,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0410,Synthetic Buyer 0410,Paddy,Culture,FAQ,70.8,2038.08,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0411,Synthetic Buyer 0411,Paddy,1001,FAQ,224.0,1841.56,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0412,Synthetic Buyer 0412,Paddy,ADT 37,Local,91.6,1846.16,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0413,Synthetic Buyer 0413,Paddy,Culture,FAQ,83.1,1899.94,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0414,Synthetic Buyer 0414,Paddy,Ponni,FAQ,17.9,1640.5,Thiruppananthal,,,True,True,True
+B-SYN-0415,Synthetic Buyer 0415,Paddy,I.R. 49,FAQ,67.4,1844.49,Vallam,10.714,79.702,True,True,True
+B-SYN-0416,Synthetic Buyer 0416,Paddy,B P T,FAQ,18.8,1725.67,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0417,Synthetic Buyer 0417,Paddy,ADT 37,Local,59.6,2011.27,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0418,Synthetic Buyer 0418,Paddy,1001,FAQ,19.9,1602.88,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0419,Synthetic Buyer 0419,Paddy,Paddy,FAQ,47.9,2012.46,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0420,Synthetic Buyer 0420,Paddy,1001,FAQ,55.9,1645.03,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0421,Synthetic Buyer 0421,Paddy,ADT 43,Local,14.7,1827.76,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0422,Synthetic Buyer 0422,Paddy,Other,Local,238.8,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0423,Synthetic Buyer 0423,Paddy,I.R. 49,FAQ,61.0,1361.5,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0424,Synthetic Buyer 0424,Paddy,ADT 37,Local,12.8,1874.21,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0425,Synthetic Buyer 0425,Paddy,Culture,Local,215.4,1872.42,Vallam,10.714,79.702,True,True,True
+B-SYN-0426,Synthetic Buyer 0426,Paddy,Ponni,Local,75.3,1561.5,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0427,Synthetic Buyer 0427,Paddy,Other,FAQ,169.2,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0428,Synthetic Buyer 0428,Paddy,Ponni,Local,26.0,1909.57,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0429,Synthetic Buyer 0429,Paddy,Paddy,Local,53.4,1772.06,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0430,Synthetic Buyer 0430,Paddy,1001,Local,68.4,1902.77,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0431,Synthetic Buyer 0431,Paddy,Paddy,FAQ,46.8,1829.8,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0432,Synthetic Buyer 0432,Paddy,Ponni,Local,11.3,2369.72,Vallam,10.714,79.702,False,True,True
+B-SYN-0433,Synthetic Buyer 0433,Paddy,Paddy,FAQ,56.5,1861.23,Orathanadu,10.628,79.2531,True,False,True
+B-SYN-0434,Synthetic Buyer 0434,Paddy,ADT 37,FAQ,5.7,2157.84,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0435,Synthetic Buyer 0435,Paddy,Culture,Local,79.7,1992.62,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0436,Synthetic Buyer 0436,Paddy,Ponni,Local,77.3,1563.52,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0437,Synthetic Buyer 0437,Paddy,B P T,FAQ,200.9,2421.28,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0438,Synthetic Buyer 0438,Paddy,I.R. 49,FAQ,86.3,1607.38,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0439,Synthetic Buyer 0439,Paddy,ADT 37,Local,176.1,1507.05,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0440,Synthetic Buyer 0440,Paddy,ADT 37,Local,23.6,2429.03,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0441,Synthetic Buyer 0441,Paddy,Culture,Local,144.9,1782.82,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0442,Synthetic Buyer 0442,Paddy,Paddy,Local,105.5,1890.1,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0443,Synthetic Buyer 0443,Paddy,ADT 37,Local,104.2,1858.42,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0444,Synthetic Buyer 0444,Paddy,Ponni,FAQ,39.9,1847.91,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0445,Synthetic Buyer 0445,Paddy,I.R. 49,Local,29.6,1895.14,Thiruppananthal,,,True,True,True
+B-SYN-0446,Synthetic Buyer 0446,Paddy,Paddy,FAQ,43.9,2069.61,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0447,Synthetic Buyer 0447,Paddy,1001,FAQ,29.0,1632.71,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0448,Synthetic Buyer 0448,Paddy,1001,FAQ,235.3,1621.56,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0449,Synthetic Buyer 0449,Paddy,Culture,Local,97.0,1654.88,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0450,Synthetic Buyer 0450,Paddy,Culture,FAQ,18.5,1866.27,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0451,Synthetic Buyer 0451,Paddy,Paddy,FAQ,86.6,1816.73,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0452,Synthetic Buyer 0452,Paddy,Culture,Local,62.1,1757.67,Vallam,10.714,79.702,True,True,True
+B-SYN-0453,Synthetic Buyer 0453,Paddy,ADT 43,FAQ,236.7,1768.02,Kumbakonam,10.9617,79.388,False,False,True
+B-SYN-0454,Synthetic Buyer 0454,Paddy,B P T,FAQ,80.4,1782.36,Vallam,10.714,79.702,True,True,True
+B-SYN-0455,Synthetic Buyer 0455,Paddy,ADT 43,Local,34.1,1407.62,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0456,Synthetic Buyer 0456,Paddy,B P T,FAQ,50.9,1902.61,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0457,Synthetic Buyer 0457,Paddy,B P T,FAQ,23.9,2041.58,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0458,Synthetic Buyer 0458,Paddy,Ponni,Local,159.0,1701.86,Vallam,10.714,79.702,True,True,True
+B-SYN-0459,Synthetic Buyer 0459,Paddy,Ponni,Local,63.8,2380.91,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0460,Synthetic Buyer 0460,Paddy,Ponni,Local,218.0,1919.13,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0461,Synthetic Buyer 0461,Paddy,Paddy,FAQ,65.5,1795.02,Thiruppananthal,,,False,True,True
+B-SYN-0462,Synthetic Buyer 0462,Paddy,ADT 43,Local,14.8,1643.37,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0463,Synthetic Buyer 0463,Paddy,ADT 37,FAQ,202.6,1999.84,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0464,Synthetic Buyer 0464,Paddy,1001,FAQ,18.3,1535.31,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0465,Synthetic Buyer 0465,Paddy,Other,FAQ,78.1,2274.34,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0466,Synthetic Buyer 0466,Paddy,Other,Local,53.4,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0467,Synthetic Buyer 0467,Paddy,ADT 43,FAQ,24.4,1928.63,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0468,Synthetic Buyer 0468,Paddy,1001,FAQ,39.6,1361.5,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0469,Synthetic Buyer 0469,Paddy,Paddy,Local,76.2,1821.34,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0470,Synthetic Buyer 0470,Paddy,Culture,Local,46.4,1667.53,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0471,Synthetic Buyer 0471,Paddy,Culture,FAQ,69.0,1921.34,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0472,Synthetic Buyer 0472,Paddy,B P T,Local,22.5,2268.3,Thiruppananthal,,,False,True,True
+B-SYN-0473,Synthetic Buyer 0473,Paddy,I.R. 49,FAQ,14.1,1570.67,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0474,Synthetic Buyer 0474,Paddy,Culture,FAQ,16.5,2372.86,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0475,Synthetic Buyer 0475,Paddy,Ponni,Local,94.6,2124.17,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0476,Synthetic Buyer 0476,Paddy,B P T,FAQ,77.4,2009.17,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0477,Synthetic Buyer 0477,Paddy,1001,FAQ,121.1,1876.44,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0478,Synthetic Buyer 0478,Paddy,Paddy,Local,63.7,1976.79,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0479,Synthetic Buyer 0479,Paddy,1001,FAQ,24.5,1689.73,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0480,Synthetic Buyer 0480,Paddy,1001,FAQ,17.7,1507.66,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0481,Synthetic Buyer 0481,Paddy,Culture,FAQ,198.3,1640.67,Vallam,10.714,79.702,True,True,True
+B-SYN-0482,Synthetic Buyer 0482,Paddy,ADT 43,Local,121.3,1602.87,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0483,Synthetic Buyer 0483,Paddy,Paddy,FAQ,27.3,1920.03,Thiruppananthal,,,True,True,True
+B-SYN-0484,Synthetic Buyer 0484,Paddy,1001,Local,63.9,1778.05,Vallam,10.714,79.702,False,False,True
+B-SYN-0485,Synthetic Buyer 0485,Paddy,Paddy,Local,184.2,2070.91,Vallam,10.714,79.702,False,True,True
+B-SYN-0486,Synthetic Buyer 0486,Paddy,Culture,FAQ,183.9,1864.23,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0487,Synthetic Buyer 0487,Paddy,Ponni,FAQ,98.0,1361.5,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0488,Synthetic Buyer 0488,Paddy,1001,FAQ,51.7,1886.43,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0489,Synthetic Buyer 0489,Paddy,ADT 37,Local,188.8,1829.66,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0490,Synthetic Buyer 0490,Paddy,Paddy,FAQ,34.3,1908.75,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0491,Synthetic Buyer 0491,Paddy,Paddy,Local,81.5,2068.34,Vallam,10.714,79.702,True,True,True
+B-SYN-0492,Synthetic Buyer 0492,Paddy,ADT 37,Local,92.9,2550.0,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0493,Synthetic Buyer 0493,Paddy,ADT 37,FAQ,39.3,1704.39,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0494,Synthetic Buyer 0494,Paddy,B P T,FAQ,248.4,1790.42,Vallam,10.714,79.702,True,True,True
+B-SYN-0495,Synthetic Buyer 0495,Paddy,ADT 43,Local,21.2,2117.67,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0496,Synthetic Buyer 0496,Paddy,1001,FAQ,67.1,1918.4,Vallam,10.714,79.702,False,True,True
+B-SYN-0497,Synthetic Buyer 0497,Paddy,Paddy,FAQ,76.1,1721.39,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0498,Synthetic Buyer 0498,Paddy,Culture,Local,18.9,2034.94,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0499,Synthetic Buyer 0499,Paddy,ADT 37,FAQ,76.5,1851.79,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0500,Synthetic Buyer 0500,Paddy,Ponni,FAQ,31.9,1914.61,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0501,Synthetic Buyer 0501,Paddy,1001,FAQ,33.9,1588.46,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0502,Synthetic Buyer 0502,Paddy,Other,Local,132.2,1954.5,Vallam,10.714,79.702,True,True,True
+B-SYN-0503,Synthetic Buyer 0503,Paddy,Paddy,FAQ,98.6,1875.16,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0504,Synthetic Buyer 0504,Paddy,ADT 43,FAQ,74.3,1822.35,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0505,Synthetic Buyer 0505,Paddy,Ponni,Local,64.8,2412.11,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0506,Synthetic Buyer 0506,Paddy,Paddy,FAQ,52.8,1991.94,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0507,Synthetic Buyer 0507,Paddy,Culture,Local,60.1,1877.24,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0508,Synthetic Buyer 0508,Paddy,B P T,Local,186.1,2215.73,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0509,Synthetic Buyer 0509,Paddy,1001,Local,49.8,1474.7,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0510,Synthetic Buyer 0510,Paddy,Ponni,Local,37.4,2049.37,Vallam,10.714,79.702,True,True,True
+B-SYN-0511,Synthetic Buyer 0511,Paddy,Other,Local,10.4,2550.0,Vallam,10.714,79.702,True,True,True
+B-SYN-0512,Synthetic Buyer 0512,Paddy,Ponni,Local,52.0,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0513,Synthetic Buyer 0513,Paddy,1001,FAQ,97.9,1671.85,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0514,Synthetic Buyer 0514,Paddy,Paddy,Local,18.0,2135.94,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0515,Synthetic Buyer 0515,Paddy,Paddy,Local,10.9,1909.9,Papanasam,10.9252,79.2708,True,False,True
+B-SYN-0516,Synthetic Buyer 0516,Paddy,Paddy,FAQ,64.9,1715.75,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0517,Synthetic Buyer 0517,Paddy,Ponni,Local,85.1,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0518,Synthetic Buyer 0518,Paddy,ADT 43,Local,12.2,1570.49,Vallam,10.714,79.702,True,False,True
+B-SYN-0519,Synthetic Buyer 0519,Paddy,Ponni,Local,230.0,1376.44,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0520,Synthetic Buyer 0520,Paddy,Paddy,FAQ,52.8,1869.63,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0521,Synthetic Buyer 0521,Paddy,B P T,FAQ,61.3,2107.47,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0522,Synthetic Buyer 0522,Paddy,Paddy,FAQ,52.0,2052.46,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0523,Synthetic Buyer 0523,Paddy,Culture,FAQ,172.7,1686.7,Vallam,10.714,79.702,True,True,True
+B-SYN-0524,Synthetic Buyer 0524,Paddy,Paddy,FAQ,19.2,1914.13,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0525,Synthetic Buyer 0525,Paddy,ADT 37,FAQ,15.9,1794.81,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0526,Synthetic Buyer 0526,Paddy,ADT 43,Local,82.1,1502.62,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0527,Synthetic Buyer 0527,Paddy,Culture,Local,90.1,1858.33,Thiruppananthal,,,False,True,True
+B-SYN-0528,Synthetic Buyer 0528,Paddy,Culture,Local,57.7,1889.42,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0529,Synthetic Buyer 0529,Paddy,Ponni,FAQ,98.0,1832.14,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0530,Synthetic Buyer 0530,Paddy,I.R. 49,FAQ,85.8,1839.62,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0531,Synthetic Buyer 0531,Paddy,1001,FAQ,91.8,1773.01,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0532,Synthetic Buyer 0532,Paddy,Ponni,Local,129.7,1969.65,Thiruppananthal,,,True,False,True
+B-SYN-0533,Synthetic Buyer 0533,Paddy,Ponni,Local,79.2,1671.32,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0534,Synthetic Buyer 0534,Paddy,1001,FAQ,41.5,1632.15,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0535,Synthetic Buyer 0535,Paddy,Culture,FAQ,73.0,1687.16,Thiruppananthal,,,False,True,True
+B-SYN-0536,Synthetic Buyer 0536,Paddy,Other,FAQ,190.8,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0537,Synthetic Buyer 0537,Paddy,ADT 37,FAQ,80.9,1932.46,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0538,Synthetic Buyer 0538,Paddy,Culture,FAQ,159.1,1658.3,Vallam,10.714,79.702,True,False,True
+B-SYN-0539,Synthetic Buyer 0539,Paddy,Culture,FAQ,162.3,1647.17,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0540,Synthetic Buyer 0540,Paddy,ADT 43,Local,210.9,1709.41,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0541,Synthetic Buyer 0541,Paddy,I.R. 49,FAQ,151.3,1822.83,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0542,Synthetic Buyer 0542,Paddy,Paddy,FAQ,87.5,1937.92,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0543,Synthetic Buyer 0543,Paddy,I.R. 49,Local,19.5,1836.75,Vallam,10.714,79.702,True,True,True
+B-SYN-0544,Synthetic Buyer 0544,Paddy,ADT 37,Local,64.0,1951.65,Thiruppananthal,,,False,True,True
+B-SYN-0545,Synthetic Buyer 0545,Paddy,ADT 37,Local,40.1,1991.17,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0546,Synthetic Buyer 0546,Paddy,ADT 37,Local,35.5,2364.64,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0547,Synthetic Buyer 0547,Paddy,Ponni,FAQ,15.5,1812.27,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0548,Synthetic Buyer 0548,Paddy,Paddy,FAQ,78.6,1611.81,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0549,Synthetic Buyer 0549,Paddy,B P T,FAQ,190.2,2143.48,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0550,Synthetic Buyer 0550,Paddy,Ponni,Local,71.0,1944.14,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0551,Synthetic Buyer 0551,Paddy,1001,FAQ,15.0,1610.97,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0552,Synthetic Buyer 0552,Paddy,Culture,FAQ,59.3,1759.45,Kumbakonam,10.9617,79.388,False,False,True
+B-SYN-0553,Synthetic Buyer 0553,Paddy,1001,FAQ,65.5,1361.5,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0554,Synthetic Buyer 0554,Paddy,B P T,Local,93.4,2536.1,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0555,Synthetic Buyer 0555,Paddy,Culture,Local,81.6,2159.2,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0556,Synthetic Buyer 0556,Paddy,ADT 43,FAQ,33.9,2000.87,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0557,Synthetic Buyer 0557,Paddy,ADT 37,Local,9.0,1694.32,Thiruppananthal,,,True,True,True
+B-SYN-0558,Synthetic Buyer 0558,Paddy,Paddy,FAQ,6.2,1824.9,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0559,Synthetic Buyer 0559,Paddy,ADT 37,FAQ,23.6,1754.03,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0560,Synthetic Buyer 0560,Paddy,ADT 37,FAQ,47.6,2014.42,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0561,Synthetic Buyer 0561,Paddy,Paddy,FAQ,32.5,1634.06,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0562,Synthetic Buyer 0562,Paddy,Ponni,Local,91.4,2250.17,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0563,Synthetic Buyer 0563,Paddy,Culture,FAQ,18.7,1496.55,Thiruppananthal,,,True,True,True
+B-SYN-0564,Synthetic Buyer 0564,Paddy,Other,Local,99.1,1902.04,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0565,Synthetic Buyer 0565,Paddy,Ponni,Local,87.9,2225.21,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0566,Synthetic Buyer 0566,Paddy,ADT 43,Local,79.6,2049.06,Vallam,10.714,79.702,True,True,True
+B-SYN-0567,Synthetic Buyer 0567,Paddy,ADT 43,FAQ,76.0,2271.67,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0568,Synthetic Buyer 0568,Paddy,Culture,FAQ,32.6,2029.43,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0569,Synthetic Buyer 0569,Paddy,ADT 37,FAQ,218.9,1957.65,Vallam,10.714,79.702,False,True,True
+B-SYN-0570,Synthetic Buyer 0570,Paddy,Culture,FAQ,97.4,2084.59,Thanjavur,10.787,79.1378,True,False,True
+B-SYN-0571,Synthetic Buyer 0571,Paddy,Culture,FAQ,27.7,1879.07,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0572,Synthetic Buyer 0572,Paddy,Other,Local,88.6,2343.56,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0573,Synthetic Buyer 0573,Paddy,ADT 37,Local,35.9,1913.97,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0574,Synthetic Buyer 0574,Paddy,ADT 37,Local,21.6,1788.0,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0575,Synthetic Buyer 0575,Paddy,Paddy,FAQ,15.7,1723.32,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0576,Synthetic Buyer 0576,Paddy,I.R. 49,FAQ,22.5,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0577,Synthetic Buyer 0577,Paddy,Ponni,Local,18.8,1838.61,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0578,Synthetic Buyer 0578,Paddy,Other,Local,38.2,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0579,Synthetic Buyer 0579,Paddy,ADT 37,FAQ,65.9,2022.06,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0580,Synthetic Buyer 0580,Paddy,ADT 37,FAQ,20.4,2318.92,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0581,Synthetic Buyer 0581,Paddy,B P T,Local,221.4,1877.68,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0582,Synthetic Buyer 0582,Paddy,1001,FAQ,31.8,1649.68,Vallam,10.714,79.702,False,True,True
+B-SYN-0583,Synthetic Buyer 0583,Paddy,Other,FAQ,38.9,1906.74,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0584,Synthetic Buyer 0584,Paddy,Other,Local,73.4,2293.81,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0585,Synthetic Buyer 0585,Paddy,B P T,FAQ,89.6,1841.94,Vallam,10.714,79.702,True,True,True
+B-SYN-0586,Synthetic Buyer 0586,Paddy,ADT 37,Local,78.3,1761.59,Vallam,10.714,79.702,False,True,True
+B-SYN-0587,Synthetic Buyer 0587,Paddy,Other,Local,9.9,2550.0,Vallam,10.714,79.702,True,True,True
+B-SYN-0588,Synthetic Buyer 0588,Paddy,1001,FAQ,22.1,1893.81,Vallam,10.714,79.702,True,True,True
+B-SYN-0589,Synthetic Buyer 0589,Paddy,Ponni,Local,93.4,1479.8,Papanasam,10.9252,79.2708,True,False,True
+B-SYN-0590,Synthetic Buyer 0590,Paddy,Other,FAQ,236.3,2550.0,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0591,Synthetic Buyer 0591,Paddy,B P T,Local,159.7,2192.75,Thiruppananthal,,,False,True,True
+B-SYN-0592,Synthetic Buyer 0592,Paddy,Paddy,FAQ,17.8,1603.97,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0593,Synthetic Buyer 0593,Paddy,Ponni,Local,25.3,1896.36,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0594,Synthetic Buyer 0594,Paddy,B P T,FAQ,237.5,1734.27,Vallam,10.714,79.702,True,True,True
+B-SYN-0595,Synthetic Buyer 0595,Paddy,Culture,FAQ,16.3,1645.63,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0596,Synthetic Buyer 0596,Paddy,I.R. 49,Local,61.6,1690.09,Thiruppananthal,,,True,True,True
+B-SYN-0597,Synthetic Buyer 0597,Paddy,1001,FAQ,79.7,1361.5,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0598,Synthetic Buyer 0598,Paddy,B P T,FAQ,147.1,2318.01,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0599,Synthetic Buyer 0599,Paddy,ADT 43,FAQ,99.1,2296.26,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0600,Synthetic Buyer 0600,Paddy,Paddy,FAQ,91.1,1779.86,Thiruppananthal,,,True,False,True
+B-SYN-0601,Synthetic Buyer 0601,Paddy,Ponni,FAQ,45.6,1590.54,Vallam,10.714,79.702,False,True,True
+B-SYN-0602,Synthetic Buyer 0602,Paddy,Ponni,Local,10.1,2275.34,Thanjavur,10.787,79.1378,True,False,True
+B-SYN-0603,Synthetic Buyer 0603,Paddy,1001,FAQ,46.8,1757.79,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0604,Synthetic Buyer 0604,Paddy,Other,Local,19.3,2550.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0605,Synthetic Buyer 0605,Paddy,Ponni,Local,10.7,1819.1,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0606,Synthetic Buyer 0606,Paddy,1001,FAQ,86.4,1911.51,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0607,Synthetic Buyer 0607,Paddy,Other,Local,76.5,2461.04,Vallam,10.714,79.702,False,True,True
+B-SYN-0608,Synthetic Buyer 0608,Paddy,Other,Local,54.7,2468.27,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0609,Synthetic Buyer 0609,Paddy,Paddy,FAQ,65.0,1784.0,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0610,Synthetic Buyer 0610,Paddy,B P T,FAQ,248.9,1813.35,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0611,Synthetic Buyer 0611,Paddy,1001,Local,216.3,1588.25,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0612,Synthetic Buyer 0612,Paddy,Culture,Local,81.0,1711.76,Papanasam,10.9252,79.2708,False,False,True
+B-SYN-0613,Synthetic Buyer 0613,Paddy,B P T,FAQ,68.3,1697.19,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0614,Synthetic Buyer 0614,Paddy,ADT 43,Local,23.9,2484.64,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0615,Synthetic Buyer 0615,Paddy,Other,FAQ,68.2,2550.0,Thanjavur,10.787,79.1378,False,False,True
+B-SYN-0616,Synthetic Buyer 0616,Paddy,ADT 43,FAQ,107.0,1846.63,Vallam,10.714,79.702,True,False,True
+B-SYN-0617,Synthetic Buyer 0617,Paddy,I.R. 49,FAQ,184.1,1871.72,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0618,Synthetic Buyer 0618,Paddy,Other,Local,37.7,2206.15,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0619,Synthetic Buyer 0619,Paddy,Paddy,FAQ,95.7,1714.1,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0620,Synthetic Buyer 0620,Paddy,Paddy,FAQ,150.5,1802.13,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0621,Synthetic Buyer 0621,Paddy,I.R. 49,FAQ,43.6,1912.36,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0622,Synthetic Buyer 0622,Paddy,ADT 37,Local,65.2,1823.1,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0623,Synthetic Buyer 0623,Paddy,Other,Local,64.0,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0624,Synthetic Buyer 0624,Paddy,Other,Local,39.4,2550.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0625,Synthetic Buyer 0625,Paddy,ADT 43,Local,55.8,1790.04,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0626,Synthetic Buyer 0626,Paddy,1001,Local,40.0,1784.69,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0627,Synthetic Buyer 0627,Paddy,1001,FAQ,70.9,1361.5,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0628,Synthetic Buyer 0628,Paddy,I.R. 49,FAQ,80.2,1862.25,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0629,Synthetic Buyer 0629,Paddy,Paddy,FAQ,76.6,1805.75,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0630,Synthetic Buyer 0630,Paddy,Ponni,Local,229.0,1786.21,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0631,Synthetic Buyer 0631,Paddy,I.R. 49,Local,86.9,1881.31,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0632,Synthetic Buyer 0632,Paddy,ADT 43,FAQ,73.3,1804.91,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0633,Synthetic Buyer 0633,Paddy,Ponni,Local,29.9,2055.77,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0634,Synthetic Buyer 0634,Paddy,Other,Local,72.0,2550.0,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0635,Synthetic Buyer 0635,Paddy,I.R. 49,FAQ,10.5,2271.0,Vallam,10.714,79.702,False,True,True
+B-SYN-0636,Synthetic Buyer 0636,Paddy,1001,FAQ,7.9,1477.28,Papanasam,10.9252,79.2708,True,False,True
+B-SYN-0637,Synthetic Buyer 0637,Paddy,ADT 37,FAQ,195.8,1487.08,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0638,Synthetic Buyer 0638,Paddy,Culture,FAQ,232.7,2003.52,Vallam,10.714,79.702,True,True,True
+B-SYN-0639,Synthetic Buyer 0639,Paddy,B P T,FAQ,77.9,1850.72,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0640,Synthetic Buyer 0640,Paddy,I.R. 49,FAQ,66.2,1969.52,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0641,Synthetic Buyer 0641,Paddy,B P T,Local,194.1,2072.44,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0642,Synthetic Buyer 0642,Paddy,1001,FAQ,78.3,1738.45,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0643,Synthetic Buyer 0643,Paddy,1001,FAQ,243.1,1920.25,Vallam,10.714,79.702,True,True,True
+B-SYN-0644,Synthetic Buyer 0644,Paddy,Paddy,FAQ,37.2,1861.57,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0645,Synthetic Buyer 0645,Paddy,Ponni,Local,80.5,1961.85,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0646,Synthetic Buyer 0646,Paddy,Paddy,FAQ,27.1,1777.99,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0647,Synthetic Buyer 0647,Paddy,I.R. 49,Local,7.6,1564.59,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0648,Synthetic Buyer 0648,Paddy,ADT 43,Local,48.2,1912.16,Vallam,10.714,79.702,False,True,True
+B-SYN-0649,Synthetic Buyer 0649,Paddy,ADT 43,FAQ,72.5,1691.99,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0650,Synthetic Buyer 0650,Paddy,Paddy,FAQ,155.0,1861.84,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0651,Synthetic Buyer 0651,Paddy,ADT 37,Local,25.8,1813.94,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0652,Synthetic Buyer 0652,Paddy,B P T,Local,199.2,2061.2,Thanjavur,10.787,79.1378,False,False,True
+B-SYN-0653,Synthetic Buyer 0653,Paddy,Paddy,FAQ,76.6,1780.53,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0654,Synthetic Buyer 0654,Paddy,Culture,Local,52.0,1882.69,Vallam,10.714,79.702,True,True,True
+B-SYN-0655,Synthetic Buyer 0655,Paddy,ADT 43,Local,37.6,2083.2,Vallam,10.714,79.702,True,True,True
+B-SYN-0656,Synthetic Buyer 0656,Paddy,I.R. 49,FAQ,230.6,2201.17,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0657,Synthetic Buyer 0657,Paddy,Other,Local,64.4,1877.8,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0658,Synthetic Buyer 0658,Paddy,1001,FAQ,10.3,1772.3,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0659,Synthetic Buyer 0659,Paddy,1001,Local,12.7,1782.2,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0660,Synthetic Buyer 0660,Paddy,B P T,Local,76.8,1558.44,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0661,Synthetic Buyer 0661,Paddy,ADT 37,Local,40.5,1755.03,Orathanadu,10.628,79.2531,False,False,True
+B-SYN-0662,Synthetic Buyer 0662,Paddy,Culture,FAQ,96.4,1701.53,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0663,Synthetic Buyer 0663,Paddy,Paddy,Local,79.6,1661.38,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0664,Synthetic Buyer 0664,Paddy,ADT 37,Local,225.7,2016.19,Thiruppananthal,,,True,False,True
+B-SYN-0665,Synthetic Buyer 0665,Paddy,B P T,Local,44.6,1424.47,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0666,Synthetic Buyer 0666,Paddy,Other,Local,81.6,2550.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0667,Synthetic Buyer 0667,Paddy,1001,Local,81.6,1361.5,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0668,Synthetic Buyer 0668,Paddy,Culture,FAQ,53.0,1961.63,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0669,Synthetic Buyer 0669,Paddy,ADT 37,Local,15.0,1787.56,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0670,Synthetic Buyer 0670,Paddy,ADT 37,Local,43.4,2368.78,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0671,Synthetic Buyer 0671,Paddy,ADT 43,Local,5.9,1758.05,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0672,Synthetic Buyer 0672,Paddy,Other,Local,174.4,2357.57,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0673,Synthetic Buyer 0673,Paddy,Culture,FAQ,21.5,1937.87,Thanjavur,10.787,79.1378,False,False,True
+B-SYN-0674,Synthetic Buyer 0674,Paddy,B P T,FAQ,90.1,1881.96,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0675,Synthetic Buyer 0675,Paddy,B P T,FAQ,28.1,2003.8,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0676,Synthetic Buyer 0676,Paddy,I.R. 49,FAQ,19.8,1828.46,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0677,Synthetic Buyer 0677,Paddy,Other,Local,17.5,1587.98,Thiruppananthal,,,False,True,True
+B-SYN-0678,Synthetic Buyer 0678,Paddy,I.R. 49,FAQ,35.3,1894.86,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0679,Synthetic Buyer 0679,Paddy,I.R. 49,FAQ,89.5,1551.63,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0680,Synthetic Buyer 0680,Paddy,1001,Local,82.5,1913.72,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0681,Synthetic Buyer 0681,Paddy,ADT 43,FAQ,15.7,2000.21,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0682,Synthetic Buyer 0682,Paddy,Paddy,Local,39.0,1767.67,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0683,Synthetic Buyer 0683,Paddy,Culture,Local,143.7,1861.66,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0684,Synthetic Buyer 0684,Paddy,Other,Local,6.2,2379.46,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0685,Synthetic Buyer 0685,Paddy,Paddy,FAQ,68.6,1986.5,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0686,Synthetic Buyer 0686,Paddy,Culture,FAQ,102.3,1855.85,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0687,Synthetic Buyer 0687,Paddy,I.R. 49,FAQ,27.5,1712.27,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0688,Synthetic Buyer 0688,Paddy,Other,Local,76.5,2201.86,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0689,Synthetic Buyer 0689,Paddy,ADT 43,Local,17.5,1777.29,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0690,Synthetic Buyer 0690,Paddy,ADT 37,Local,6.3,2056.74,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0691,Synthetic Buyer 0691,Paddy,Paddy,FAQ,10.7,2022.55,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0692,Synthetic Buyer 0692,Paddy,1001,FAQ,39.9,1617.09,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0693,Synthetic Buyer 0693,Paddy,ADT 37,FAQ,40.0,2464.51,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0694,Synthetic Buyer 0694,Paddy,ADT 43,Local,79.5,1673.9,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0695,Synthetic Buyer 0695,Paddy,I.R. 49,FAQ,64.8,1720.54,Vallam,10.714,79.702,False,True,True
+B-SYN-0696,Synthetic Buyer 0696,Paddy,ADT 43,Local,88.8,2440.96,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0697,Synthetic Buyer 0697,Paddy,1001,FAQ,33.0,1825.14,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0698,Synthetic Buyer 0698,Paddy,Culture,FAQ,9.6,2421.88,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0699,Synthetic Buyer 0699,Paddy,Culture,Local,27.2,1950.64,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0700,Synthetic Buyer 0700,Paddy,ADT 43,FAQ,221.0,2088.85,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0701,Synthetic Buyer 0701,Paddy,Other,FAQ,35.1,2550.0,Vallam,10.714,79.702,True,True,True
+B-SYN-0702,Synthetic Buyer 0702,Paddy,B P T,Local,9.4,1940.26,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0703,Synthetic Buyer 0703,Paddy,1001,FAQ,90.7,1850.47,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0704,Synthetic Buyer 0704,Paddy,B P T,FAQ,9.8,1732.57,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0705,Synthetic Buyer 0705,Paddy,1001,FAQ,106.6,1656.28,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0706,Synthetic Buyer 0706,Paddy,Other,Local,62.5,2295.0,Thiruppananthal,,,True,True,True
+B-SYN-0707,Synthetic Buyer 0707,Paddy,ADT 43,FAQ,36.1,1488.6,Vallam,10.714,79.702,True,True,True
+B-SYN-0708,Synthetic Buyer 0708,Paddy,Culture,FAQ,52.8,1944.94,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0709,Synthetic Buyer 0709,Paddy,Paddy,FAQ,117.8,1668.57,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0710,Synthetic Buyer 0710,Paddy,B P T,FAQ,86.2,1938.86,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0711,Synthetic Buyer 0711,Paddy,ADT 37,Local,19.6,1721.8,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0712,Synthetic Buyer 0712,Paddy,B P T,FAQ,88.2,1754.17,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0713,Synthetic Buyer 0713,Paddy,B P T,FAQ,71.7,1994.24,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0714,Synthetic Buyer 0714,Paddy,Culture,Local,58.0,1511.31,Thiruppananthal,,,True,True,True
+B-SYN-0715,Synthetic Buyer 0715,Paddy,Ponni,Local,218.5,2550.0,Thanjavur,10.787,79.1378,False,False,True
+B-SYN-0716,Synthetic Buyer 0716,Paddy,Ponni,Local,94.8,1707.15,Kumbakonam,10.9617,79.388,False,False,True
+B-SYN-0717,Synthetic Buyer 0717,Paddy,ADT 43,Local,53.4,1889.69,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0718,Synthetic Buyer 0718,Paddy,1001,FAQ,42.8,1765.67,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0719,Synthetic Buyer 0719,Paddy,Paddy,FAQ,47.5,2053.97,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0720,Synthetic Buyer 0720,Paddy,ADT 37,Local,99.2,2029.51,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0721,Synthetic Buyer 0721,Paddy,I.R. 49,FAQ,29.6,1859.98,Vallam,10.714,79.702,True,True,True
+B-SYN-0722,Synthetic Buyer 0722,Paddy,Paddy,FAQ,98.5,2016.23,Vallam,10.714,79.702,True,True,True
+B-SYN-0723,Synthetic Buyer 0723,Paddy,ADT 43,Local,11.8,1361.5,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0724,Synthetic Buyer 0724,Paddy,Paddy,Local,95.8,1800.29,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0725,Synthetic Buyer 0725,Paddy,Culture,FAQ,73.9,1921.17,Vallam,10.714,79.702,True,True,True
+B-SYN-0726,Synthetic Buyer 0726,Paddy,Culture,FAQ,79.6,1906.35,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0727,Synthetic Buyer 0727,Paddy,Other,FAQ,66.1,2550.0,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0728,Synthetic Buyer 0728,Paddy,Ponni,Local,73.9,1809.92,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0729,Synthetic Buyer 0729,Paddy,B P T,FAQ,27.2,2175.44,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0730,Synthetic Buyer 0730,Paddy,ADT 37,Local,66.4,1966.36,Vallam,10.714,79.702,True,True,True
+B-SYN-0731,Synthetic Buyer 0731,Paddy,Other,Local,32.4,2476.24,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0732,Synthetic Buyer 0732,Paddy,Ponni,Local,38.8,1770.47,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0733,Synthetic Buyer 0733,Paddy,1001,Local,69.1,1767.9,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0734,Synthetic Buyer 0734,Paddy,1001,FAQ,39.9,1487.1,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0735,Synthetic Buyer 0735,Paddy,I.R. 49,FAQ,42.2,1954.24,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0736,Synthetic Buyer 0736,Paddy,Ponni,Local,18.0,2070.08,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0737,Synthetic Buyer 0737,Paddy,1001,FAQ,55.1,2010.66,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0738,Synthetic Buyer 0738,Paddy,I.R. 49,FAQ,90.1,1780.92,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0739,Synthetic Buyer 0739,Paddy,B P T,FAQ,78.7,1914.12,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0740,Synthetic Buyer 0740,Paddy,Culture,FAQ,97.0,1866.2,Vallam,10.714,79.702,True,False,True
+B-SYN-0741,Synthetic Buyer 0741,Paddy,ADT 43,Local,11.0,2391.6,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0742,Synthetic Buyer 0742,Paddy,B P T,FAQ,49.8,2050.94,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0743,Synthetic Buyer 0743,Paddy,Other,Local,41.1,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0744,Synthetic Buyer 0744,Paddy,ADT 43,Local,17.1,2283.26,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0745,Synthetic Buyer 0745,Paddy,ADT 37,Local,171.0,2312.65,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0746,Synthetic Buyer 0746,Paddy,Ponni,FAQ,132.2,1811.95,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0747,Synthetic Buyer 0747,Paddy,I.R. 49,FAQ,23.2,2045.84,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0748,Synthetic Buyer 0748,Paddy,ADT 43,Local,70.9,2002.11,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0749,Synthetic Buyer 0749,Paddy,Paddy,Local,64.9,1644.07,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0750,Synthetic Buyer 0750,Paddy,B P T,FAQ,43.8,1855.65,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0751,Synthetic Buyer 0751,Paddy,I.R. 49,FAQ,209.6,1868.73,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0752,Synthetic Buyer 0752,Paddy,Paddy,FAQ,52.3,2063.52,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0753,Synthetic Buyer 0753,Paddy,Culture,FAQ,69.2,1696.16,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0754,Synthetic Buyer 0754,Paddy,Culture,FAQ,191.1,1666.38,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0755,Synthetic Buyer 0755,Paddy,ADT 43,FAQ,58.6,2109.67,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0756,Synthetic Buyer 0756,Paddy,I.R. 49,Local,13.1,1429.14,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0757,Synthetic Buyer 0757,Paddy,Culture,FAQ,68.7,2015.57,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0758,Synthetic Buyer 0758,Paddy,ADT 37,FAQ,8.6,2030.94,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0759,Synthetic Buyer 0759,Paddy,1001,FAQ,20.0,1729.76,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0760,Synthetic Buyer 0760,Paddy,Paddy,Local,99.1,2050.9,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0761,Synthetic Buyer 0761,Paddy,ADT 37,Local,227.1,2273.05,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0762,Synthetic Buyer 0762,Paddy,Other,Local,78.7,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0763,Synthetic Buyer 0763,Paddy,Other,Local,41.1,2326.91,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0764,Synthetic Buyer 0764,Paddy,I.R. 49,FAQ,76.7,2127.75,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0765,Synthetic Buyer 0765,Paddy,ADT 37,Local,63.4,2223.23,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0766,Synthetic Buyer 0766,Paddy,Ponni,Local,90.1,2023.79,Thiruppananthal,,,True,True,True
+B-SYN-0767,Synthetic Buyer 0767,Paddy,1001,FAQ,69.1,1504.95,Thanjavur,10.787,79.1378,False,False,True
+B-SYN-0768,Synthetic Buyer 0768,Paddy,Culture,FAQ,13.7,2152.69,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0769,Synthetic Buyer 0769,Paddy,ADT 43,Local,36.0,1579.96,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0770,Synthetic Buyer 0770,Paddy,Other,Local,210.7,2006.82,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0771,Synthetic Buyer 0771,Paddy,Culture,FAQ,51.0,1961.2,Thiruppananthal,,,True,False,True
+B-SYN-0772,Synthetic Buyer 0772,Paddy,Culture,FAQ,57.5,1757.82,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0773,Synthetic Buyer 0773,Paddy,I.R. 49,FAQ,31.0,1361.5,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0774,Synthetic Buyer 0774,Paddy,Paddy,FAQ,81.4,1868.92,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0775,Synthetic Buyer 0775,Paddy,Paddy,FAQ,17.1,1793.67,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0776,Synthetic Buyer 0776,Paddy,ADT 43,FAQ,206.0,1993.67,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0777,Synthetic Buyer 0777,Paddy,Culture,FAQ,27.1,2199.06,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0778,Synthetic Buyer 0778,Paddy,ADT 37,Local,56.1,2228.41,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0779,Synthetic Buyer 0779,Paddy,ADT 37,Local,184.5,2001.71,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0780,Synthetic Buyer 0780,Paddy,ADT 43,Local,134.5,2082.14,Vallam,10.714,79.702,True,True,True
+B-SYN-0781,Synthetic Buyer 0781,Paddy,I.R. 49,FAQ,97.7,2250.67,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0782,Synthetic Buyer 0782,Paddy,B P T,FAQ,54.7,1900.28,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0783,Synthetic Buyer 0783,Paddy,ADT 43,Local,95.9,1671.2,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0784,Synthetic Buyer 0784,Paddy,1001,FAQ,57.7,1676.17,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0785,Synthetic Buyer 0785,Paddy,ADT 43,FAQ,63.3,2026.21,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0786,Synthetic Buyer 0786,Paddy,I.R. 49,FAQ,96.2,2016.67,Vallam,10.714,79.702,False,False,True
+B-SYN-0787,Synthetic Buyer 0787,Paddy,I.R. 49,FAQ,95.4,2231.71,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0788,Synthetic Buyer 0788,Paddy,ADT 43,Local,203.4,1707.63,Vallam,10.714,79.702,True,True,True
+B-SYN-0789,Synthetic Buyer 0789,Paddy,ADT 43,Local,160.0,1843.75,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0790,Synthetic Buyer 0790,Paddy,ADT 37,Local,9.9,1768.62,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0791,Synthetic Buyer 0791,Paddy,Other,Local,50.8,2336.23,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0792,Synthetic Buyer 0792,Paddy,Culture,Local,245.3,2046.71,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0793,Synthetic Buyer 0793,Paddy,Ponni,Local,57.3,1636.23,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0794,Synthetic Buyer 0794,Paddy,I.R. 49,FAQ,244.8,2053.16,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0795,Synthetic Buyer 0795,Paddy,ADT 37,Local,39.8,1968.4,Thiruppananthal,,,True,True,True
+B-SYN-0796,Synthetic Buyer 0796,Paddy,Culture,Local,30.9,2211.3,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0797,Synthetic Buyer 0797,Paddy,Culture,Local,92.3,1679.48,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0798,Synthetic Buyer 0798,Paddy,ADT 37,Local,53.8,1796.85,Vallam,10.714,79.702,True,True,True
+B-SYN-0799,Synthetic Buyer 0799,Paddy,Paddy,Local,35.5,1902.18,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0800,Synthetic Buyer 0800,Paddy,1001,FAQ,51.6,1797.11,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0801,Synthetic Buyer 0801,Paddy,ADT 43,Local,28.7,1813.75,Vallam,10.714,79.702,True,True,True
+B-SYN-0802,Synthetic Buyer 0802,Paddy,ADT 43,FAQ,28.4,2045.91,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0803,Synthetic Buyer 0803,Paddy,ADT 43,FAQ,46.4,1778.72,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0804,Synthetic Buyer 0804,Paddy,ADT 37,Local,80.6,1640.06,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0805,Synthetic Buyer 0805,Paddy,1001,FAQ,14.9,1707.03,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0806,Synthetic Buyer 0806,Paddy,ADT 43,Local,30.1,1779.74,Vallam,10.714,79.702,True,True,True
+B-SYN-0807,Synthetic Buyer 0807,Paddy,B P T,FAQ,10.1,1803.23,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0808,Synthetic Buyer 0808,Paddy,Culture,FAQ,30.2,1794.94,Vallam,10.714,79.702,True,False,True
+B-SYN-0809,Synthetic Buyer 0809,Paddy,Paddy,FAQ,29.8,2036.69,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0810,Synthetic Buyer 0810,Paddy,Other,Local,53.6,2448.32,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0811,Synthetic Buyer 0811,Paddy,Culture,Local,64.5,1863.14,Vallam,10.714,79.702,True,True,True
+B-SYN-0812,Synthetic Buyer 0812,Paddy,ADT 37,Local,30.7,1479.32,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0813,Synthetic Buyer 0813,Paddy,B P T,FAQ,47.7,2125.78,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0814,Synthetic Buyer 0814,Paddy,Culture,FAQ,86.1,2000.14,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0815,Synthetic Buyer 0815,Paddy,ADT 43,Local,80.4,1818.67,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0816,Synthetic Buyer 0816,Paddy,I.R. 49,FAQ,48.2,1913.57,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0817,Synthetic Buyer 0817,Paddy,Paddy,FAQ,55.0,1834.91,Thiruppananthal,,,True,True,True
+B-SYN-0818,Synthetic Buyer 0818,Paddy,ADT 43,FAQ,69.3,1805.87,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0819,Synthetic Buyer 0819,Paddy,Culture,Local,43.0,1759.91,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0820,Synthetic Buyer 0820,Paddy,Paddy,FAQ,19.3,1874.77,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0821,Synthetic Buyer 0821,Paddy,B P T,FAQ,165.1,1854.66,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0822,Synthetic Buyer 0822,Paddy,ADT 43,Local,92.6,1636.0,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0823,Synthetic Buyer 0823,Paddy,Ponni,Local,35.6,2488.55,Vallam,10.714,79.702,True,True,True
+B-SYN-0824,Synthetic Buyer 0824,Paddy,Paddy,FAQ,5.5,1669.13,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0825,Synthetic Buyer 0825,Paddy,ADT 37,Local,29.2,2347.75,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0826,Synthetic Buyer 0826,Paddy,Ponni,Local,21.7,1361.5,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0827,Synthetic Buyer 0827,Paddy,ADT 37,Local,84.2,1690.41,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0828,Synthetic Buyer 0828,Paddy,1001,Local,23.2,1528.32,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0829,Synthetic Buyer 0829,Paddy,ADT 43,Local,125.8,1871.05,Vallam,10.714,79.702,False,True,True
+B-SYN-0830,Synthetic Buyer 0830,Paddy,ADT 37,FAQ,36.4,1967.72,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0831,Synthetic Buyer 0831,Paddy,ADT 43,Local,9.9,1893.7,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0832,Synthetic Buyer 0832,Paddy,B P T,FAQ,202.0,2008.81,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0833,Synthetic Buyer 0833,Paddy,1001,Local,65.0,1435.63,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0834,Synthetic Buyer 0834,Paddy,Paddy,FAQ,212.4,2105.97,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0835,Synthetic Buyer 0835,Paddy,1001,Local,29.3,1361.5,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0836,Synthetic Buyer 0836,Paddy,Ponni,Local,72.4,2212.59,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0837,Synthetic Buyer 0837,Paddy,Paddy,Local,5.9,1637.36,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0838,Synthetic Buyer 0838,Paddy,B P T,FAQ,41.3,1870.39,Thiruppananthal,,,True,True,True
+B-SYN-0839,Synthetic Buyer 0839,Paddy,Ponni,Local,210.2,1770.19,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0840,Synthetic Buyer 0840,Paddy,B P T,FAQ,5.9,1580.94,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0841,Synthetic Buyer 0841,Paddy,Other,FAQ,23.2,1567.33,Pattukottai,10.425,79.314,False,True,True
+B-SYN-0842,Synthetic Buyer 0842,Paddy,Ponni,Local,61.8,1794.05,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0843,Synthetic Buyer 0843,Paddy,1001,FAQ,145.3,1361.5,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0844,Synthetic Buyer 0844,Paddy,Culture,FAQ,17.4,1627.15,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0845,Synthetic Buyer 0845,Paddy,Paddy,FAQ,36.4,1690.66,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0846,Synthetic Buyer 0846,Paddy,Ponni,Local,46.3,1417.52,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0847,Synthetic Buyer 0847,Paddy,Culture,Local,61.8,1734.84,Thiruppananthal,,,True,True,True
+B-SYN-0848,Synthetic Buyer 0848,Paddy,Culture,FAQ,29.6,2055.57,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0849,Synthetic Buyer 0849,Paddy,ADT 37,Local,10.4,1903.94,Vallam,10.714,79.702,True,True,True
+B-SYN-0850,Synthetic Buyer 0850,Paddy,ADT 37,Local,220.9,1959.2,Thiruppananthal,,,True,True,True
+B-SYN-0851,Synthetic Buyer 0851,Paddy,ADT 43,Local,91.9,1886.8,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0852,Synthetic Buyer 0852,Paddy,ADT 43,Local,200.6,1884.49,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0853,Synthetic Buyer 0853,Paddy,1001,FAQ,39.8,1666.37,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0854,Synthetic Buyer 0854,Paddy,Paddy,FAQ,53.9,1687.04,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0855,Synthetic Buyer 0855,Paddy,I.R. 49,FAQ,22.3,1773.57,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0856,Synthetic Buyer 0856,Paddy,ADT 37,Local,70.8,1925.75,Vallam,10.714,79.702,True,True,True
+B-SYN-0857,Synthetic Buyer 0857,Paddy,ADT 43,Local,44.6,2514.1,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0858,Synthetic Buyer 0858,Paddy,B P T,FAQ,65.3,2243.13,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0859,Synthetic Buyer 0859,Paddy,B P T,FAQ,215.8,1826.48,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0860,Synthetic Buyer 0860,Paddy,Culture,FAQ,66.5,2013.61,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0861,Synthetic Buyer 0861,Paddy,Other,FAQ,64.3,2550.0,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0862,Synthetic Buyer 0862,Paddy,ADT 43,FAQ,52.2,1841.63,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0863,Synthetic Buyer 0863,Paddy,Other,Local,63.4,2550.0,Thiruppananthal,,,False,True,True
+B-SYN-0864,Synthetic Buyer 0864,Paddy,1001,FAQ,79.1,1361.5,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0865,Synthetic Buyer 0865,Paddy,Paddy,FAQ,99.0,1828.7,Thiruppananthal,,,True,True,True
+B-SYN-0866,Synthetic Buyer 0866,Paddy,1001,FAQ,82.0,1480.58,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0867,Synthetic Buyer 0867,Paddy,Paddy,Local,61.7,2053.52,Thiruppananthal,,,False,True,True
+B-SYN-0868,Synthetic Buyer 0868,Paddy,Culture,FAQ,15.8,1742.42,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0869,Synthetic Buyer 0869,Paddy,ADT 37,Local,15.5,1850.35,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0870,Synthetic Buyer 0870,Paddy,Culture,FAQ,85.3,1947.95,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0871,Synthetic Buyer 0871,Paddy,Paddy,FAQ,17.1,1588.59,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0872,Synthetic Buyer 0872,Paddy,B P T,FAQ,27.1,2003.63,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0873,Synthetic Buyer 0873,Paddy,I.R. 49,Local,69.4,2130.56,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0874,Synthetic Buyer 0874,Paddy,B P T,Local,76.6,2550.0,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0875,Synthetic Buyer 0875,Paddy,Culture,FAQ,78.6,2018.66,Vallam,10.714,79.702,True,True,True
+B-SYN-0876,Synthetic Buyer 0876,Paddy,ADT 37,FAQ,21.5,2283.25,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0877,Synthetic Buyer 0877,Paddy,Ponni,Local,178.8,1837.69,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0878,Synthetic Buyer 0878,Paddy,ADT 43,Local,86.2,2005.29,Vallam,10.714,79.702,True,True,True
+B-SYN-0879,Synthetic Buyer 0879,Paddy,Culture,FAQ,16.2,1946.78,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0880,Synthetic Buyer 0880,Paddy,ADT 43,Local,74.8,2550.0,Vallam,10.714,79.702,True,True,True
+B-SYN-0881,Synthetic Buyer 0881,Paddy,1001,FAQ,22.9,1876.69,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0882,Synthetic Buyer 0882,Paddy,B P T,FAQ,147.2,2123.28,Pattukottai,10.425,79.314,True,False,True
+B-SYN-0883,Synthetic Buyer 0883,Paddy,Ponni,Local,42.0,1785.78,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0884,Synthetic Buyer 0884,Paddy,Other,Local,56.8,2075.24,Vallam,10.714,79.702,True,True,True
+B-SYN-0885,Synthetic Buyer 0885,Paddy,Paddy,FAQ,140.3,2047.25,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0886,Synthetic Buyer 0886,Paddy,I.R. 49,Local,51.4,1829.89,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0887,Synthetic Buyer 0887,Paddy,Other,FAQ,93.2,1579.2,Thiruppananthal,,,True,True,True
+B-SYN-0888,Synthetic Buyer 0888,Paddy,Culture,FAQ,27.1,1718.72,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0889,Synthetic Buyer 0889,Paddy,1001,FAQ,226.7,1820.66,Vallam,10.714,79.702,True,True,True
+B-SYN-0890,Synthetic Buyer 0890,Paddy,Other,FAQ,13.9,2550.0,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0891,Synthetic Buyer 0891,Paddy,Paddy,FAQ,8.6,1802.05,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0892,Synthetic Buyer 0892,Paddy,I.R. 49,FAQ,51.8,1884.17,Vallam,10.714,79.702,True,True,True
+B-SYN-0893,Synthetic Buyer 0893,Paddy,Paddy,FAQ,154.3,2000.92,Vallam,10.714,79.702,True,True,True
+B-SYN-0894,Synthetic Buyer 0894,Paddy,Ponni,Local,44.5,1860.92,Thiruppananthal,,,False,True,True
+B-SYN-0895,Synthetic Buyer 0895,Paddy,Culture,FAQ,36.3,1932.21,Vallam,10.714,79.702,True,True,True
+B-SYN-0896,Synthetic Buyer 0896,Paddy,Ponni,Local,59.4,1679.2,Vallam,10.714,79.702,True,True,True
+B-SYN-0897,Synthetic Buyer 0897,Paddy,B P T,Local,86.2,2127.93,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0898,Synthetic Buyer 0898,Paddy,B P T,FAQ,95.4,1750.59,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0899,Synthetic Buyer 0899,Paddy,B P T,FAQ,48.4,1827.3,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0900,Synthetic Buyer 0900,Paddy,Other,FAQ,30.8,1860.1,Vallam,10.714,79.702,False,True,True
+B-SYN-0901,Synthetic Buyer 0901,Paddy,1001,FAQ,49.5,1361.5,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0902,Synthetic Buyer 0902,Paddy,ADT 37,Local,231.5,1636.26,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0903,Synthetic Buyer 0903,Paddy,Ponni,FAQ,54.3,1788.78,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0904,Synthetic Buyer 0904,Paddy,1001,FAQ,19.8,1361.5,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0905,Synthetic Buyer 0905,Paddy,Other,Local,20.9,1798.22,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0906,Synthetic Buyer 0906,Paddy,Paddy,FAQ,18.7,1927.78,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0907,Synthetic Buyer 0907,Paddy,B P T,FAQ,177.4,1869.9,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0908,Synthetic Buyer 0908,Paddy,ADT 37,Local,63.1,1932.62,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0909,Synthetic Buyer 0909,Paddy,Culture,FAQ,42.2,1969.74,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0910,Synthetic Buyer 0910,Paddy,1001,FAQ,103.4,1852.62,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0911,Synthetic Buyer 0911,Paddy,I.R. 49,FAQ,26.4,1956.43,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0912,Synthetic Buyer 0912,Paddy,B P T,FAQ,18.3,1843.99,Vallam,10.714,79.702,True,True,True
+B-SYN-0913,Synthetic Buyer 0913,Paddy,ADT 43,Local,9.1,2243.48,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0914,Synthetic Buyer 0914,Paddy,Ponni,Local,23.8,1699.76,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0915,Synthetic Buyer 0915,Paddy,B P T,Local,10.2,2490.92,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0916,Synthetic Buyer 0916,Paddy,I.R. 49,Local,203.7,2293.47,Orathanadu,10.628,79.2531,False,True,True
+B-SYN-0917,Synthetic Buyer 0917,Paddy,Paddy,FAQ,191.4,1722.31,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0918,Synthetic Buyer 0918,Paddy,ADT 43,Local,38.9,2128.36,Vallam,10.714,79.702,False,True,True
+B-SYN-0919,Synthetic Buyer 0919,Paddy,Other,Local,71.7,2263.81,Thiruppananthal,,,True,True,True
+B-SYN-0920,Synthetic Buyer 0920,Paddy,Other,Local,15.9,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0921,Synthetic Buyer 0921,Paddy,Culture,FAQ,50.2,1953.83,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0922,Synthetic Buyer 0922,Paddy,Culture,FAQ,199.6,2118.78,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0923,Synthetic Buyer 0923,Paddy,Other,Local,86.2,2079.2,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0924,Synthetic Buyer 0924,Paddy,I.R. 49,Local,106.0,1883.68,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0925,Synthetic Buyer 0925,Paddy,I.R. 49,FAQ,34.2,1797.88,Vallam,10.714,79.702,True,True,True
+B-SYN-0926,Synthetic Buyer 0926,Paddy,Culture,FAQ,72.0,1876.91,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0927,Synthetic Buyer 0927,Paddy,I.R. 49,FAQ,25.6,1899.72,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0928,Synthetic Buyer 0928,Paddy,1001,FAQ,45.6,1752.18,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0929,Synthetic Buyer 0929,Paddy,Culture,FAQ,65.2,1819.84,Vallam,10.714,79.702,True,True,True
+B-SYN-0930,Synthetic Buyer 0930,Paddy,Ponni,FAQ,96.3,2229.19,Orathanadu,10.628,79.2531,True,False,True
+B-SYN-0931,Synthetic Buyer 0931,Paddy,Culture,FAQ,238.7,1935.42,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0932,Synthetic Buyer 0932,Paddy,Paddy,FAQ,7.7,1616.75,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0933,Synthetic Buyer 0933,Paddy,Paddy,FAQ,51.3,1865.23,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0934,Synthetic Buyer 0934,Paddy,Other,Local,53.4,2484.13,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0935,Synthetic Buyer 0935,Paddy,1001,FAQ,208.9,1599.71,Thiruppananthal,,,True,True,True
+B-SYN-0936,Synthetic Buyer 0936,Paddy,Other,Local,98.0,2202.94,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0937,Synthetic Buyer 0937,Paddy,Culture,FAQ,13.3,1745.23,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0938,Synthetic Buyer 0938,Paddy,ADT 43,Local,207.2,2496.44,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0939,Synthetic Buyer 0939,Paddy,ADT 37,Local,21.8,1802.87,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0940,Synthetic Buyer 0940,Paddy,B P T,Local,71.7,1529.07,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0941,Synthetic Buyer 0941,Paddy,Other,FAQ,34.5,2550.0,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0942,Synthetic Buyer 0942,Paddy,ADT 37,Local,6.1,2046.33,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0943,Synthetic Buyer 0943,Paddy,ADT 37,Local,33.4,2013.06,Vallam,10.714,79.702,True,True,True
+B-SYN-0944,Synthetic Buyer 0944,Paddy,1001,FAQ,22.1,1628.02,Vallam,10.714,79.702,False,True,True
+B-SYN-0945,Synthetic Buyer 0945,Paddy,1001,FAQ,13.5,1697.43,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0946,Synthetic Buyer 0946,Paddy,I.R. 49,Local,14.0,1862.42,Vallam,10.714,79.702,False,True,True
+B-SYN-0947,Synthetic Buyer 0947,Paddy,Ponni,FAQ,96.3,1748.15,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0948,Synthetic Buyer 0948,Paddy,ADT 43,FAQ,62.5,1796.06,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0949,Synthetic Buyer 0949,Paddy,ADT 43,FAQ,45.0,1842.86,Vallam,10.714,79.702,True,True,True
+B-SYN-0950,Synthetic Buyer 0950,Paddy,Culture,FAQ,77.7,1892.61,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0951,Synthetic Buyer 0951,Paddy,Paddy,FAQ,31.1,1677.76,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0952,Synthetic Buyer 0952,Paddy,Culture,FAQ,94.8,2036.32,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0953,Synthetic Buyer 0953,Paddy,Other,Local,11.2,2550.0,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0954,Synthetic Buyer 0954,Paddy,Paddy,FAQ,78.4,1809.38,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0955,Synthetic Buyer 0955,Paddy,ADT 43,Local,84.3,2277.93,Thanjavur,10.787,79.1378,False,False,True
+B-SYN-0956,Synthetic Buyer 0956,Paddy,Paddy,FAQ,34.7,1794.2,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0957,Synthetic Buyer 0957,Paddy,Culture,Local,39.4,1987.61,Thiruppananthal,,,False,True,True
+B-SYN-0958,Synthetic Buyer 0958,Paddy,ADT 43,Local,60.1,1616.55,Papanasam,10.9252,79.2708,False,False,True
+B-SYN-0959,Synthetic Buyer 0959,Paddy,1001,FAQ,69.4,1706.49,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0960,Synthetic Buyer 0960,Paddy,B P T,FAQ,19.9,1642.46,Kumbakonam,10.9617,79.388,True,True,True
+B-SYN-0961,Synthetic Buyer 0961,Paddy,ADT 37,Local,96.9,1831.5,Budalur,10.7968,78.9769,True,False,True
+B-SYN-0962,Synthetic Buyer 0962,Paddy,ADT 37,Local,65.0,2212.63,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0963,Synthetic Buyer 0963,Paddy,ADT 37,FAQ,54.0,2490.3,Papanasam,10.9252,79.2708,True,False,True
+B-SYN-0964,Synthetic Buyer 0964,Paddy,ADT 43,Local,57.8,1760.02,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0965,Synthetic Buyer 0965,Paddy,B P T,FAQ,85.1,2040.68,Vallam,10.714,79.702,False,True,True
+B-SYN-0966,Synthetic Buyer 0966,Paddy,ADT 37,FAQ,10.5,2298.21,Thanjavur,10.787,79.1378,True,True,True
+B-SYN-0967,Synthetic Buyer 0967,Paddy,B P T,FAQ,23.3,2222.15,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0968,Synthetic Buyer 0968,Paddy,Paddy,FAQ,35.5,1921.55,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0969,Synthetic Buyer 0969,Paddy,1001,FAQ,147.1,1958.46,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0970,Synthetic Buyer 0970,Paddy,Ponni,FAQ,34.8,1942.16,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0971,Synthetic Buyer 0971,Paddy,Ponni,FAQ,54.0,1848.43,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0972,Synthetic Buyer 0972,Paddy,B P T,Local,8.8,2463.78,Papanasam,10.9252,79.2708,True,True,True
+B-SYN-0973,Synthetic Buyer 0973,Paddy,B P T,FAQ,43.1,1864.68,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0974,Synthetic Buyer 0974,Paddy,1001,Local,60.2,1658.63,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0975,Synthetic Buyer 0975,Paddy,1001,Local,27.1,1842.65,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0976,Synthetic Buyer 0976,Paddy,Ponni,Local,52.9,1744.62,Vallam,10.714,79.702,False,False,True
+B-SYN-0977,Synthetic Buyer 0977,Paddy,I.R. 49,FAQ,18.0,2221.06,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0978,Synthetic Buyer 0978,Paddy,Ponni,Local,79.4,1613.43,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0979,Synthetic Buyer 0979,Paddy,Paddy,Local,14.5,1847.05,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0980,Synthetic Buyer 0980,Paddy,Ponni,Local,11.3,2052.98,Vallam,10.714,79.702,True,True,True
+B-SYN-0981,Synthetic Buyer 0981,Paddy,I.R. 49,FAQ,37.6,1929.77,Pattukottai,10.425,79.314,True,True,True
+B-SYN-0982,Synthetic Buyer 0982,Paddy,Paddy,Local,26.5,2050.81,Papanasam,10.9252,79.2708,False,True,True
+B-SYN-0983,Synthetic Buyer 0983,Paddy,I.R. 49,FAQ,32.1,1977.17,Budalur,10.7968,78.9769,True,True,True
+B-SYN-0984,Synthetic Buyer 0984,Paddy,ADT 37,FAQ,35.3,1565.44,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0985,Synthetic Buyer 0985,Paddy,B P T,FAQ,9.2,2098.45,Vallam,10.714,79.702,True,True,True
+B-SYN-0986,Synthetic Buyer 0986,Paddy,1001,FAQ,87.2,1765.97,Thiruppananthal,,,False,True,True
+B-SYN-0987,Synthetic Buyer 0987,Paddy,ADT 43,Local,37.4,1789.72,Kumbakonam,10.9617,79.388,True,False,True
+B-SYN-0988,Synthetic Buyer 0988,Paddy,1001,FAQ,12.2,1826.65,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0989,Synthetic Buyer 0989,Paddy,Culture,FAQ,68.4,1914.38,Budalur,10.7968,78.9769,False,False,True
+B-SYN-0990,Synthetic Buyer 0990,Paddy,1001,FAQ,76.5,1804.63,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0991,Synthetic Buyer 0991,Paddy,ADT 37,Local,47.7,1735.84,Orathanadu,10.628,79.2531,True,True,True
+B-SYN-0992,Synthetic Buyer 0992,Paddy,Paddy,FAQ,26.5,2101.53,Kumbakonam,10.9617,79.388,False,True,True
+B-SYN-0993,Synthetic Buyer 0993,Paddy,Culture,Local,18.8,1742.2,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0994,Synthetic Buyer 0994,Paddy,ADT 37,Local,7.7,2113.22,Thanjavur,10.787,79.1378,False,True,True
+B-SYN-0995,Synthetic Buyer 0995,Paddy,Culture,FAQ,21.6,1772.4,Vallam,10.714,79.702,True,True,True
+B-SYN-0996,Synthetic Buyer 0996,Paddy,Ponni,FAQ,63.1,1890.67,Vallam,10.714,79.702,False,True,True
+B-SYN-0997,Synthetic Buyer 0997,Paddy,Paddy,FAQ,67.2,1883.08,Papanasam,10.9252,79.2708,True,False,True
+B-SYN-0998,Synthetic Buyer 0998,Paddy,ADT 37,Local,52.2,1904.66,Budalur,10.7968,78.9769,False,True,True
+B-SYN-0999,Synthetic Buyer 0999,Paddy,ADT 37,Local,17.2,1906.92,Budalur,10.7968,78.9769,True,True,True
+B-SYN-1000,Synthetic Buyer 1000,Paddy,ADT 37,Local,45.8,2053.13,Budalur,10.7968,78.9769,False,False,True

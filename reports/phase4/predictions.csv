@@ -1,0 +1,913 @@
+date,market,split,model,actual,prediction
+2024-01-03,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-03,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-04,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-04,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-05,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-05,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-08,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-08,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-09,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-09,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-10,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-10,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-11,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-11,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-12,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-12,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-18,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-18,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-19,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-19,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-22,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-22,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-23,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-23,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-24,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-24,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-29,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-29,Budalur,validation,Moving Average 7,1850,1850.0
+2024-01-31,Budalur,validation,Naive Last Value,1850,1850.0
+2024-01-31,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-01,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-01,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-02,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-02,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-05,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-05,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-06,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-06,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-07,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-07,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-08,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-08,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-09,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-09,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-10,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-10,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-12,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-12,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-13,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-13,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-14,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-14,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-15,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-15,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-16,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-16,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-19,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-19,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-22,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-22,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-23,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-23,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-26,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-26,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-27,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-27,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-28,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-28,Budalur,validation,Moving Average 7,1850,1850.0
+2024-02-29,Budalur,validation,Naive Last Value,1850,1850.0
+2024-02-29,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-01,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-01,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-04,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-04,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-07,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-07,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-14,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-14,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-19,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-19,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-20,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-20,Budalur,validation,Moving Average 7,1850,1850.0
+2024-03-21,Budalur,validation,Naive Last Value,1850,1850.0
+2024-03-21,Budalur,validation,Moving Average 7,1850,1850.0
+2024-04-29,Budalur,validation,Naive Last Value,2000,1850.0
+2024-04-29,Budalur,validation,Moving Average 7,2000,1850.0
+2024-04-30,Budalur,validation,Naive Last Value,2000,2000.0
+2024-04-30,Budalur,validation,Moving Average 7,2000,1871.4285714285713
+2024-05-06,Budalur,validation,Naive Last Value,1900,2000.0
+2024-05-06,Budalur,validation,Moving Average 7,1900,1892.857142857143
+2024-05-07,Budalur,validation,Naive Last Value,2010,1900.0
+2024-05-07,Budalur,validation,Moving Average 7,2010,1900.0
+2024-05-08,Budalur,validation,Naive Last Value,2040,2010.0
+2024-05-08,Budalur,validation,Moving Average 7,2040,1922.857142857143
+2024-05-09,Budalur,validation,Naive Last Value,2090,2040.0
+2024-05-09,Budalur,validation,Moving Average 7,2090,1950.0
+2024-05-24,Budalur,validation,Naive Last Value,2000,2090.0
+2024-05-24,Budalur,validation,Moving Average 7,2000,1984.2857142857142
+2024-05-29,Budalur,validation,Naive Last Value,2050,2000.0
+2024-05-29,Budalur,validation,Moving Average 7,2050,2005.7142857142858
+2024-05-30,Budalur,validation,Naive Last Value,1950,2050.0
+2024-05-30,Budalur,validation,Moving Average 7,1950,2012.857142857143
+2024-05-31,Budalur,validation,Naive Last Value,1950,1950.0
+2024-05-31,Budalur,validation,Moving Average 7,1950,2005.7142857142858
+2024-06-01,Budalur,validation,Naive Last Value,1950,1950.0
+2024-06-01,Budalur,validation,Moving Average 7,1950,2012.857142857143
+2024-06-02,Budalur,validation,Naive Last Value,1950,1950.0
+2024-06-02,Budalur,validation,Moving Average 7,1950,2004.2857142857142
+2024-06-03,Budalur,validation,Naive Last Value,1950,1950.0
+2024-06-03,Budalur,validation,Moving Average 7,1950,1991.4285714285713
+2024-06-04,Budalur,validation,Naive Last Value,1900,1950.0
+2024-06-04,Budalur,validation,Moving Average 7,1900,1971.4285714285713
+2024-06-05,Budalur,validation,Naive Last Value,1900,1900.0
+2024-06-05,Budalur,validation,Moving Average 7,1900,1957.142857142857
+2024-06-06,Budalur,validation,Naive Last Value,1900,1900.0
+2024-06-06,Budalur,validation,Moving Average 7,1900,1935.7142857142858
+2024-06-07,Budalur,validation,Naive Last Value,1900,1900.0
+2024-06-07,Budalur,validation,Moving Average 7,1900,1928.5714285714287
+2024-06-10,Budalur,validation,Naive Last Value,1900,1900.0
+2024-06-10,Budalur,validation,Moving Average 7,1900,1921.4285714285713
+2024-06-11,Budalur,validation,Naive Last Value,2320,1900.0
+2024-06-11,Budalur,validation,Moving Average 7,2320,1914.2857142857142
+2024-06-12,Budalur,validation,Naive Last Value,1850,2320.0
+2024-06-12,Budalur,validation,Moving Average 7,1850,1967.142857142857
+2024-06-13,Budalur,validation,Naive Last Value,1850,1850.0
+2024-06-13,Budalur,validation,Moving Average 7,1850,1952.857142857143
+2024-06-14,Budalur,validation,Naive Last Value,2320,1850.0
+2024-06-14,Budalur,validation,Moving Average 7,2320,1945.7142857142858
+2024-06-18,Budalur,validation,Naive Last Value,2200,2320.0
+2024-06-18,Budalur,validation,Moving Average 7,2200,2005.7142857142858
+2024-06-21,Budalur,validation,Naive Last Value,2350,2200.0
+2024-06-21,Budalur,validation,Moving Average 7,2350,2048.5714285714284
+2024-07-19,Budalur,validation,Naive Last Value,2375,2350.0
+2024-07-19,Budalur,validation,Moving Average 7,2375,2112.8571428571427
+2024-08-30,Budalur,validation,Naive Last Value,1200,2375.0
+2024-08-30,Budalur,validation,Moving Average 7,1200,2180.714285714286
+2024-09-05,Budalur,validation,Naive Last Value,2310,1200.0
+2024-09-05,Budalur,validation,Moving Average 7,2310,2020.7142857142858
+2024-05-31,Kumbakonam,validation,Naive Last Value,1500,1800.0
+2024-05-31,Kumbakonam,validation,Moving Average 7,1500,1800.0
+2024-06-03,Kumbakonam,validation,Naive Last Value,1500,1500.0
+2024-06-03,Kumbakonam,validation,Moving Average 7,1500,1757.142857142857
+2024-06-05,Kumbakonam,validation,Naive Last Value,1500,1500.0
+2024-06-05,Kumbakonam,validation,Moving Average 7,1500,1714.2857142857142
+2024-06-06,Kumbakonam,validation,Naive Last Value,1500,1500.0
+2024-06-06,Kumbakonam,validation,Moving Average 7,1500,1671.4285714285713
+2024-06-12,Kumbakonam,validation,Naive Last Value,2500,1500.0
+2024-06-12,Kumbakonam,validation,Moving Average 7,2500,1628.5714285714287
+2024-07-04,Kumbakonam,validation,Naive Last Value,2100,2500.0
+2024-07-04,Kumbakonam,validation,Moving Average 7,2100,1728.5714285714287
+2024-09-11,Kumbakonam,validation,Naive Last Value,2000,2100.0
+2024-09-11,Kumbakonam,validation,Moving Average 7,2000,1771.4285714285713
+2024-10-28,Kumbakonam,validation,Naive Last Value,1800,2000.0
+2024-10-28,Kumbakonam,validation,Moving Average 7,1800,1800.0
+2024-12-05,Kumbakonam,validation,Naive Last Value,1400,1800.0
+2024-12-05,Kumbakonam,validation,Moving Average 7,1400,1842.857142857143
+2024-12-06,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-06,Kumbakonam,validation,Moving Average 7,1400,1828.5714285714287
+2024-12-09,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-09,Kumbakonam,validation,Moving Average 7,1400,1814.2857142857142
+2024-12-10,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-10,Kumbakonam,validation,Moving Average 7,1400,1800.0
+2024-12-11,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-11,Kumbakonam,validation,Moving Average 7,1400,1642.857142857143
+2024-12-16,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-16,Kumbakonam,validation,Moving Average 7,1400,1542.857142857143
+2024-12-17,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-17,Kumbakonam,validation,Moving Average 7,1400,1457.142857142857
+2024-12-24,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-24,Kumbakonam,validation,Moving Average 7,1400,1400.0
+2024-12-31,Kumbakonam,validation,Naive Last Value,1400,1400.0
+2024-12-31,Kumbakonam,validation,Moving Average 7,1400,1400.0
+2024-06-07,Orathanadu,validation,Naive Last Value,1900,2000.0
+2024-06-07,Orathanadu,validation,Moving Average 7,1900,1814.2857142857142
+2024-06-12,Orathanadu,validation,Naive Last Value,2200,1900.0
+2024-06-12,Orathanadu,validation,Moving Average 7,2200,1828.5714285714287
+2024-06-13,Orathanadu,validation,Naive Last Value,2200,2200.0
+2024-06-13,Orathanadu,validation,Moving Average 7,2200,1888.5714285714287
+2024-06-14,Orathanadu,validation,Naive Last Value,2200,2200.0
+2024-06-14,Orathanadu,validation,Moving Average 7,2200,1948.5714285714287
+2024-06-18,Orathanadu,validation,Naive Last Value,2200,2200.0
+2024-06-18,Orathanadu,validation,Moving Average 7,2200,2008.5714285714287
+2024-07-15,Orathanadu,validation,Naive Last Value,2500,2200.0
+2024-07-15,Orathanadu,validation,Moving Average 7,2500,2065.714285714286
+2024-12-26,Orathanadu,validation,Naive Last Value,1900,2500.0
+2024-12-26,Orathanadu,validation,Moving Average 7,1900,2171.4285714285716
+2024-07-05,Papanasam,validation,Naive Last Value,2200,1700.0
+2024-07-05,Papanasam,validation,Moving Average 7,2200,1628.5714285714287
+2024-07-13,Papanasam,validation,Naive Last Value,3500,2200.0
+2024-07-13,Papanasam,validation,Moving Average 7,3500,1700.0
+2024-08-01,Papanasam,validation,Naive Last Value,2400,3500.0
+2024-08-01,Papanasam,validation,Moving Average 7,2400,1971.4285714285713
+2024-08-29,Papanasam,validation,Naive Last Value,4000,2400.0
+2024-08-29,Papanasam,validation,Moving Average 7,4000,2085.714285714286
+2024-09-06,Papanasam,validation,Naive Last Value,3500,4000.0
+2024-09-06,Papanasam,validation,Moving Average 7,3500,2428.5714285714284
+2024-09-20,Papanasam,validation,Naive Last Value,3500,3500.0
+2024-09-20,Papanasam,validation,Moving Average 7,3500,2700.0
+2024-10-09,Papanasam,validation,Naive Last Value,2800,3500.0
+2024-10-09,Papanasam,validation,Moving Average 7,2800,2971.4285714285716
+2024-10-25,Papanasam,validation,Naive Last Value,3500,2800.0
+2024-10-25,Papanasam,validation,Moving Average 7,3500,3128.5714285714284
+2024-11-06,Papanasam,validation,Naive Last Value,2800,3500.0
+2024-11-06,Papanasam,validation,Moving Average 7,2800,3314.285714285714
+2024-11-08,Papanasam,validation,Naive Last Value,2800,2800.0
+2024-11-08,Papanasam,validation,Moving Average 7,2800,3214.285714285714
+2024-12-04,Papanasam,validation,Naive Last Value,3800,2800.0
+2024-12-04,Papanasam,validation,Moving Average 7,3800,3271.4285714285716
+2024-12-19,Papanasam,validation,Naive Last Value,3000,3800.0
+2024-12-19,Papanasam,validation,Moving Average 7,3000,3242.8571428571427
+2024-07-22,Pattukottai,validation,Naive Last Value,1800,1800.0
+2024-07-22,Pattukottai,validation,Moving Average 7,1800,1838.5714285714287
+2024-07-31,Pattukottai,validation,Naive Last Value,1400,1800.0
+2024-07-31,Pattukottai,validation,Moving Average 7,1400,1827.142857142857
+2024-08-02,Pattukottai,validation,Naive Last Value,1400,1400.0
+2024-08-02,Pattukottai,validation,Moving Average 7,1400,1772.857142857143
+2024-08-20,Pattukottai,validation,Naive Last Value,2300,1400.0
+2024-08-20,Pattukottai,validation,Moving Average 7,2300,1704.2857142857142
+2024-08-21,Pattukottai,validation,Naive Last Value,2300,2300.0
+2024-08-21,Pattukottai,validation,Moving Average 7,2300,1764.2857142857142
+2024-08-22,Pattukottai,validation,Naive Last Value,2500,2300.0
+2024-08-22,Pattukottai,validation,Moving Average 7,2500,1828.5714285714287
+2024-08-30,Pattukottai,validation,Naive Last Value,2300,2500.0
+2024-08-30,Pattukottai,validation,Moving Average 7,2300,1928.5714285714287
+2024-09-03,Pattukottai,validation,Naive Last Value,2250,2300.0
+2024-09-03,Pattukottai,validation,Moving Average 7,2250,2000.0
+2024-09-27,Pattukottai,validation,Naive Last Value,2050,2250.0
+2024-09-27,Pattukottai,validation,Moving Average 7,2050,2064.285714285714
+2024-06-05,Thanjavur,validation,Naive Last Value,2300,2000.0
+2024-06-05,Thanjavur,validation,Moving Average 7,2300,2185.714285714286
+2024-06-06,Thanjavur,validation,Naive Last Value,2200,2300.0
+2024-06-06,Thanjavur,validation,Moving Average 7,2200,2171.4285714285716
+2024-06-07,Thanjavur,validation,Naive Last Value,2200,2200.0
+2024-06-07,Thanjavur,validation,Moving Average 7,2200,2142.8571428571427
+2024-06-11,Thanjavur,validation,Naive Last Value,2350,2200.0
+2024-06-11,Thanjavur,validation,Moving Average 7,2350,2100.0
+2024-06-12,Thanjavur,validation,Naive Last Value,2350,2350.0
+2024-06-12,Thanjavur,validation,Moving Average 7,2350,2142.8571428571427
+2024-06-13,Thanjavur,validation,Naive Last Value,1900,2350.0
+2024-06-13,Thanjavur,validation,Moving Average 7,1900,2200.0
+2024-06-14,Thanjavur,validation,Naive Last Value,3000,1900.0
+2024-06-14,Thanjavur,validation,Moving Average 7,3000,2185.714285714286
+2024-06-18,Thanjavur,validation,Naive Last Value,2000,3000.0
+2024-06-18,Thanjavur,validation,Moving Average 7,2000,2328.5714285714284
+2024-06-18,Thanjavur,validation,Naive Last Value,1600,2000.0
+2024-06-18,Thanjavur,validation,Moving Average 7,1600,2285.714285714286
+2024-06-19,Thanjavur,validation,Naive Last Value,1650,1600.0
+2024-06-19,Thanjavur,validation,Moving Average 7,1650,2200.0
+2024-07-05,Thanjavur,validation,Naive Last Value,2300,1650.0
+2024-07-05,Thanjavur,validation,Moving Average 7,2300,2121.4285714285716
+2024-07-18,Thanjavur,validation,Naive Last Value,2000,2300.0
+2024-07-18,Thanjavur,validation,Moving Average 7,2000,2114.285714285714
+2024-07-23,Thanjavur,validation,Naive Last Value,2250,2000.0
+2024-07-23,Thanjavur,validation,Moving Average 7,2250,2064.285714285714
+2024-08-12,Thanjavur,validation,Naive Last Value,2275,2250.0
+2024-08-12,Thanjavur,validation,Moving Average 7,2275,2114.285714285714
+2024-08-20,Thanjavur,validation,Naive Last Value,1975,2275.0
+2024-08-20,Thanjavur,validation,Moving Average 7,1975,2010.7142857142858
+2024-08-21,Thanjavur,validation,Naive Last Value,1900,1975.0
+2024-08-21,Thanjavur,validation,Moving Average 7,1900,2007.142857142857
+2024-08-23,Thanjavur,validation,Naive Last Value,1850,1900.0
+2024-08-23,Thanjavur,validation,Moving Average 7,1850,2050.0
+2024-08-28,Thanjavur,validation,Naive Last Value,2900,1850.0
+2024-08-28,Thanjavur,validation,Moving Average 7,2900,2078.5714285714284
+2024-09-24,Thanjavur,validation,Naive Last Value,1900,2900.0
+2024-09-24,Thanjavur,validation,Moving Average 7,1900,2164.285714285714
+2024-09-30,Thanjavur,validation,Naive Last Value,3250,1900.0
+2024-09-30,Thanjavur,validation,Moving Average 7,3250,2150.0
+2024-10-16,Thanjavur,validation,Naive Last Value,2500,3250.0
+2024-10-16,Thanjavur,validation,Moving Average 7,2500,2292.8571428571427
+2024-11-22,Thanjavur,validation,Naive Last Value,2750,2500.0
+2024-11-22,Thanjavur,validation,Moving Average 7,2750,2325.0
+2024-12-02,Thanjavur,validation,Naive Last Value,2900,2750.0
+2024-12-02,Thanjavur,validation,Moving Average 7,2900,2435.714285714286
+2024-12-24,Thanjavur,validation,Naive Last Value,4600,2900.0
+2024-12-24,Thanjavur,validation,Moving Average 7,4600,2578.5714285714284
+2024-12-31,Thanjavur,validation,Naive Last Value,2400,4600.0
+2024-12-31,Thanjavur,validation,Moving Average 7,2400,2971.4285714285716
+2024-10-25,Thiruppananthal,validation,Naive Last Value,1600,1750.0
+2024-10-25,Thiruppananthal,validation,Moving Average 7,1600,1764.2857142857142
+2024-11-08,Thiruppananthal,validation,Naive Last Value,1650,1600.0
+2024-11-08,Thiruppananthal,validation,Moving Average 7,1650,1742.857142857143
+2024-05-29,Vallam,validation,Naive Last Value,2200,2300.0
+2024-05-29,Vallam,validation,Moving Average 7,2200,2157.1428571428573
+2024-07-18,Vallam,validation,Naive Last Value,2300,2200.0
+2024-07-18,Vallam,validation,Moving Average 7,2300,2185.714285714286
+2024-07-22,Vallam,validation,Naive Last Value,2300,2300.0
+2024-07-22,Vallam,validation,Moving Average 7,2300,2228.5714285714284
+2024-08-12,Vallam,validation,Naive Last Value,2300,2300.0
+2024-08-12,Vallam,validation,Moving Average 7,2300,2271.4285714285716
+2024-08-13,Vallam,validation,Naive Last Value,2300,2300.0
+2024-08-13,Vallam,validation,Moving Average 7,2300,2271.4285714285716
+2024-08-14,Vallam,validation,Naive Last Value,2300,2300.0
+2024-08-14,Vallam,validation,Moving Average 7,2300,2285.714285714286
+2024-08-16,Vallam,validation,Naive Last Value,2300,2300.0
+2024-08-16,Vallam,validation,Moving Average 7,2300,2285.714285714286
+2024-08-28,Vallam,validation,Naive Last Value,2400,2300.0
+2024-08-28,Vallam,validation,Moving Average 7,2400,2285.714285714286
+2024-08-30,Vallam,validation,Naive Last Value,2300,2400.0
+2024-08-30,Vallam,validation,Moving Average 7,2300,2314.285714285714
+2024-09-06,Vallam,validation,Naive Last Value,2300,2300.0
+2024-09-06,Vallam,validation,Moving Average 7,2300,2314.285714285714
+2024-09-19,Vallam,validation,Naive Last Value,2300,2300.0
+2024-09-19,Vallam,validation,Moving Average 7,2300,2314.285714285714
+2024-09-20,Vallam,validation,Naive Last Value,2300,2300.0
+2024-09-20,Vallam,validation,Moving Average 7,2300,2314.285714285714
+2024-09-27,Vallam,validation,Naive Last Value,2300,2300.0
+2024-09-27,Vallam,validation,Moving Average 7,2300,2314.285714285714
+2024-10-07,Vallam,validation,Naive Last Value,2300,2300.0
+2024-10-07,Vallam,validation,Moving Average 7,2300,2314.285714285714
+2024-10-15,Vallam,validation,Naive Last Value,2400,2300.0
+2024-10-15,Vallam,validation,Moving Average 7,2400,2314.285714285714
+2024-12-04,Vallam,validation,Naive Last Value,2400,2400.0
+2024-12-04,Vallam,validation,Moving Average 7,2400,2314.285714285714
+2024-12-20,Vallam,validation,Naive Last Value,2500,2400.0
+2024-12-20,Vallam,validation,Moving Average 7,2500,2328.5714285714284
+2024-12-24,Vallam,validation,Naive Last Value,2400,2500.0
+2024-12-24,Vallam,validation,Moving Average 7,2400,2357.1428571428573
+2024-12-26,Vallam,validation,Naive Last Value,2400,2400.0
+2024-12-26,Vallam,validation,Moving Average 7,2400,2371.4285714285716
+2024-12-30,Vallam,validation,Naive Last Value,2400,2400.0
+2024-12-30,Vallam,validation,Moving Average 7,2400,2385.714285714286
+2025-01-21,Budalur,test,Naive Last Value,2300,2310.0
+2025-01-21,Budalur,test,Moving Average 7,2300,2086.4285714285716
+2025-01-27,Budalur,test,Naive Last Value,2500,2300.0
+2025-01-27,Budalur,test,Moving Average 7,2500,2150.714285714286
+2025-01-28,Budalur,test,Naive Last Value,2500,2500.0
+2025-01-28,Budalur,test,Moving Average 7,2500,2176.4285714285716
+2025-01-29,Budalur,test,Naive Last Value,2400,2500.0
+2025-01-29,Budalur,test,Moving Average 7,2400,2219.285714285714
+2025-01-30,Budalur,test,Naive Last Value,2400,2400.0
+2025-01-30,Budalur,test,Moving Average 7,2400,2226.4285714285716
+2025-02-13,Budalur,test,Naive Last Value,2080,2400.0
+2025-02-13,Budalur,test,Moving Average 7,2080,2230.0
+2025-02-14,Budalur,test,Naive Last Value,2400,2080.0
+2025-02-14,Budalur,test,Moving Average 7,2400,2355.714285714286
+2025-02-17,Budalur,test,Naive Last Value,2400,2400.0
+2025-02-17,Budalur,test,Moving Average 7,2400,2368.5714285714284
+2025-02-18,Budalur,test,Naive Last Value,2400,2400.0
+2025-02-18,Budalur,test,Moving Average 7,2400,2382.8571428571427
+2025-02-20,Budalur,test,Naive Last Value,1650,2400.0
+2025-02-20,Budalur,test,Moving Average 7,1650,2368.5714285714284
+2025-03-06,Budalur,test,Naive Last Value,2400,1650.0
+2025-03-06,Budalur,test,Moving Average 7,2400,2247.1428571428573
+2025-01-21,Kumbakonam,test,Naive Last Value,1400,1400.0
+2025-01-21,Kumbakonam,test,Moving Average 7,1400,1400.0
+2025-02-20,Kumbakonam,test,Naive Last Value,1400,1400.0
+2025-02-20,Kumbakonam,test,Moving Average 7,1400,1400.0
+2025-02-21,Kumbakonam,test,Naive Last Value,1400,1400.0
+2025-02-21,Kumbakonam,test,Moving Average 7,1400,1400.0
+2025-02-26,Kumbakonam,test,Naive Last Value,2100,1400.0
+2025-02-26,Kumbakonam,test,Moving Average 7,2100,1400.0
+2025-03-03,Kumbakonam,test,Naive Last Value,2100,2100.0
+2025-03-03,Kumbakonam,test,Moving Average 7,2100,1500.0
+2025-03-14,Kumbakonam,test,Naive Last Value,2300,2100.0
+2025-03-14,Kumbakonam,test,Moving Average 7,2300,1600.0
+2025-03-17,Kumbakonam,test,Naive Last Value,2300,2300.0
+2025-03-17,Kumbakonam,test,Moving Average 7,2300,1728.5714285714287
+2025-01-30,Orathanadu,test,Naive Last Value,2150,1900.0
+2025-01-30,Orathanadu,test,Moving Average 7,2150,2157.1428571428573
+2025-01-31,Orathanadu,test,Naive Last Value,2150,2150.0
+2025-01-31,Orathanadu,test,Moving Average 7,2150,2192.8571428571427
+2025-02-03,Orathanadu,test,Naive Last Value,2150,2150.0
+2025-02-03,Orathanadu,test,Moving Average 7,2150,2185.714285714286
+2025-02-25,Orathanadu,test,Naive Last Value,2550,2150.0
+2025-02-25,Orathanadu,test,Moving Average 7,2550,2178.5714285714284
+2025-02-26,Orathanadu,test,Naive Last Value,2550,2550.0
+2025-02-26,Orathanadu,test,Moving Average 7,2550,2228.5714285714284
+2025-02-28,Orathanadu,test,Naive Last Value,2550,2550.0
+2025-02-28,Orathanadu,test,Moving Average 7,2550,2278.5714285714284
+2025-01-03,Papanasam,test,Naive Last Value,3800,3000.0
+2025-01-03,Papanasam,test,Moving Average 7,3800,3171.4285714285716
+2025-02-04,Papanasam,test,Naive Last Value,3000,3800.0
+2025-02-04,Papanasam,test,Moving Average 7,3000,3214.285714285714
+2025-02-13,Papanasam,test,Naive Last Value,3200,3000.0
+2025-02-13,Papanasam,test,Moving Average 7,3200,3242.8571428571427
+2025-02-28,Papanasam,test,Naive Last Value,2800,3200.0
+2025-02-28,Papanasam,test,Moving Average 7,2800,3200.0
+2025-03-01,Papanasam,test,Naive Last Value,2800,2800.0
+2025-03-01,Papanasam,test,Moving Average 7,2800,3200.0
+2025-03-06,Papanasam,test,Naive Last Value,2500,2800.0
+2025-03-06,Papanasam,test,Moving Average 7,2500,3200.0
+2025-01-07,Pattukottai,test,Naive Last Value,2420,2050.0
+2025-01-07,Pattukottai,test,Moving Average 7,2420,2157.1428571428573
+2025-01-22,Pattukottai,test,Naive Last Value,2100,2420.0
+2025-01-22,Pattukottai,test,Moving Average 7,2100,2302.8571428571427
+2025-01-23,Pattukottai,test,Naive Last Value,2100,2100.0
+2025-01-23,Pattukottai,test,Moving Average 7,2100,2274.285714285714
+2025-01-27,Pattukottai,test,Naive Last Value,2200,2100.0
+2025-01-27,Pattukottai,test,Moving Average 7,2200,2245.714285714286
+2025-02-06,Pattukottai,test,Naive Last Value,2200,2200.0
+2025-02-06,Pattukottai,test,Moving Average 7,2200,2202.8571428571427
+2025-02-10,Pattukottai,test,Naive Last Value,2200,2200.0
+2025-02-10,Pattukottai,test,Moving Average 7,2200,2188.5714285714284
+2025-02-27,Pattukottai,test,Naive Last Value,2500,2200.0
+2025-02-27,Pattukottai,test,Moving Average 7,2500,2181.4285714285716
+2025-03-06,Pattukottai,test,Naive Last Value,2500,2500.0
+2025-03-06,Pattukottai,test,Moving Average 7,2500,2245.714285714286
+2025-03-14,Pattukottai,test,Naive Last Value,2250,2500.0
+2025-03-14,Pattukottai,test,Moving Average 7,2250,2257.1428571428573
+2025-03-15,Pattukottai,test,Naive Last Value,2500,2250.0
+2025-03-15,Pattukottai,test,Moving Average 7,2500,2278.5714285714284
+2025-01-03,Thanjavur,test,Naive Last Value,2750,2400.0
+2025-01-03,Thanjavur,test,Moving Average 7,2750,2900.0
+2025-01-09,Thanjavur,test,Naive Last Value,2450,2750.0
+2025-01-09,Thanjavur,test,Moving Average 7,2450,3021.4285714285716
+2025-01-27,Thanjavur,test,Naive Last Value,2750,2450.0
+2025-01-27,Thanjavur,test,Moving Average 7,2750,2907.1428571428573
+2025-02-07,Thanjavur,test,Naive Last Value,2550,2750.0
+2025-02-07,Thanjavur,test,Moving Average 7,2550,2942.8571428571427
+2025-02-17,Thanjavur,test,Naive Last Value,2500,2550.0
+2025-02-17,Thanjavur,test,Moving Average 7,2500,2914.285714285714
+2025-02-18,Thanjavur,test,Naive Last Value,2500,2500.0
+2025-02-18,Thanjavur,test,Moving Average 7,2500,2857.1428571428573
+2025-02-19,Thanjavur,test,Naive Last Value,2500,2500.0
+2025-02-19,Thanjavur,test,Moving Average 7,2500,2557.1428571428573
+2025-02-20,Thanjavur,test,Naive Last Value,2900,2500.0
+2025-02-20,Thanjavur,test,Moving Average 7,2900,2571.4285714285716
+2025-02-25,Thanjavur,test,Naive Last Value,2500,2900.0
+2025-02-25,Thanjavur,test,Moving Average 7,2500,2592.8571428571427
+2025-03-03,Thanjavur,test,Naive Last Value,2900,2500.0
+2025-03-03,Thanjavur,test,Moving Average 7,2900,2600.0
+2025-03-04,Thanjavur,test,Naive Last Value,2500,2900.0
+2025-03-04,Thanjavur,test,Moving Average 7,2500,2621.4285714285716
+2025-03-10,Thanjavur,test,Naive Last Value,4300,2500.0
+2025-03-10,Thanjavur,test,Moving Average 7,4300,2614.285714285714
+2025-03-11,Thanjavur,test,Naive Last Value,2900,4300.0
+2025-03-11,Thanjavur,test,Moving Average 7,2900,2871.4285714285716
+2025-03-13,Thanjavur,test,Naive Last Value,2900,2900.0
+2025-03-13,Thanjavur,test,Moving Average 7,2900,2928.5714285714284
+2025-03-14,Thanjavur,test,Naive Last Value,2500,2900.0
+2025-03-14,Thanjavur,test,Moving Average 7,2500,2985.714285714286
+2025-03-15,Thanjavur,test,Naive Last Value,2100,2500.0
+2025-03-15,Thanjavur,test,Moving Average 7,2100,2928.5714285714284
+2025-03-17,Thanjavur,test,Naive Last Value,2500,2100.0
+2025-03-17,Thanjavur,test,Moving Average 7,2500,2871.4285714285716
+2025-01-27,Thiruppananthal,test,Naive Last Value,2250,1650.0
+2025-01-27,Thiruppananthal,test,Moving Average 7,2250,1728.5714285714287
+2025-02-01,Thiruppananthal,test,Naive Last Value,2200,2250.0
+2025-02-01,Thiruppananthal,test,Moving Average 7,2200,1800.0
+2025-02-04,Thiruppananthal,test,Naive Last Value,2200,2200.0
+2025-02-04,Thiruppananthal,test,Moving Average 7,2200,1857.142857142857
+2025-02-07,Thiruppananthal,test,Naive Last Value,2200,2200.0
+2025-02-07,Thiruppananthal,test,Moving Average 7,2200,1914.2857142857142
+2025-02-14,Thiruppananthal,test,Naive Last Value,2100,2200.0
+2025-02-14,Thiruppananthal,test,Moving Average 7,2100,1978.5714285714287
+2025-02-26,Thiruppananthal,test,Naive Last Value,2500,2100.0
+2025-02-26,Thiruppananthal,test,Moving Average 7,2500,2028.5714285714287
+2025-01-03,Vallam,test,Naive Last Value,2400,2400.0
+2025-01-03,Vallam,test,Moving Average 7,2400,2400.0
+2025-01-08,Vallam,test,Naive Last Value,2300,2400.0
+2025-01-08,Vallam,test,Moving Average 7,2300,2414.285714285714
+2025-01-09,Vallam,test,Naive Last Value,2300,2300.0
+2025-01-09,Vallam,test,Moving Average 7,2300,2400.0
+2025-01-22,Vallam,test,Naive Last Value,2400,2300.0
+2025-01-22,Vallam,test,Moving Average 7,2400,2385.714285714286
+2024-01-03,Budalur,validation,Random Forest,1850,1864.528
+2024-01-04,Budalur,validation,Random Forest,1850,1865.036
+2024-01-05,Budalur,validation,Random Forest,1850,1865.328
+2024-01-08,Budalur,validation,Random Forest,1850,1868.632
+2024-01-09,Budalur,validation,Random Forest,1850,1868.292
+2024-01-10,Budalur,validation,Random Forest,1850,1868.92
+2024-01-11,Budalur,validation,Random Forest,1850,1868.96
+2024-01-12,Budalur,validation,Random Forest,1850,1869.964
+2024-01-18,Budalur,validation,Random Forest,1850,1869.776
+2024-01-19,Budalur,validation,Random Forest,1850,1869.716
+2024-01-22,Budalur,validation,Random Forest,1850,1869.88
+2024-01-23,Budalur,validation,Random Forest,1850,1869.364
+2024-01-24,Budalur,validation,Random Forest,1850,1868.78
+2024-01-29,Budalur,validation,Random Forest,1850,1868.664
+2024-01-31,Budalur,validation,Random Forest,1850,1869.144
+2024-02-01,Budalur,validation,Random Forest,1850,1869.744
+2024-02-02,Budalur,validation,Random Forest,1850,1869.928
+2024-02-05,Budalur,validation,Random Forest,1850,1869.544
+2024-02-06,Budalur,validation,Random Forest,1850,1869.944
+2024-02-07,Budalur,validation,Random Forest,1850,1869.564
+2024-02-08,Budalur,validation,Random Forest,1850,1869.364
+2024-02-09,Budalur,validation,Random Forest,1850,1870.288
+2024-02-10,Budalur,validation,Random Forest,1850,1869.744
+2024-02-12,Budalur,validation,Random Forest,1850,1869.644
+2024-02-13,Budalur,validation,Random Forest,1850,1870.408
+2024-02-14,Budalur,validation,Random Forest,1850,1869.608
+2024-02-15,Budalur,validation,Random Forest,1850,1870.208
+2024-02-16,Budalur,validation,Random Forest,1850,1870.196
+2024-02-19,Budalur,validation,Random Forest,1850,1869.896
+2024-02-22,Budalur,validation,Random Forest,1850,1870.008
+2024-02-23,Budalur,validation,Random Forest,1850,1870.772
+2024-02-26,Budalur,validation,Random Forest,1850,1873.892
+2024-02-27,Budalur,validation,Random Forest,1850,1869.364
+2024-02-28,Budalur,validation,Random Forest,1850,1871.724
+2024-02-29,Budalur,validation,Random Forest,1850,1870.128
+2024-03-01,Budalur,validation,Random Forest,1850,1874.152
+2024-03-04,Budalur,validation,Random Forest,1850,1873.444
+2024-03-07,Budalur,validation,Random Forest,1850,1873.144
+2024-03-14,Budalur,validation,Random Forest,1850,1872.632
+2024-03-19,Budalur,validation,Random Forest,1850,1875.692
+2024-03-20,Budalur,validation,Random Forest,1850,1873.74
+2024-03-21,Budalur,validation,Random Forest,1850,1875.896
+2024-04-29,Budalur,validation,Random Forest,2000,2227.73
+2024-04-30,Budalur,validation,Random Forest,2000,2100.936
+2024-05-06,Budalur,validation,Random Forest,1900,1894.472
+2024-05-07,Budalur,validation,Random Forest,2010,1991.818
+2024-05-08,Budalur,validation,Random Forest,2040,1990.404
+2024-05-09,Budalur,validation,Random Forest,2090,1921.35
+2024-05-24,Budalur,validation,Random Forest,2000,1937.47
+2024-05-29,Budalur,validation,Random Forest,2050,2235.15
+2024-05-30,Budalur,validation,Random Forest,1950,2235.502
+2024-05-31,Budalur,validation,Random Forest,1950,2236.09
+2024-06-01,Budalur,validation,Random Forest,1950,2235.05
+2024-06-02,Budalur,validation,Random Forest,1950,2244.99
+2024-06-03,Budalur,validation,Random Forest,1950,2242.476
+2024-06-04,Budalur,validation,Random Forest,1900,2258.38
+2024-06-05,Budalur,validation,Random Forest,1900,2250.48
+2024-06-06,Budalur,validation,Random Forest,1900,2254.324
+2024-06-07,Budalur,validation,Random Forest,1900,2257.252
+2024-06-10,Budalur,validation,Random Forest,1900,2245.028
+2024-06-11,Budalur,validation,Random Forest,2320,2365.98
+2024-06-12,Budalur,validation,Random Forest,1850,2264.88
+2024-06-13,Budalur,validation,Random Forest,1850,2258.644
+2024-06-14,Budalur,validation,Random Forest,2320,2367.66
+2024-06-18,Budalur,validation,Random Forest,2200,2382.6
+2024-06-21,Budalur,validation,Random Forest,2350,2373.84
+2024-07-19,Budalur,validation,Random Forest,2375,2425.84
+2024-08-30,Budalur,validation,Random Forest,1200,1243.3
+2024-09-05,Budalur,validation,Random Forest,2310,2425.26
+2024-05-31,Kumbakonam,validation,Random Forest,1500,1537.77
+2024-06-03,Kumbakonam,validation,Random Forest,1500,1521.91
+2024-06-05,Kumbakonam,validation,Random Forest,1500,1517.84
+2024-06-06,Kumbakonam,validation,Random Forest,1500,1534.35
+2024-06-12,Kumbakonam,validation,Random Forest,2500,2495.6
+2024-07-04,Kumbakonam,validation,Random Forest,2100,2128.818
+2024-09-11,Kumbakonam,validation,Random Forest,2000,2065.9
+2024-10-28,Kumbakonam,validation,Random Forest,1800,1678.272
+2024-12-05,Kumbakonam,validation,Random Forest,1400,1560.16
+2024-12-06,Kumbakonam,validation,Random Forest,1400,1548.4
+2024-12-09,Kumbakonam,validation,Random Forest,1400,1499.9
+2024-12-10,Kumbakonam,validation,Random Forest,1400,1468.5
+2024-12-11,Kumbakonam,validation,Random Forest,1400,1473.8
+2024-12-16,Kumbakonam,validation,Random Forest,1400,1500.14
+2024-12-17,Kumbakonam,validation,Random Forest,1400,1477.9
+2024-12-24,Kumbakonam,validation,Random Forest,1400,1487.6
+2024-12-31,Kumbakonam,validation,Random Forest,1400,1453.4
+2024-06-07,Orathanadu,validation,Random Forest,1900,2258.932
+2024-06-12,Orathanadu,validation,Random Forest,2200,2120.168
+2024-06-13,Orathanadu,validation,Random Forest,2200,2067.372
+2024-06-14,Orathanadu,validation,Random Forest,2200,2113.736
+2024-06-18,Orathanadu,validation,Random Forest,2200,2117.252
+2024-07-15,Orathanadu,validation,Random Forest,2500,2450.38
+2024-12-26,Orathanadu,validation,Random Forest,1900,1959.62
+2024-07-05,Papanasam,validation,Random Forest,2200,2096.126
+2024-07-13,Papanasam,validation,Random Forest,3500,2570.22
+2024-08-01,Papanasam,validation,Random Forest,2400,2374.38
+2024-08-29,Papanasam,validation,Random Forest,4000,2513.22
+2024-09-06,Papanasam,validation,Random Forest,3500,2514.46
+2024-09-20,Papanasam,validation,Random Forest,3500,2509.46
+2024-10-09,Papanasam,validation,Random Forest,2800,2508.48
+2024-10-25,Papanasam,validation,Random Forest,3500,2506.14
+2024-11-06,Papanasam,validation,Random Forest,2800,2500.42
+2024-11-08,Papanasam,validation,Random Forest,2800,2498.7
+2024-12-04,Papanasam,validation,Random Forest,3800,2498.34
+2024-12-19,Papanasam,validation,Random Forest,3000,2497.24
+2024-07-22,Pattukottai,validation,Random Forest,1800,1800.9
+2024-07-31,Pattukottai,validation,Random Forest,1400,1512.048
+2024-08-02,Pattukottai,validation,Random Forest,1400,1522.754
+2024-08-20,Pattukottai,validation,Random Forest,2300,2229.2
+2024-08-21,Pattukottai,validation,Random Forest,2300,2236.8
+2024-08-22,Pattukottai,validation,Random Forest,2500,2451.2
+2024-08-30,Pattukottai,validation,Random Forest,2300,2254.1
+2024-09-03,Pattukottai,validation,Random Forest,2250,2272.6
+2024-09-27,Pattukottai,validation,Random Forest,2050,1998.386
+2024-06-05,Thanjavur,validation,Random Forest,2300,2271.16
+2024-06-06,Thanjavur,validation,Random Forest,2200,2181.76
+2024-06-07,Thanjavur,validation,Random Forest,2200,2175.48
+2024-06-11,Thanjavur,validation,Random Forest,2350,2376.54
+2024-06-12,Thanjavur,validation,Random Forest,2350,2386.04
+2024-06-13,Thanjavur,validation,Random Forest,1900,2273.02
+2024-06-14,Thanjavur,validation,Random Forest,3000,2495.0
+2024-06-18,Thanjavur,validation,Random Forest,2000,2046.58
+2024-06-18,Thanjavur,validation,Random Forest,1600,1533.42
+2024-06-19,Thanjavur,validation,Random Forest,1650,1546.14
+2024-07-05,Thanjavur,validation,Random Forest,2300,2387.5
+2024-07-18,Thanjavur,validation,Random Forest,2000,2137.16
+2024-07-23,Thanjavur,validation,Random Forest,2250,2386.74
+2024-08-12,Thanjavur,validation,Random Forest,2275,2270.0
+2024-08-20,Thanjavur,validation,Random Forest,1975,1968.77
+2024-08-21,Thanjavur,validation,Random Forest,1900,1953.144
+2024-08-23,Thanjavur,validation,Random Forest,1850,1903.24
+2024-08-28,Thanjavur,validation,Random Forest,2900,2493.98
+2024-09-24,Thanjavur,validation,Random Forest,1900,1970.0
+2024-09-30,Thanjavur,validation,Random Forest,3250,2498.94
+2024-10-16,Thanjavur,validation,Random Forest,2500,2441.06
+2024-11-22,Thanjavur,validation,Random Forest,2750,2497.02
+2024-12-02,Thanjavur,validation,Random Forest,2900,2502.08
+2024-12-24,Thanjavur,validation,Random Forest,4600,2498.02
+2024-12-31,Thanjavur,validation,Random Forest,2400,2433.2
+2024-10-25,Thiruppananthal,validation,Random Forest,1600,1544.02
+2024-11-08,Thiruppananthal,validation,Random Forest,1650,1638.17
+2024-05-29,Vallam,validation,Random Forest,2200,2409.52
+2024-07-18,Vallam,validation,Random Forest,2300,2292.76
+2024-07-22,Vallam,validation,Random Forest,2300,2415.08
+2024-08-12,Vallam,validation,Random Forest,2300,2296.46
+2024-08-13,Vallam,validation,Random Forest,2300,2292.56
+2024-08-14,Vallam,validation,Random Forest,2300,2294.16
+2024-08-16,Vallam,validation,Random Forest,2300,2289.66
+2024-08-28,Vallam,validation,Random Forest,2400,2296.36
+2024-08-30,Vallam,validation,Random Forest,2300,2293.86
+2024-09-06,Vallam,validation,Random Forest,2300,2295.4
+2024-09-19,Vallam,validation,Random Forest,2300,2295.7
+2024-09-20,Vallam,validation,Random Forest,2300,2295.16
+2024-09-27,Vallam,validation,Random Forest,2300,2294.96
+2024-10-07,Vallam,validation,Random Forest,2300,2387.7
+2024-10-15,Vallam,validation,Random Forest,2400,2461.92
+2024-12-04,Vallam,validation,Random Forest,2400,2396.34
+2024-12-20,Vallam,validation,Random Forest,2500,2461.34
+2024-12-24,Vallam,validation,Random Forest,2400,2471.24
+2024-12-26,Vallam,validation,Random Forest,2400,2414.42
+2024-12-30,Vallam,validation,Random Forest,2400,2413.86
+2025-01-21,Budalur,test,Random Forest,2300,2382.26
+2025-01-27,Budalur,test,Random Forest,2500,2437.52
+2025-01-28,Budalur,test,Random Forest,2500,2441.76
+2025-01-29,Budalur,test,Random Forest,2400,2443.28
+2025-01-30,Budalur,test,Random Forest,2400,2441.7
+2025-02-13,Budalur,test,Random Forest,2080,2091.974
+2025-02-14,Budalur,test,Random Forest,2400,2443.42
+2025-02-17,Budalur,test,Random Forest,2400,2440.86
+2025-02-18,Budalur,test,Random Forest,2400,2435.26
+2025-02-20,Budalur,test,Random Forest,1650,1660.192
+2025-03-06,Budalur,test,Random Forest,2400,2437.12
+2025-01-21,Kumbakonam,test,Random Forest,1400,1422.8
+2025-02-20,Kumbakonam,test,Random Forest,1400,1425.0
+2025-02-21,Kumbakonam,test,Random Forest,1400,1442.1
+2025-02-26,Kumbakonam,test,Random Forest,2100,2180.7
+2025-03-03,Kumbakonam,test,Random Forest,2100,2183.0
+2025-03-14,Kumbakonam,test,Random Forest,2300,2190.12
+2025-03-17,Kumbakonam,test,Random Forest,2300,2199.7
+2025-01-30,Orathanadu,test,Random Forest,2150,2127.448
+2025-01-31,Orathanadu,test,Random Forest,2150,2111.044
+2025-02-03,Orathanadu,test,Random Forest,2150,2106.512
+2025-02-25,Orathanadu,test,Random Forest,2550,2446.82
+2025-02-26,Orathanadu,test,Random Forest,2550,2482.46
+2025-02-28,Orathanadu,test,Random Forest,2550,2476.58
+2025-01-03,Papanasam,test,Random Forest,3800,2497.54
+2025-02-04,Papanasam,test,Random Forest,3000,2496.76
+2025-02-13,Papanasam,test,Random Forest,3200,2488.62
+2025-02-28,Papanasam,test,Random Forest,2800,2433.86
+2025-03-01,Papanasam,test,Random Forest,2800,2490.72
+2025-03-06,Papanasam,test,Random Forest,2500,2409.32
+2025-01-07,Pattukottai,test,Random Forest,2420,2442.3
+2025-01-22,Pattukottai,test,Random Forest,2100,2279.7
+2025-01-23,Pattukottai,test,Random Forest,2100,2272.4
+2025-01-27,Pattukottai,test,Random Forest,2200,2273.3
+2025-02-06,Pattukottai,test,Random Forest,2200,2271.2
+2025-02-10,Pattukottai,test,Random Forest,2200,2271.1
+2025-02-27,Pattukottai,test,Random Forest,2500,2460.14
+2025-03-06,Pattukottai,test,Random Forest,2500,2456.76
+2025-03-14,Pattukottai,test,Random Forest,2250,2279.1
+2025-03-15,Pattukottai,test,Random Forest,2500,2432.38
+2025-01-03,Thanjavur,test,Random Forest,2750,2493.9
+2025-01-09,Thanjavur,test,Random Forest,2450,2433.7
+2025-01-27,Thanjavur,test,Random Forest,2750,2489.54
+2025-02-07,Thanjavur,test,Random Forest,2550,2444.3
+2025-02-17,Thanjavur,test,Random Forest,2500,2445.94
+2025-02-18,Thanjavur,test,Random Forest,2500,2446.18
+2025-02-19,Thanjavur,test,Random Forest,2500,2444.4
+2025-02-20,Thanjavur,test,Random Forest,2900,2494.28
+2025-02-25,Thanjavur,test,Random Forest,2500,2444.0
+2025-03-03,Thanjavur,test,Random Forest,2900,2494.34
+2025-03-04,Thanjavur,test,Random Forest,2500,2444.2
+2025-03-10,Thanjavur,test,Random Forest,4300,2494.24
+2025-03-11,Thanjavur,test,Random Forest,2900,2494.04
+2025-03-13,Thanjavur,test,Random Forest,2900,2494.54
+2025-03-14,Thanjavur,test,Random Forest,2500,2444.4
+2025-03-15,Thanjavur,test,Random Forest,2100,2094.388
+2025-03-17,Thanjavur,test,Random Forest,2500,2443.1
+2025-01-27,Thiruppananthal,test,Random Forest,2250,2208.4
+2025-02-01,Thiruppananthal,test,Random Forest,2200,2208.5
+2025-02-04,Thiruppananthal,test,Random Forest,2200,2208.3
+2025-02-07,Thiruppananthal,test,Random Forest,2200,2209.1
+2025-02-14,Thiruppananthal,test,Random Forest,2100,2125.934
+2025-02-26,Thiruppananthal,test,Random Forest,2500,2457.2
+2025-01-03,Vallam,test,Random Forest,2400,2414.36
+2025-01-08,Vallam,test,Random Forest,2300,2405.04
+2025-01-09,Vallam,test,Random Forest,2300,2308.16
+2025-01-22,Vallam,test,Random Forest,2400,2399.3
+2024-01-03,Budalur,validation,XGBoost,1850,1854.9554443359375
+2024-01-04,Budalur,validation,XGBoost,1850,1851.00830078125
+2024-01-05,Budalur,validation,XGBoost,1850,1849.2454833984375
+2024-01-08,Budalur,validation,XGBoost,1850,1847.1993408203125
+2024-01-09,Budalur,validation,XGBoost,1850,1854.28173828125
+2024-01-10,Budalur,validation,XGBoost,1850,1854.361572265625
+2024-01-11,Budalur,validation,XGBoost,1850,1851.5313720703125
+2024-01-12,Budalur,validation,XGBoost,1850,1849.8079833984375
+2024-01-18,Budalur,validation,XGBoost,1850,1847.3333740234375
+2024-01-19,Budalur,validation,XGBoost,1850,1847.811767578125
+2024-01-22,Budalur,validation,XGBoost,1850,1849.7589111328125
+2024-01-23,Budalur,validation,XGBoost,1850,1849.97021484375
+2024-01-24,Budalur,validation,XGBoost,1850,1850.2401123046875
+2024-01-29,Budalur,validation,XGBoost,1850,1848.8267822265625
+2024-01-31,Budalur,validation,XGBoost,1850,1848.03466796875
+2024-02-01,Budalur,validation,XGBoost,1850,1845.7772216796875
+2024-02-02,Budalur,validation,XGBoost,1850,1848.76416015625
+2024-02-05,Budalur,validation,XGBoost,1850,1848.774658203125
+2024-02-06,Budalur,validation,XGBoost,1850,1848.194091796875
+2024-02-07,Budalur,validation,XGBoost,1850,1848.5234375
+2024-02-08,Budalur,validation,XGBoost,1850,1847.7637939453125
+2024-02-09,Budalur,validation,XGBoost,1850,1847.3397216796875
+2024-02-10,Budalur,validation,XGBoost,1850,1842.4056396484375
+2024-02-12,Budalur,validation,XGBoost,1850,1847.787109375
+2024-02-13,Budalur,validation,XGBoost,1850,1849.324951171875
+2024-02-14,Budalur,validation,XGBoost,1850,1849.74365234375
+2024-02-15,Budalur,validation,XGBoost,1850,1852.463623046875
+2024-02-16,Budalur,validation,XGBoost,1850,1849.865234375
+2024-02-19,Budalur,validation,XGBoost,1850,1846.6328125
+2024-02-22,Budalur,validation,XGBoost,1850,1849.8094482421875
+2024-02-23,Budalur,validation,XGBoost,1850,1848.201416015625
+2024-02-26,Budalur,validation,XGBoost,1850,1853.9892578125
+2024-02-27,Budalur,validation,XGBoost,1850,1850.931640625
+2024-02-28,Budalur,validation,XGBoost,1850,1853.92333984375
+2024-02-29,Budalur,validation,XGBoost,1850,1852.531005859375
+2024-03-01,Budalur,validation,XGBoost,1850,1851.5546875
+2024-03-04,Budalur,validation,XGBoost,1850,1852.9615478515625
+2024-03-07,Budalur,validation,XGBoost,1850,1852.0960693359375
+2024-03-14,Budalur,validation,XGBoost,1850,1853.806396484375
+2024-03-19,Budalur,validation,XGBoost,1850,1853.0164794921875
+2024-03-20,Budalur,validation,XGBoost,1850,1849.12255859375
+2024-03-21,Budalur,validation,XGBoost,1850,1854.78857421875
+2024-04-29,Budalur,validation,XGBoost,2000,2302.87060546875
+2024-04-30,Budalur,validation,XGBoost,2000,2134.985107421875
+2024-05-06,Budalur,validation,XGBoost,1900,1925.551025390625
+2024-05-07,Budalur,validation,XGBoost,2010,1998.0780029296875
+2024-05-08,Budalur,validation,XGBoost,2040,2007.13818359375
+2024-05-09,Budalur,validation,XGBoost,2090,1952.7933349609375
+2024-05-24,Budalur,validation,XGBoost,2000,1996.5009765625
+2024-05-29,Budalur,validation,XGBoost,2050,2298.77001953125
+2024-05-30,Budalur,validation,XGBoost,1950,2281.439208984375
+2024-05-31,Budalur,validation,XGBoost,1950,2289.950439453125
+2024-06-01,Budalur,validation,XGBoost,1950,2368.669189453125
+2024-06-02,Budalur,validation,XGBoost,1950,2355.324951171875
+2024-06-03,Budalur,validation,XGBoost,1950,2304.95654296875
+2024-06-04,Budalur,validation,XGBoost,1900,2275.91015625
+2024-06-05,Budalur,validation,XGBoost,1900,2268.549072265625
+2024-06-06,Budalur,validation,XGBoost,1900,2255.568115234375
+2024-06-07,Budalur,validation,XGBoost,1900,2266.45947265625
+2024-06-10,Budalur,validation,XGBoost,1900,2255.967529296875
+2024-06-11,Budalur,validation,XGBoost,2320,2367.9970703125
+2024-06-12,Budalur,validation,XGBoost,1850,2253.267333984375
+2024-06-13,Budalur,validation,XGBoost,1850,2241.718994140625
+2024-06-14,Budalur,validation,XGBoost,2320,2354.320556640625
+2024-06-18,Budalur,validation,XGBoost,2200,2344.822265625
+2024-06-21,Budalur,validation,XGBoost,2350,2390.35009765625
+2024-07-19,Budalur,validation,XGBoost,2375,2394.736328125
+2024-08-30,Budalur,validation,XGBoost,1200,1265.935546875
+2024-09-05,Budalur,validation,XGBoost,2310,2424.903076171875
+2024-05-31,Kumbakonam,validation,XGBoost,1500,1572.28955078125
+2024-06-03,Kumbakonam,validation,XGBoost,1500,1544.9351806640625
+2024-06-05,Kumbakonam,validation,XGBoost,1500,1538.5126953125
+2024-06-06,Kumbakonam,validation,XGBoost,1500,1539.901123046875
+2024-06-12,Kumbakonam,validation,XGBoost,2500,2565.06884765625
+2024-07-04,Kumbakonam,validation,XGBoost,2100,2147.578857421875
+2024-09-11,Kumbakonam,validation,XGBoost,2000,2095.607177734375
+2024-10-28,Kumbakonam,validation,XGBoost,1800,1736.60205078125
+2024-12-05,Kumbakonam,validation,XGBoost,1400,1581.8681640625
+2024-12-06,Kumbakonam,validation,XGBoost,1400,1586.9407958984375
+2024-12-09,Kumbakonam,validation,XGBoost,1400,1477.025634765625
+2024-12-10,Kumbakonam,validation,XGBoost,1400,1428.23974609375
+2024-12-11,Kumbakonam,validation,XGBoost,1400,1478.3587646484375
+2024-12-16,Kumbakonam,validation,XGBoost,1400,1453.752197265625
+2024-12-17,Kumbakonam,validation,XGBoost,1400,1411.0172119140625
+2024-12-24,Kumbakonam,validation,XGBoost,1400,1414.9832763671875
+2024-12-31,Kumbakonam,validation,XGBoost,1400,1412.699951171875
+2024-06-07,Orathanadu,validation,XGBoost,1900,2249.313720703125
+2024-06-12,Orathanadu,validation,XGBoost,2200,2161.302001953125
+2024-06-13,Orathanadu,validation,XGBoost,2200,2100.1669921875
+2024-06-14,Orathanadu,validation,XGBoost,2200,2192.13525390625
+2024-06-18,Orathanadu,validation,XGBoost,2200,2193.8544921875
+2024-07-15,Orathanadu,validation,XGBoost,2500,2550.645263671875
+2024-12-26,Orathanadu,validation,XGBoost,1900,2011.6983642578125
+2024-07-05,Papanasam,validation,XGBoost,2200,2222.516357421875
+2024-07-13,Papanasam,validation,XGBoost,3500,2609.611572265625
+2024-08-01,Papanasam,validation,XGBoost,2400,2449.413330078125
+2024-08-29,Papanasam,validation,XGBoost,4000,2504.408447265625
+2024-09-06,Papanasam,validation,XGBoost,3500,2513.164794921875
+2024-09-20,Papanasam,validation,XGBoost,3500,2511.0771484375
+2024-10-09,Papanasam,validation,XGBoost,2800,2506.987060546875
+2024-10-25,Papanasam,validation,XGBoost,3500,2500.414794921875
+2024-11-06,Papanasam,validation,XGBoost,2800,2493.076171875
+2024-11-08,Papanasam,validation,XGBoost,2800,2501.825927734375
+2024-12-04,Papanasam,validation,XGBoost,3800,2488.606201171875
+2024-12-19,Papanasam,validation,XGBoost,3000,2503.947265625
+2024-07-22,Pattukottai,validation,XGBoost,1800,1818.085693359375
+2024-07-31,Pattukottai,validation,XGBoost,1400,1475.269775390625
+2024-08-02,Pattukottai,validation,XGBoost,1400,1503.97265625
+2024-08-20,Pattukottai,validation,XGBoost,2300,2315.8076171875
+2024-08-21,Pattukottai,validation,XGBoost,2300,2313.177734375
+2024-08-22,Pattukottai,validation,XGBoost,2500,2476.654296875
+2024-08-30,Pattukottai,validation,XGBoost,2300,2312.375
+2024-09-03,Pattukottai,validation,XGBoost,2250,2266.962158203125
+2024-09-27,Pattukottai,validation,XGBoost,2050,2020.6971435546875
+2024-06-05,Thanjavur,validation,XGBoost,2300,2260.09814453125
+2024-06-06,Thanjavur,validation,XGBoost,2200,2182.76806640625
+2024-06-07,Thanjavur,validation,XGBoost,2200,2193.012451171875
+2024-06-11,Thanjavur,validation,XGBoost,2350,2387.774658203125
+2024-06-12,Thanjavur,validation,XGBoost,2350,2391.56005859375
+2024-06-13,Thanjavur,validation,XGBoost,1900,2244.469970703125
+2024-06-14,Thanjavur,validation,XGBoost,3000,2513.5888671875
+2024-06-18,Thanjavur,validation,XGBoost,2000,2028.8216552734375
+2024-06-18,Thanjavur,validation,XGBoost,1600,1668.240966796875
+2024-06-19,Thanjavur,validation,XGBoost,1650,1667.8736572265625
+2024-07-05,Thanjavur,validation,XGBoost,2300,2358.69677734375
+2024-07-18,Thanjavur,validation,XGBoost,2000,2139.864501953125
+2024-07-23,Thanjavur,validation,XGBoost,2250,2373.095703125
+2024-08-12,Thanjavur,validation,XGBoost,2275,2249.699462890625
+2024-08-20,Thanjavur,validation,XGBoost,1975,1985.77392578125
+2024-08-21,Thanjavur,validation,XGBoost,1900,1905.374755859375
+2024-08-23,Thanjavur,validation,XGBoost,1850,1921.435302734375
+2024-08-28,Thanjavur,validation,XGBoost,2900,2498.0185546875
+2024-09-24,Thanjavur,validation,XGBoost,1900,1977.4185791015625
+2024-09-30,Thanjavur,validation,XGBoost,3250,2481.093994140625
+2024-10-16,Thanjavur,validation,XGBoost,2500,2461.001220703125
+2024-11-22,Thanjavur,validation,XGBoost,2750,2459.4443359375
+2024-12-02,Thanjavur,validation,XGBoost,2900,2465.72802734375
+2024-12-24,Thanjavur,validation,XGBoost,4600,2465.46875
+2024-12-31,Thanjavur,validation,XGBoost,2400,2419.570556640625
+2024-10-25,Thiruppananthal,validation,XGBoost,1600,1477.6541748046875
+2024-11-08,Thiruppananthal,validation,XGBoost,1650,1634.1226806640625
+2024-05-29,Vallam,validation,XGBoost,2200,2411.404541015625
+2024-07-18,Vallam,validation,XGBoost,2300,2332.265625
+2024-07-22,Vallam,validation,XGBoost,2300,2434.356201171875
+2024-08-12,Vallam,validation,XGBoost,2300,2361.061767578125
+2024-08-13,Vallam,validation,XGBoost,2300,2348.494140625
+2024-08-14,Vallam,validation,XGBoost,2300,2387.68896484375
+2024-08-16,Vallam,validation,XGBoost,2300,2358.892333984375
+2024-08-28,Vallam,validation,XGBoost,2400,2334.958740234375
+2024-08-30,Vallam,validation,XGBoost,2300,2347.37744140625
+2024-09-06,Vallam,validation,XGBoost,2300,2349.103515625
+2024-09-19,Vallam,validation,XGBoost,2300,2330.76611328125
+2024-09-20,Vallam,validation,XGBoost,2300,2350.277587890625
+2024-09-27,Vallam,validation,XGBoost,2300,2354.517578125
+2024-10-07,Vallam,validation,XGBoost,2300,2421.21630859375
+2024-10-15,Vallam,validation,XGBoost,2400,2481.82861328125
+2024-12-04,Vallam,validation,XGBoost,2400,2425.594482421875
+2024-12-20,Vallam,validation,XGBoost,2500,2495.278076171875
+2024-12-24,Vallam,validation,XGBoost,2400,2532.400146484375
+2024-12-26,Vallam,validation,XGBoost,2400,2429.125732421875
+2024-12-30,Vallam,validation,XGBoost,2400,2414.690673828125
+2025-01-21,Budalur,test,XGBoost,2300,2321.013916015625
+2025-01-27,Budalur,test,XGBoost,2500,2450.050048828125
+2025-01-28,Budalur,test,XGBoost,2500,2463.706787109375
+2025-01-29,Budalur,test,XGBoost,2400,2409.580322265625
+2025-01-30,Budalur,test,XGBoost,2400,2409.455322265625
+2025-02-13,Budalur,test,XGBoost,2080,2093.968994140625
+2025-02-14,Budalur,test,XGBoost,2400,2440.857421875
+2025-02-17,Budalur,test,XGBoost,2400,2440.29736328125
+2025-02-18,Budalur,test,XGBoost,2400,2429.75048828125
+2025-02-20,Budalur,test,XGBoost,1650,1777.136962890625
+2025-03-06,Budalur,test,XGBoost,2400,2416.464111328125
+2025-01-21,Kumbakonam,test,XGBoost,1400,1394.81591796875
+2025-02-20,Kumbakonam,test,XGBoost,1400,1415.9229736328125
+2025-02-21,Kumbakonam,test,XGBoost,1400,1466.23388671875
+2025-02-26,Kumbakonam,test,XGBoost,2100,2177.642822265625
+2025-03-03,Kumbakonam,test,XGBoost,2100,2177.709716796875
+2025-03-14,Kumbakonam,test,XGBoost,2300,2269.105224609375
+2025-03-17,Kumbakonam,test,XGBoost,2300,2296.007568359375
+2025-01-30,Orathanadu,test,XGBoost,2150,2156.265625
+2025-01-31,Orathanadu,test,XGBoost,2150,2108.385498046875
+2025-02-03,Orathanadu,test,XGBoost,2150,2106.74755859375
+2025-02-25,Orathanadu,test,XGBoost,2550,2527.22265625
+2025-02-26,Orathanadu,test,XGBoost,2550,2484.360595703125
+2025-02-28,Orathanadu,test,XGBoost,2550,2469.604248046875
+2025-01-03,Papanasam,test,XGBoost,3800,2489.86181640625
+2025-02-04,Papanasam,test,XGBoost,3000,2494.9873046875
+2025-02-13,Papanasam,test,XGBoost,3200,2509.525634765625
+2025-02-28,Papanasam,test,XGBoost,2800,2393.90625
+2025-03-01,Papanasam,test,XGBoost,2800,2489.1142578125
+2025-03-06,Papanasam,test,XGBoost,2500,2383.881103515625
+2025-01-07,Pattukottai,test,XGBoost,2420,2415.4755859375
+2025-01-22,Pattukottai,test,XGBoost,2100,2274.26513671875
+2025-01-23,Pattukottai,test,XGBoost,2100,2237.164306640625
+2025-01-27,Pattukottai,test,XGBoost,2200,2213.236572265625
+2025-02-06,Pattukottai,test,XGBoost,2200,2229.90771484375
+2025-02-10,Pattukottai,test,XGBoost,2200,2256.65087890625
+2025-02-27,Pattukottai,test,XGBoost,2500,2520.910400390625
+2025-03-06,Pattukottai,test,XGBoost,2500,2498.678466796875
+2025-03-14,Pattukottai,test,XGBoost,2250,2247.304443359375
+2025-03-15,Pattukottai,test,XGBoost,2500,2527.03271484375
+2025-01-03,Thanjavur,test,XGBoost,2750,2464.838623046875
+2025-01-09,Thanjavur,test,XGBoost,2450,2414.514892578125
+2025-01-27,Thanjavur,test,XGBoost,2750,2461.553955078125
+2025-02-07,Thanjavur,test,XGBoost,2550,2470.393310546875
+2025-02-17,Thanjavur,test,XGBoost,2500,2496.452880859375
+2025-02-18,Thanjavur,test,XGBoost,2500,2476.805908203125
+2025-02-19,Thanjavur,test,XGBoost,2500,2512.75830078125
+2025-02-20,Thanjavur,test,XGBoost,2900,2502.994140625
+2025-02-25,Thanjavur,test,XGBoost,2500,2500.634765625
+2025-03-03,Thanjavur,test,XGBoost,2900,2482.1328125
+2025-03-04,Thanjavur,test,XGBoost,2500,2497.805908203125
+2025-03-10,Thanjavur,test,XGBoost,4300,2499.644775390625
+2025-03-11,Thanjavur,test,XGBoost,2900,2475.54052734375
+2025-03-13,Thanjavur,test,XGBoost,2900,2476.186767578125
+2025-03-14,Thanjavur,test,XGBoost,2500,2497.737548828125
+2025-03-15,Thanjavur,test,XGBoost,2100,2089.025146484375
+2025-03-17,Thanjavur,test,XGBoost,2500,2495.775390625
+2025-01-27,Thiruppananthal,test,XGBoost,2250,2161.3408203125
+2025-02-01,Thiruppananthal,test,XGBoost,2200,2204.50048828125
+2025-02-04,Thiruppananthal,test,XGBoost,2200,2199.1796875
+2025-02-07,Thiruppananthal,test,XGBoost,2200,2220.15966796875
+2025-02-14,Thiruppananthal,test,XGBoost,2100,2136.95068359375
+2025-02-26,Thiruppananthal,test,XGBoost,2500,2496.156005859375
+2025-01-03,Vallam,test,XGBoost,2400,2409.097900390625
+2025-01-08,Vallam,test,XGBoost,2300,2383.989990234375
+2025-01-09,Vallam,test,XGBoost,2300,2309.95849609375
+2025-01-22,Vallam,test,XGBoost,2400,2361.003173828125

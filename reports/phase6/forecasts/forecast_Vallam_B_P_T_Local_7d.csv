@@ -1,0 +1,8 @@
+date,market,variety,grade,forecast_day,predicted_price_rs_per_quintal,lower_bound_rs_per_quintal,upper_bound_rs_per_quintal,uncertainty_method
+2025-01-10,Vallam,B P T,Local,1,2301.316162109375,1890.513037109375,2712.119287109375,2025 TEST XGBoost empirical absolute-error 90% band
+2025-01-11,Vallam,B P T,Local,2,2303.325927734375,1892.522802734375,2714.129052734375,2025 TEST XGBoost empirical absolute-error 90% band
+2025-01-12,Vallam,B P T,Local,3,2304.15087890625,1893.34775390625,2714.95400390625,2025 TEST XGBoost empirical absolute-error 90% band
+2025-01-13,Vallam,B P T,Local,4,2302.5830078125,1891.7798828125,2713.3861328125,2025 TEST XGBoost empirical absolute-error 90% band
+2025-01-14,Vallam,B P T,Local,5,2301.104248046875,1890.301123046875,2711.907373046875,2025 TEST XGBoost empirical absolute-error 90% band
+2025-01-15,Vallam,B P T,Local,6,2301.104248046875,1890.301123046875,2711.907373046875,2025 TEST XGBoost empirical absolute-error 90% band
+2025-01-16,Vallam,B P T,Local,7,2303.97314453125,1893.17001953125,2714.77626953125,2025 TEST XGBoost empirical absolute-error 90% band

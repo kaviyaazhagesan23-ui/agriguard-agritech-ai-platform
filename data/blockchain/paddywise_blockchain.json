@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "blocks": [
+    {
+      "index": 0,
+      "timestamp": "1970-01-01T00:00:00+00:00",
+      "record_id": "GENESIS",
+      "record_hash": "13b167c5ae89dd255343b8d86d8dabe91a93e91529b02b279186cb096a49c062",
+      "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "nonce": 0,
+      "block_hash": "eb45ecc643abbc5738b5f3655d25a63b32796311f8bcd2af726b8be3f3a9076a"
+    },
+    {
+      "index": 1,
+      "timestamp": "2026-09-20T00:00:00+00:00",
+      "record_id": "PW-DEMO-002",
+      "record_hash": "57ca40cfbcc0af14f93cec11ae0434b397c5783f5108fac99e2dee35391fef0d",
+      "previous_hash": "eb45ecc643abbc5738b5f3655d25a63b32796311f8bcd2af726b8be3f3a9076a",
+      "nonce": 0,
+      "block_hash": "4796e24c04e6348cd475f49c6a4c8f08cbb640cd573ec41275e7662298f04774"
+    }
+  ]
+}

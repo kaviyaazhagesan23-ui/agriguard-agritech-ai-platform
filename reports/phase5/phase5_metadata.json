@@ -1,0 +1,7 @@
+{
+  "selected_model": "XGBoost",
+  "shap_generated": false,
+  "source_predictions": "C:\\Users\\kaviy\\OneDrive\\Desktop\\paddy-price-forecasting\\reports\\phase4\\predictions.csv",
+  "source_metrics": "C:\\Users\\kaviy\\OneDrive\\Desktop\\paddy-price-forecasting\\reports\\phase4\\metrics.json",
+  "source_model_comparison": "C:\\Users\\kaviy\\OneDrive\\Desktop\\paddy-price-forecasting\\reports\\phase4\\model_comparison.csv"
+}

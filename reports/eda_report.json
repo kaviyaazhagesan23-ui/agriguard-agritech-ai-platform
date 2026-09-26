@@ -1,0 +1,1424 @@
+{
+  "dataset_path": "data\\processed\\master_dataset.csv",
+  "statistics": {
+    "rows": 3024,
+    "columns": 21,
+    "memory_mb": 1.487,
+    "dtypes": {
+      "record_id": "int64",
+      "sl_no": "int64",
+      "district_x": "object",
+      "market": "object",
+      "commodity": "object",
+      "variety": "object",
+      "grade": "object",
+      "min_price_rs_per_quintal": "int64",
+      "max_price_rs_per_quintal": "int64",
+      "modal_price_rs_per_quintal": "int64",
+      "date": "datetime64[ns]",
+      "temperature_mean": "float64",
+      "temperature_max": "float64",
+      "temperature_min": "float64",
+      "rainfall": "float64",
+      "wind_speed_max": "float64",
+      "et0": "float64",
+      "district_y": "object",
+      "state": "object",
+      "latitude": "float64",
+      "longitude": "float64"
+    },
+    "numeric_summary": {
+      "min_price_rs_per_quintal": {
+        "count": 3024.0,
+        "mean": 1855.8085,
+        "std": 237.5138,
+        "min": 1000.0,
+        "25%": 1750.0,
+        "50%": 1800.0,
+        "75%": 1900.0,
+        "max": 4400.0
+      },
+      "modal_price_rs_per_quintal": {
+        "count": 3024.0,
+        "mean": 1928.7989,
+        "std": 246.7467,
+        "min": 1100.0,
+        "25%": 1800.0,
+        "50%": 1900.0,
+        "75%": 1980.0,
+        "max": 4600.0
+      },
+      "max_price_rs_per_quintal": {
+        "count": 3024.0,
+        "mean": 2024.037,
+        "std": 477.1011,
+        "min": 1200.0,
+        "25%": 1900.0,
+        "50%": 2000.0,
+        "75%": 2100.0,
+        "max": 24000.0
+      },
+      "temperature_mean": {
+        "count": 3024.0,
+        "mean": 27.9161,
+        "std": 2.9319,
+        "min": 22.5,
+        "25%": 25.3,
+        "50%": 27.6,
+        "75%": 30.4,
+        "max": 34.2
+      },
+      "temperature_max": {
+        "count": 3024.0,
+        "mean": 33.4887,
+        "std": 4.0367,
+        "min": 24.2,
+        "25%": 29.8,
+        "50%": 33.2,
+        "75%": 36.9,
+        "max": 42.4
+      },
+      "temperature_min": {
+        "count": 3024.0,
+        "mean": 23.8421,
+        "std": 2.721,
+        "min": 16.7,
+        "25%": 22.0,
+        "50%": 23.7,
+        "75%": 26.0,
+        "max": 30.0
+      },
+      "rainfall": {
+        "count": 3024.0,
+        "mean": 3.1313,
+        "std": 7.4682,
+        "min": 0.0,
+        "25%": 0.0,
+        "50%": 0.3,
+        "75%": 2.2,
+        "max": 107.9
+      },
+      "wind_speed_max": {
+        "count": 3024.0,
+        "mean": 17.4156,
+        "std": 4.2573,
+        "min": 7.6,
+        "25%": 14.7,
+        "50%": 17.1,
+        "75%": 19.6,
+        "max": 47.7
+      },
+      "et0": {
+        "count": 3024.0,
+        "mean": 4.873,
+        "std": 1.4979,
+        "min": 0.76,
+        "25%": 3.78,
+        "50%": 4.915,
+        "75%": 6.03,
+        "max": 9.51
+      }
+    }
+  },
+  "date_coverage": {
+    "start": "2017-06-07T00:00:00",
+    "end": "2025-03-17T00:00:00",
+    "days": 2841,
+    "unique_dates": 1316,
+    "invalid_dates": 0,
+    "year_counts": {
+      "2017": 18,
+      "2018": 571,
+      "2019": 1044,
+      "2020": 270,
+      "2021": 256,
+      "2022": 316,
+      "2023": 321,
+      "2024": 161,
+      "2025": 67
+    }
+  },
+  "market_distribution": {
+    "unique": 8,
+    "counts": {
+      "Budalur": 915,
+      "Vallam": 464,
+      "Thanjavur": 452,
+      "Kumbakonam": 447,
+      "Orathanadu": 265,
+      "Papanasam": 228,
+      "Thiruppananthal": 182,
+      "Pattukottai": 71
+    }
+  },
+  "variety_distribution": {
+    "unique": 9,
+    "counts": {
+      "B P T": 2567,
+      "1001": 225,
+      "Paddy": 161,
+      "Other": 51,
+      "Culture": 9,
+      "Ponni": 4,
+      "ADT 37": 4,
+      "ADT 43": 2,
+      "I.R. 49": 1
+    }
+  },
+  "grade_distribution": {
+    "unique": 2,
+    "counts": {
+      "FAQ": 2880,
+      "Local": 144
+    }
+  },
+  "price_statistics": {
+    "min_price_rs_per_quintal": {
+      "count": 3024.0,
+      "mean": 1855.8085,
+      "std": 237.5138,
+      "min": 1000.0,
+      "1%": 1161.5,
+      "5%": 1560.0,
+      "25%": 1750.0,
+      "50%": 1800.0,
+      "75%": 1900.0,
+      "95%": 2200.0,
+      "99%": 2438.5,
+      "max": 4400.0
+    },
+    "modal_price_rs_per_quintal": {
+      "count": 3024.0,
+      "mean": 1928.7989,
+      "std": 246.7467,
+      "min": 1100.0,
+      "1%": 1361.5,
+      "5%": 1620.0,
+      "25%": 1800.0,
+      "50%": 1900.0,
+      "75%": 1980.0,
+      "95%": 2300.0,
+      "99%": 2550.0,
+      "max": 4600.0
+    },
+    "max_price_rs_per_quintal": {
+      "count": 3024.0,
+      "mean": 2024.037,
+      "std": 477.1011,
+      "min": 1200.0,
+      "1%": 1500.0,
+      "5%": 1700.0,
+      "25%": 1900.0,
+      "50%": 2000.0,
+      "75%": 2100.0,
+      "95%": 2400.0,
+      "99%": 2769.18,
+      "max": 24000.0
+    },
+    "modal_price_spread_max_minus_min": {
+      "mean": 168.2285052910053,
+      "median": 150.0,
+      "max": 21800.0
+    }
+  },
+  "market_price_statistics": {
+    "('min_price_rs_per_quintal', 'count')": {
+      "Budalur": 915,
+      "Kumbakonam": 447,
+      "Orathanadu": 265,
+      "Papanasam": 228,
+      "Pattukottai": 71,
+      "Thanjavur": 452,
+      "Thiruppananthal": 182,
+      "Vallam": 464
+    },
+    "('min_price_rs_per_quintal', 'mean')": {
+      "Budalur": 1828.4251,
+      "Kumbakonam": 1714.8098,
+      "Orathanadu": 1851.0377,
+      "Papanasam": 1637.3246,
+      "Pattukottai": 1937.8169,
+      "Thanjavur": 2169.8142,
+      "Thiruppananthal": 1812.6923,
+      "Vallam": 1854.2026
+    },
+    "('min_price_rs_per_quintal', 'median')": {
+      "Budalur": 1800.0,
+      "Kumbakonam": 1750.0,
+      "Orathanadu": 1780.0,
+      "Papanasam": 1600.0,
+      "Pattukottai": 1930.0,
+      "Thanjavur": 2200.0,
+      "Thiruppananthal": 1800.0,
+      "Vallam": 1850.0
+    },
+    "('min_price_rs_per_quintal', 'std')": {
+      "Budalur": 99.53,
+      "Kumbakonam": 115.8983,
+      "Orathanadu": 168.7155,
+      "Papanasam": 434.4507,
+      "Pattukottai": 206.2362,
+      "Thanjavur": 244.2308,
+      "Thiruppananthal": 86.8472,
+      "Vallam": 131.7756
+    },
+    "('min_price_rs_per_quintal', 'min')": {
+      "Budalur": 1000,
+      "Kumbakonam": 1300,
+      "Orathanadu": 1550,
+      "Papanasam": 1000,
+      "Pattukottai": 1200,
+      "Thanjavur": 1200,
+      "Thiruppananthal": 1400,
+      "Vallam": 1100
+    },
+    "('min_price_rs_per_quintal', 'max')": {
+      "Budalur": 2400,
+      "Kumbakonam": 2400,
+      "Orathanadu": 2500,
+      "Papanasam": 3500,
+      "Pattukottai": 2400,
+      "Thanjavur": 4400,
+      "Thiruppananthal": 2400,
+      "Vallam": 2500
+    },
+    "('modal_price_rs_per_quintal', 'count')": {
+      "Budalur": 915,
+      "Kumbakonam": 447,
+      "Orathanadu": 265,
+      "Papanasam": 228,
+      "Pattukottai": 71,
+      "Thanjavur": 452,
+      "Thiruppananthal": 182,
+      "Vallam": 464
+    },
+    "('modal_price_rs_per_quintal', 'mean')": {
+      "Budalur": 1922.2492,
+      "Kumbakonam": 1758.6309,
+      "Orathanadu": 1893.1132,
+      "Papanasam": 1739.8246,
+      "Pattukottai": 2010.5634,
+      "Thanjavur": 2241.6748,
+      "Thiruppananthal": 1862.033,
+      "Vallam": 1927.7802
+    },
+    "('modal_price_rs_per_quintal', 'median')": {
+      "Budalur": 1900.0,
+      "Kumbakonam": 1780.0,
+      "Orathanadu": 1800.0,
+      "Papanasam": 1700.0,
+      "Pattukottai": 1960.0,
+      "Thanjavur": 2250.0,
+      "Thiruppananthal": 1850.0,
+      "Vallam": 1900.0
+    },
+    "('modal_price_rs_per_quintal', 'std')": {
+      "Budalur": 100.2957,
+      "Kumbakonam": 113.8853,
+      "Orathanadu": 180.358,
+      "Papanasam": 477.1085,
+      "Pattukottai": 223.8344,
+      "Thanjavur": 250.1303,
+      "Thiruppananthal": 90.8629,
+      "Vallam": 136.2789
+    },
+    "('modal_price_rs_per_quintal', 'min')": {
+      "Budalur": 1200,
+      "Kumbakonam": 1400,
+      "Orathanadu": 1580,
+      "Papanasam": 1100,
+      "Pattukottai": 1400,
+      "Thanjavur": 1350,
+      "Thiruppananthal": 1600,
+      "Vallam": 1350
+    },
+    "('modal_price_rs_per_quintal', 'max')": {
+      "Budalur": 2500,
+      "Kumbakonam": 2500,
+      "Orathanadu": 2550,
+      "Papanasam": 4000,
+      "Pattukottai": 2500,
+      "Thanjavur": 4600,
+      "Thiruppananthal": 2500,
+      "Vallam": 2800
+    },
+    "('max_price_rs_per_quintal', 'count')": {
+      "Budalur": 915,
+      "Kumbakonam": 447,
+      "Orathanadu": 265,
+      "Papanasam": 228,
+      "Pattukottai": 71,
+      "Thanjavur": 452,
+      "Thiruppananthal": 182,
+      "Vallam": 464
+    },
+    "('max_price_rs_per_quintal', 'mean')": {
+      "Budalur": 2052.2404,
+      "Kumbakonam": 1827.4497,
+      "Orathanadu": 1937.2453,
+      "Papanasam": 1857.1491,
+      "Pattukottai": 2078.8732,
+      "Thanjavur": 2316.9093,
+      "Thiruppananthal": 1910.1374,
+      "Vallam": 2040.3664
+    },
+    "('max_price_rs_per_quintal', 'median')": {
+      "Budalur": 2000.0,
+      "Kumbakonam": 1800.0,
+      "Orathanadu": 1850.0,
+      "Papanasam": 1800.0,
+      "Pattukottai": 2000.0,
+      "Thanjavur": 2300.0,
+      "Thiruppananthal": 1900.0,
+      "Vallam": 2000.0
+    },
+    "('max_price_rs_per_quintal', 'std')": {
+      "Budalur": 123.1762,
+      "Kumbakonam": 124.6321,
+      "Orathanadu": 192.9308,
+      "Papanasam": 508.9042,
+      "Pattukottai": 235.386,
+      "Thanjavur": 273.6311,
+      "Thiruppananthal": 96.7703,
+      "Vallam": 1030.3614
+    },
+    "('max_price_rs_per_quintal', 'min')": {
+      "Budalur": 1300,
+      "Kumbakonam": 1500,
+      "Orathanadu": 1650,
+      "Papanasam": 1200,
+      "Pattukottai": 1600,
+      "Thanjavur": 1600,
+      "Thiruppananthal": 1600,
+      "Vallam": 1700
+    },
+    "('max_price_rs_per_quintal', 'max')": {
+      "Budalur": 2650,
+      "Kumbakonam": 2600,
+      "Orathanadu": 2600,
+      "Papanasam": 4200,
+      "Pattukottai": 2600,
+      "Thanjavur": 4800,
+      "Thiruppananthal": 2600,
+      "Vallam": 24000
+    }
+  },
+  "yearly_statistics": {
+    "('min_price_rs_per_quintal', 'count')": {
+      "2017": 18,
+      "2018": 571,
+      "2019": 1044,
+      "2020": 270,
+      "2021": 256,
+      "2022": 316,
+      "2023": 321,
+      "2024": 161,
+      "2025": 67
+    },
+    "('min_price_rs_per_quintal', 'mean')": {
+      "2017": 1982.2222,
+      "2018": 1850.0,
+      "2019": 1880.7088,
+      "2020": 1884.963,
+      "2021": 1853.3594,
+      "2022": 1777.6551,
+      "2023": 1681.6511,
+      "2024": 1973.764,
+      "2025": 2294.7761
+    },
+    "('min_price_rs_per_quintal', 'median')": {
+      "2017": 1985.0,
+      "2018": 1850.0,
+      "2019": 1800.0,
+      "2020": 1800.0,
+      "2021": 1800.0,
+      "2022": 1800.0,
+      "2023": 1800.0,
+      "2024": 1800.0,
+      "2025": 2300.0
+    },
+    "('min_price_rs_per_quintal', 'std')": {
+      "2017": 13.6363,
+      "2018": 202.8161,
+      "2019": 167.1769,
+      "2020": 200.1723,
+      "2021": 159.9523,
+      "2022": 89.8309,
+      "2023": 277.7872,
+      "2024": 461.052,
+      "2025": 415.3434
+    },
+    "('min_price_rs_per_quintal', 'min')": {
+      "2017": 1965,
+      "2018": 1200,
+      "2019": 1300,
+      "2020": 1100,
+      "2021": 1300,
+      "2022": 1100,
+      "2023": 1000,
+      "2024": 1000,
+      "2025": 1300
+    },
+    "('min_price_rs_per_quintal', 'max')": {
+      "2017": 1995,
+      "2018": 2400,
+      "2019": 2200,
+      "2020": 2300,
+      "2021": 2300,
+      "2022": 2300,
+      "2023": 2500,
+      "2024": 4400,
+      "2025": 4200
+    },
+    "('modal_price_rs_per_quintal', 'count')": {
+      "2017": 18,
+      "2018": 571,
+      "2019": 1044,
+      "2020": 270,
+      "2021": 256,
+      "2022": 316,
+      "2023": 321,
+      "2024": 161,
+      "2025": 67
+    },
+    "('modal_price_rs_per_quintal', 'mean')": {
+      "2017": 1991.4444,
+      "2018": 1902.4711,
+      "2019": 1935.5939,
+      "2020": 1965.963,
+      "2021": 1942.6953,
+      "2022": 1860.3797,
+      "2023": 1782.0436,
+      "2024": 2107.236,
+      "2025": 2424.6269
+    },
+    "('modal_price_rs_per_quintal', 'median')": {
+      "2017": 1995.0,
+      "2018": 1890.0,
+      "2019": 1900.0,
+      "2020": 1900.0,
+      "2021": 1900.0,
+      "2022": 1900.0,
+      "2023": 1850.0,
+      "2024": 1950.0,
+      "2025": 2400.0
+    },
+    "('modal_price_rs_per_quintal', 'std')": {
+      "2017": 10.1183,
+      "2018": 215.6656,
+      "2019": 169.6303,
+      "2020": 182.5928,
+      "2021": 173.9398,
+      "2022": 94.6532,
+      "2023": 264.5193,
+      "2024": 510.2,
+      "2025": 444.7448
+    },
+    "('modal_price_rs_per_quintal', 'min')": {
+      "2017": 1975,
+      "2018": 1350,
+      "2019": 1400,
+      "2020": 1200,
+      "2021": 1400,
+      "2022": 1350,
+      "2023": 1100,
+      "2024": 1200,
+      "2025": 1400
+    },
+    "('modal_price_rs_per_quintal', 'max')": {
+      "2017": 2000,
+      "2018": 2480,
+      "2019": 2250,
+      "2020": 2400,
+      "2021": 2400,
+      "2022": 2500,
+      "2023": 2800,
+      "2024": 4600,
+      "2025": 4300
+    },
+    "('max_price_rs_per_quintal', 'count')": {
+      "2017": 18,
+      "2018": 571,
+      "2019": 1044,
+      "2020": 270,
+      "2021": 256,
+      "2022": 316,
+      "2023": 321,
+      "2024": 161,
+      "2025": 67
+    },
+    "('max_price_rs_per_quintal', 'mean')": {
+      "2017": 2096.6667,
+      "2018": 1955.8879,
+      "2019": 1989.5785,
+      "2020": 2049.4444,
+      "2021": 2043.6719,
+      "2022": 1963.2247,
+      "2023": 1937.2274,
+      "2024": 2481.3168,
+      "2025": 2548.7313
+    },
+    "('max_price_rs_per_quintal', 'median')": {
+      "2017": 2135.0,
+      "2018": 1930.0,
+      "2019": 1950.0,
+      "2020": 2000.0,
+      "2021": 2000.0,
+      "2022": 2000.0,
+      "2023": 2000.0,
+      "2024": 2300.0,
+      "2025": 2500.0
+    },
+    "('max_price_rs_per_quintal', 'std')": {
+      "2017": 61.7157,
+      "2018": 220.4563,
+      "2019": 176.8539,
+      "2020": 170.2547,
+      "2021": 205.693,
+      "2022": 115.159,
+      "2023": 258.8641,
+      "2024": 1785.1849,
+      "2025": 454.858
+    },
+    "('max_price_rs_per_quintal', 'min')": {
+      "2017": 2000,
+      "2018": 1600,
+      "2019": 1500,
+      "2020": 1300,
+      "2021": 1500,
+      "2022": 1800,
+      "2023": 1200,
+      "2024": 1300,
+      "2025": 1500
+    },
+    "('max_price_rs_per_quintal', 'max')": {
+      "2017": 2135,
+      "2018": 2500,
+      "2019": 2300,
+      "2020": 2500,
+      "2021": 2600,
+      "2022": 3330,
+      "2023": 2800,
+      "2024": 24000,
+      "2025": 4472
+    }
+  },
+  "monthly_statistics": {
+    "('min_price_rs_per_quintal', 'count')": {
+      "1": 313,
+      "2": 304,
+      "3": 285,
+      "4": 244,
+      "5": 286,
+      "6": 202,
+      "7": 169,
+      "8": 121,
+      "9": 196,
+      "10": 249,
+      "11": 296,
+      "12": 359
+    },
+    "('min_price_rs_per_quintal', 'mean')": {
+      "1": 1852.8435,
+      "2": 1834.4079,
+      "3": 1841.3333,
+      "4": 1808.3197,
+      "5": 1804.4406,
+      "6": 1837.6733,
+      "7": 1856.3905,
+      "8": 1920.5785,
+      "9": 1919.5918,
+      "10": 1868.1526,
+      "11": 1881.3007,
+      "12": 1884.9025
+    },
+    "('min_price_rs_per_quintal', 'median')": {
+      "1": 1800.0,
+      "2": 1800.0,
+      "3": 1800.0,
+      "4": 1800.0,
+      "5": 1800.0,
+      "6": 1800.0,
+      "7": 1800.0,
+      "8": 1850.0,
+      "9": 1800.0,
+      "10": 1800.0,
+      "11": 1850.0,
+      "12": 1850.0
+    },
+    "('min_price_rs_per_quintal', 'std')": {
+      "1": 255.9771,
+      "2": 308.5701,
+      "3": 286.2217,
+      "4": 179.2579,
+      "5": 162.3194,
+      "6": 186.4016,
+      "7": 200.2929,
+      "8": 265.3435,
+      "9": 257.9025,
+      "10": 219.9647,
+      "11": 181.6922,
+      "12": 249.9484
+    },
+    "('min_price_rs_per_quintal', 'min')": {
+      "1": 1000,
+      "2": 1000,
+      "3": 1000,
+      "4": 1500,
+      "5": 1400,
+      "6": 1300,
+      "7": 1200,
+      "8": 1000,
+      "9": 1100,
+      "10": 1150,
+      "11": 1550,
+      "12": 1300
+    },
+    "('min_price_rs_per_quintal', 'max')": {
+      "1": 3200,
+      "2": 3000,
+      "3": 4200,
+      "4": 2200,
+      "5": 2200,
+      "6": 2800,
+      "7": 3200,
+      "8": 3000,
+      "9": 3200,
+      "10": 3200,
+      "11": 2666,
+      "12": 4400
+    },
+    "('modal_price_rs_per_quintal', 'count')": {
+      "1": 313,
+      "2": 304,
+      "3": 285,
+      "4": 244,
+      "5": 286,
+      "6": 202,
+      "7": 169,
+      "8": 121,
+      "9": 196,
+      "10": 249,
+      "11": 296,
+      "12": 359
+    },
+    "('modal_price_rs_per_quintal', 'mean')": {
+      "1": 1937.9872,
+      "2": 1906.4803,
+      "3": 1912.5754,
+      "4": 1871.2295,
+      "5": 1869.5979,
+      "6": 1913.2228,
+      "7": 1929.5562,
+      "8": 2019.8017,
+      "9": 2008.7602,
+      "10": 1951.6867,
+      "11": 1942.1622,
+      "12": 1946.0446
+    },
+    "('modal_price_rs_per_quintal', 'median')": {
+      "1": 1900.0,
+      "2": 1900.0,
+      "3": 1900.0,
+      "4": 1850.0,
+      "5": 1850.0,
+      "6": 1900.0,
+      "7": 1900.0,
+      "8": 1900.0,
+      "9": 1900.0,
+      "10": 1900.0,
+      "11": 1900.0,
+      "12": 1900.0
+    },
+    "('modal_price_rs_per_quintal', 'std')": {
+      "1": 248.6801,
+      "2": 312.0862,
+      "3": 289.8094,
+      "4": 175.4457,
+      "5": 172.413,
+      "6": 199.9797,
+      "7": 212.9776,
+      "8": 308.4229,
+      "9": 282.386,
+      "10": 230.2776,
+      "11": 187.0287,
+      "12": 262.6125
+    },
+    "('modal_price_rs_per_quintal', 'min')": {
+      "1": 1100,
+      "2": 1100,
+      "3": 1100,
+      "4": 1600,
+      "5": 1500,
+      "6": 1500,
+      "7": 1400,
+      "8": 1200,
+      "9": 1350,
+      "10": 1500,
+      "11": 1650,
+      "12": 1400
+    },
+    "('modal_price_rs_per_quintal', 'max')": {
+      "1": 3800,
+      "2": 3200,
+      "3": 4300,
+      "4": 2250,
+      "5": 2500,
+      "6": 3000,
+      "7": 3500,
+      "8": 4000,
+      "9": 3500,
+      "10": 3500,
+      "11": 2800,
+      "12": 4600
+    },
+    "('max_price_rs_per_quintal', 'count')": {
+      "1": 313,
+      "2": 304,
+      "3": 285,
+      "4": 244,
+      "5": 286,
+      "6": 202,
+      "7": 169,
+      "8": 121,
+      "9": 196,
+      "10": 249,
+      "11": 296,
+      "12": 359
+    },
+    "('max_price_rs_per_quintal', 'mean')": {
+      "1": 2036.2588,
+      "2": 2000.0,
+      "3": 2004.1123,
+      "4": 1947.459,
+      "5": 1950.5385,
+      "6": 2035.8812,
+      "7": 2130.7041,
+      "8": 2108.3306,
+      "9": 2108.0816,
+      "10": 2032.3293,
+      "11": 2020.1284,
+      "12": 2026.4513
+    },
+    "('max_price_rs_per_quintal', 'median')": {
+      "1": 2000.0,
+      "2": 2000.0,
+      "3": 2000.0,
+      "4": 1900.0,
+      "5": 1900.0,
+      "6": 2000.0,
+      "7": 2000.0,
+      "8": 2000.0,
+      "9": 2000.0,
+      "10": 2000.0,
+      "11": 2000.0,
+      "12": 2000.0
+    },
+    "('max_price_rs_per_quintal', 'std')": {
+      "1": 246.6083,
+      "2": 317.752,
+      "3": 290.3574,
+      "4": 173.1828,
+      "5": 198.1231,
+      "6": 253.6081,
+      "7": 1707.4187,
+      "8": 306.9626,
+      "9": 316.4043,
+      "10": 244.319,
+      "11": 197.6502,
+      "12": 283.3564
+    },
+    "('max_price_rs_per_quintal', 'min')": {
+      "1": 1200,
+      "2": 1200,
+      "3": 1200,
+      "4": 1625,
+      "5": 1600,
+      "6": 1600,
+      "7": 1500,
+      "8": 1300,
+      "9": 1700,
+      "10": 1600,
+      "11": 1700,
+      "12": 1500
+    },
+    "('max_price_rs_per_quintal', 'max')": {
+      "1": 4000,
+      "2": 3300,
+      "3": 4472,
+      "4": 2550,
+      "5": 3330,
+      "6": 3300,
+      "7": 24000,
+      "8": 4200,
+      "9": 4000,
+      "10": 4000,
+      "11": 3150,
+      "12": 4800
+    }
+  },
+  "weather_correlations": [
+    {
+      "index": "temperature_max",
+      "pearson_correlation": -0.04101740384773635
+    },
+    {
+      "index": "et0",
+      "pearson_correlation": -0.03846187019940121
+    },
+    {
+      "index": "temperature_mean",
+      "pearson_correlation": -0.01745227178955381
+    },
+    {
+      "index": "temperature_min",
+      "pearson_correlation": 0.006820818774286892
+    },
+    {
+      "index": "wind_speed_max",
+      "pearson_correlation": 0.01135683086311411
+    },
+    {
+      "index": "rainfall",
+      "pearson_correlation": 0.014332135394521817
+    }
+  ],
+  "missing_data": [
+    {
+      "column": "district_y",
+      "missing_count": 182,
+      "missing_pct": 6.018518518518518
+    },
+    {
+      "column": "longitude",
+      "missing_count": 182,
+      "missing_pct": 6.018518518518518
+    },
+    {
+      "column": "latitude",
+      "missing_count": 182,
+      "missing_pct": 6.018518518518518
+    },
+    {
+      "column": "state",
+      "missing_count": 182,
+      "missing_pct": 6.018518518518518
+    },
+    {
+      "column": "record_id",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "commodity",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "market",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "district_x",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "sl_no",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "variety",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "grade",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "min_price_rs_per_quintal",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "max_price_rs_per_quintal",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "temperature_max",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "temperature_mean",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "date",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "modal_price_rs_per_quintal",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "et0",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "wind_speed_max",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "rainfall",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "temperature_min",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    }
+  ],
+  "outlier_analysis": {
+    "min_price_rs_per_quintal": {
+      "q1": 1750.0,
+      "q3": 1900.0,
+      "iqr": 150.0,
+      "lower_fence": 1525.0,
+      "upper_fence": 2125.0,
+      "flagged_count": 591,
+      "highest_flagged": [
+        {
+          "record_id": 2951,
+          "date": "2024-12-24T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 4400,
+          "modal_price_rs_per_quintal": 4600,
+          "max_price_rs_per_quintal": 4800
+        },
+        {
+          "record_id": 3015,
+          "date": "2025-03-10T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 4200,
+          "modal_price_rs_per_quintal": 4300,
+          "max_price_rs_per_quintal": 4472
+        },
+        {
+          "record_id": 2939,
+          "date": "2024-12-04T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3500,
+          "modal_price_rs_per_quintal": 3800,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2917,
+          "date": "2024-09-06T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2931,
+          "date": "2024-10-25T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2887,
+          "date": "2024-07-13T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 3700
+        },
+        {
+          "record_id": 2958,
+          "date": "2025-01-03T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3800,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2911,
+          "date": "2024-08-29T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 4000,
+          "max_price_rs_per_quintal": 4200
+        },
+        {
+          "record_id": 2921,
+          "date": "2024-09-20T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2926,
+          "date": "2024-09-30T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 3250,
+          "max_price_rs_per_quintal": 3500
+        }
+      ]
+    },
+    "modal_price_rs_per_quintal": {
+      "q1": 1800.0,
+      "q3": 1980.0,
+      "iqr": 180.0,
+      "lower_fence": 1530.0,
+      "upper_fence": 2250.0,
+      "flagged_count": 243,
+      "highest_flagged": [
+        {
+          "record_id": 2951,
+          "date": "2024-12-24T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 4400,
+          "modal_price_rs_per_quintal": 4600,
+          "max_price_rs_per_quintal": 4800
+        },
+        {
+          "record_id": 3015,
+          "date": "2025-03-10T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 4200,
+          "modal_price_rs_per_quintal": 4300,
+          "max_price_rs_per_quintal": 4472
+        },
+        {
+          "record_id": 2911,
+          "date": "2024-08-29T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 4000,
+          "max_price_rs_per_quintal": 4200
+        },
+        {
+          "record_id": 2958,
+          "date": "2025-01-03T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3800,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2939,
+          "date": "2024-12-04T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3500,
+          "modal_price_rs_per_quintal": 3800,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2887,
+          "date": "2024-07-13T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 3700
+        },
+        {
+          "record_id": 2917,
+          "date": "2024-09-06T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2921,
+          "date": "2024-09-20T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2931,
+          "date": "2024-10-25T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2926,
+          "date": "2024-09-30T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 3250,
+          "max_price_rs_per_quintal": 3500
+        }
+      ]
+    },
+    "max_price_rs_per_quintal": {
+      "q1": 1900.0,
+      "q3": 2100.0,
+      "iqr": 200.0,
+      "lower_fence": 1600.0,
+      "upper_fence": 2400.0,
+      "flagged_count": 190,
+      "highest_flagged": [
+        {
+          "record_id": 2893,
+          "date": "2024-07-22T00:00:00",
+          "market": "Vallam",
+          "variety": "B P T",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 2200,
+          "modal_price_rs_per_quintal": 2300,
+          "max_price_rs_per_quintal": 24000
+        },
+        {
+          "record_id": 2951,
+          "date": "2024-12-24T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 4400,
+          "modal_price_rs_per_quintal": 4600,
+          "max_price_rs_per_quintal": 4800
+        },
+        {
+          "record_id": 3015,
+          "date": "2025-03-10T00:00:00",
+          "market": "Thanjavur",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 4200,
+          "modal_price_rs_per_quintal": 4300,
+          "max_price_rs_per_quintal": 4472
+        },
+        {
+          "record_id": 2911,
+          "date": "2024-08-29T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 4000,
+          "max_price_rs_per_quintal": 4200
+        },
+        {
+          "record_id": 2921,
+          "date": "2024-09-20T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3000,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2917,
+          "date": "2024-09-06T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2931,
+          "date": "2024-10-25T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2958,
+          "date": "2025-01-03T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3800,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2939,
+          "date": "2024-12-04T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3500,
+          "modal_price_rs_per_quintal": 3800,
+          "max_price_rs_per_quintal": 4000
+        },
+        {
+          "record_id": 2887,
+          "date": "2024-07-13T00:00:00",
+          "market": "Papanasam",
+          "variety": "Other",
+          "grade": "Local",
+          "min_price_rs_per_quintal": 3200,
+          "modal_price_rs_per_quintal": 3500,
+          "max_price_rs_per_quintal": 3700
+        }
+      ]
+    }
+  },
+  "suspicious_observation": {
+    "found": true,
+    "record": {
+      "record_id": 2893,
+      "sl_no": 2717,
+      "district_x": "Thanjavur",
+      "market": "Vallam",
+      "commodity": "Paddy(Dhan)(Common)",
+      "variety": "B P T",
+      "grade": "Local",
+      "min_price_rs_per_quintal": 2200,
+      "max_price_rs_per_quintal": 24000,
+      "modal_price_rs_per_quintal": 2300,
+      "date": "2024-07-22T00:00:00",
+      "temperature_mean": 31.4,
+      "temperature_max": 37.7,
+      "temperature_min": 27.2,
+      "rainfall": 0.0,
+      "wind_speed_max": 29.9,
+      "et0": 8.03,
+      "district_y": "Thanjavur",
+      "state": "Tamil Nadu",
+      "latitude": 10.714,
+      "longitude": 79.702
+    },
+    "peer_count_same_market_variety_grade": 20,
+    "peer_max_price_median": 2400.0,
+    "peer_max_price_mean": 3515.0,
+    "local_window_records": [
+      {
+        "record_id": 2890,
+        "date": "2024-07-18T00:00:00",
+        "market": "Vallam",
+        "variety": "B P T",
+        "grade": "Local",
+        "min_price_rs_per_quintal": 2200,
+        "modal_price_rs_per_quintal": 2300,
+        "max_price_rs_per_quintal": 2400
+      },
+      {
+        "record_id": 2893,
+        "date": "2024-07-22T00:00:00",
+        "market": "Vallam",
+        "variety": "B P T",
+        "grade": "Local",
+        "min_price_rs_per_quintal": 2200,
+        "modal_price_rs_per_quintal": 2300,
+        "max_price_rs_per_quintal": 24000
+      },
+      {
+        "record_id": 2899,
+        "date": "2024-08-12T00:00:00",
+        "market": "Vallam",
+        "variety": "B P T",
+        "grade": "Local",
+        "min_price_rs_per_quintal": 2200,
+        "modal_price_rs_per_quintal": 2300,
+        "max_price_rs_per_quintal": 2400
+      },
+      {
+        "record_id": 2900,
+        "date": "2024-08-13T00:00:00",
+        "market": "Vallam",
+        "variety": "B P T",
+        "grade": "Local",
+        "min_price_rs_per_quintal": 2200,
+        "modal_price_rs_per_quintal": 2300,
+        "max_price_rs_per_quintal": 2400
+      },
+      {
+        "record_id": 2901,
+        "date": "2024-08-14T00:00:00",
+        "market": "Vallam",
+        "variety": "B P T",
+        "grade": "Local",
+        "min_price_rs_per_quintal": 2200,
+        "modal_price_rs_per_quintal": 2300,
+        "max_price_rs_per_quintal": 2400
+      },
+      {
+        "record_id": 2902,
+        "date": "2024-08-16T00:00:00",
+        "market": "Vallam",
+        "variety": "B P T",
+        "grade": "Local",
+        "min_price_rs_per_quintal": 2200,
+        "modal_price_rs_per_quintal": 2300,
+        "max_price_rs_per_quintal": 2400
+      }
+    ],
+    "modal_price_at_event": 2300.0,
+    "price_order_valid": true,
+    "interpretation": "The maximum price is an extreme value relative to Vallam peers, but the row preserves valid min <= modal <= max ordering. It is retained for Phase 2 and not corrected or deleted."
+  },
+  "duplicate_flags": {
+    "exact_duplicate_rows": 0,
+    "duplicate_record_flags": 0,
+    "duplicate_market_date_flags": 0
+  }
+}
