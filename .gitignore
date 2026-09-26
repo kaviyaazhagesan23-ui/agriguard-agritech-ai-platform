@@ -10,3 +10,8 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+app_backup_before_recursive.py
+app_before_cascade_fix.py
+streamlit_test.py
+tests.zip
+_Users_*
