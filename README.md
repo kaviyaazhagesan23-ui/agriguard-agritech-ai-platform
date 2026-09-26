@@ -1,144 +1,170 @@
-# AgriGuard AgriTech AI Platform
+# 🌾 AgriGuard – AI-Powered Smart Agriculture Platform
 
-**Smarter farming. Better decisions.**
+**AgriGuard** is an AI-powered agriculture platform designed to support farmers with data-driven paddy price forecasting, market comparison, intelligent selling decisions, and a digital marketplace connecting farmers and buyers.
 
-An AI-powered paddy price forecasting and farmer-buyer marketplace platform designed to support agricultural decision-making.
+The platform combines machine learning, weather data analysis, market insights, and blockchain-inspired transaction verification to create a smarter and more transparent agricultural ecosystem.
 
-## Overview
+## 🚀 Key Features
 
-AgriGuard AgriTech AI Platform combines machine learning-based paddy price forecasting with a farmer-buyer marketplace. It provides price estimates, sell-versus-wait decision support, market comparisons, and transaction auditing.
+* 📈 **Paddy Price Forecasting:** Uses machine learning and XGBoost to forecast paddy prices based on historical market data.
+* 🤖 **AI-Based Selling Decisions:** Provides data-driven Sell/Wait recommendations to help farmers plan their sales.
+* 🏪 **Market Price Comparison:** Helps farmers compare prices across different agricultural markets.
+* 💰 **Revenue Estimation:** Estimates potential revenue to support informed selling decisions.
+* 🌦️ **Weather Data Integration:** Incorporates weather information into the agricultural data pipeline.
+* 👨‍🌾 **Farmer Marketplace:** Provides a digital platform for farmers to connect with potential buyers.
+* 🤝 **Buyer Matching:** Supports connections between farmers and buyers based on marketplace information.
+* 🔐 **Blockchain-Inspired Verification:** Uses SHA-256 hashing for local transaction integrity verification.
+* 📊 **Interactive Dashboard:** Presents forecasts, market insights, and agricultural information through a Streamlit interface.
 
-## Key Features
+## 🧠 Machine Learning
 
-- **AI Price Forecasting:** Uses a trained XGBoost regression model to estimate paddy prices.
-- **Recursive Forecasting:** Generates daily future price estimates using previous predictions as inputs.
-- **Sell vs Wait:** Compares estimated selling outcomes while accounting for storage and transportation costs.
-- **Market Comparison:** Compares estimated prices across supported markets.
-- **Farmer-Buyer Marketplace:** Supports farmer listings, buyer requests, orders, and messaging.
-- **Buyer Matching:** Helps connect buyers with relevant farmer listings.
-- **Blockchain Transaction Audit:** Uses SHA-256 hashing to provide tamper-evident verification for transaction records.
-- **Interactive Dashboard:** Provides a Streamlit interface for farmers and buyers.
+AgriGuard includes a machine learning pipeline for paddy price forecasting. Multiple models are evaluated to support model selection.
 
-## Technology Stack
+### 🤖 Models Included
 
-- Python
-- Streamlit
-- Pandas
-- Scikit-learn
-- XGBoost
-- SQLAlchemy
-- MySQL
-- SHA-256
+* Naive Last Value
+* Moving Average
+* Random Forest
+* XGBoost
 
-## Machine Learning Model
+### 📊 Model Evaluation
 
-The project uses an XGBoost regression model trained on historical paddy market data. The model was evaluated against a Naive Last Value baseline and a Random Forest model.
+The Phase 5 evaluation selected XGBoost based on the lowest test-set MAE in the reported comparison.
 
-### Phase 5 Model Evaluation
+| Metric | XGBoost |
+| ------ | ------: |
+| MAE    |  138.03 |
+| RMSE   |  322.32 |
+| MAPE   |   4.62% |
+| R²     |  0.4668 |
 
-Evaluation was performed on 67 historical test observations.
+These metrics summarize the model's performance on the evaluated test observations.
 
-| Model | MAE (₹/quintal) | RMSE (₹/quintal) | MAPE | R² |
-|---|---:|---:|---:|---:|
-| Naive Last Value | 248.36 | 412.21 | 9.56% | 0.1280 |
-| Random Forest | 150.12 | 322.51 | 5.11% | 0.4662 |
-| **XGBoost** | **138.03** | **322.32** | **4.62%** | **0.4668** |
+## 🛠️ Technology Stack
 
-XGBoost was selected based on the lowest test MAE, with RMSE used as the secondary criterion.
+| Category                | Technologies          |
+| ----------------------- | --------------------- |
+| 💻 Programming Language | Python                |
+| 🤖 Machine Learning     | XGBoost, Scikit-learn |
+| 📊 Data Processing      | Pandas, NumPy         |
+| 📉 Data Visualization   | Matplotlib            |
+| 🌐 Web Application      | Streamlit             |
+| 🗄️ Database            | MySQL                 |
+| 🔐 Data Security        | SHA-256               |
+| ⚙️ Development Tools    | VS Code, Git, GitHub  |
 
-### Error Analysis
+## 🏗️ Project Architecture
 
-- Mean prediction error: -₹45.55, indicating overall under-prediction.
-- 95th percentile absolute error: ₹501.88 per quintal.
-- Errors increased for high-price observations relative to the overall test set.
-
-### Model Limitations
-
-- Evaluation is based on 67 historical test observations.
-- Historical test performance does not guarantee future forecasting performance.
-- Error analysis does not establish causal relationships.
-- Performance may vary across markets, varieties, and changing market conditions.
-
-## Data Disclosure
-
-The model was developed using historical paddy market data. Synthetic current-market and marketplace inputs are used for demonstration where live data is unavailable. Synthetic future weather inputs are also used in the demonstration forecast. These are not official live market prices or live weather observations.
-
-## Blockchain Audit
-
-The transaction audit module uses SHA-256 hashing and a local blockchain structure to help detect changes to recorded transactions. It is an audit demonstration, not a public blockchain network.
-
-## Testing
-
-The project passed **151 automated tests** in the latest local test run.
-
-Run the tests with:
-
-```bash
-python -m pytest
+```text
+AgriGuard
+│
+├── app.py
+│
+├── data/
+│   ├── current/
+│   └── processed/
+│
+├── models/
+│   └── phase4/
+│
+├── reports/
+│   ├── phase4/
+│   └── phase5/
+│
+├── src/
+│   ├── auth/
+│   ├── blockchain/
+│   ├── database/
+│   ├── marketplace/
+│   ├── current_price_estimator.py
+│   ├── forecasting.py
+│   ├── decision_engine.py
+│   ├── market_comparison.py
+│   └── matching.py
+│
+└── tests/
 ```
 
-## Installation
+## 📊 Data Pipeline
 
-Clone the repository:
+1. 📥 Collect historical paddy market price data.
+2. 🌦️ Integrate weather information.
+3. 🧹 Clean and prepare the dataset.
+4. ⚙️ Perform feature engineering.
+5. 🤖 Train and evaluate machine learning models.
+6. 🔮 Generate paddy price forecasts.
+7. 💡 Produce selling recommendations and market comparisons.
+8. 📊 Present insights through the farmer dashboard.
+
+## 💻 Installation and Setup
+
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/kaviyaazhagesan23-ui/agriguard-agritech-ai-platform.git
 cd agriguard-agritech-ai-platform
 ```
 
-Install the project dependencies:
+### 2️⃣ Create a Virtual Environment
 
 ```bash
-pip install -r requirements_marketplace.txt
+python -m venv .venv
 ```
 
-Configure the database connection in a local `.env` file using `.env.example` as a template. Do not commit your actual `.env` file or credentials.
-
-Initialize the database:
+Activate it on Windows:
 
 ```bash
-python -m src.database.init_db
+.venv\Scripts\activate
 ```
 
-Run the Streamlit application:
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Configure Environment Variables
+
+Create a `.env` file using the project's environment variable template, if available. Add your local database configuration.
+
+### 5️⃣ Run the Application
 
 ```bash
 streamlit run app.py
 ```
 
-## Project Structure
+## 🧪 Testing
 
-```text
-agriguard-agritech-ai-platform/
-├── app.py
-├── src/
-│   ├── auth/
-│   ├── blockchain/
-│   ├── database/
-│   ├── marketplace/
-│   ├── forecasting.py
-│   ├── current_price_estimator.py
-│   ├── decision_engine.py
-│   └── matching.py
-├── data/
-│   ├── current/
-│   ├── processed/
-│   └── raw/
-├── models/
-│   └── phase4/
-├── reports/
-├── tests/
-├── .env.example
-├── .gitignore
-└── requirements_marketplace.txt
+Run the automated test suite using:
+
+```bash
+pytest
 ```
 
-## Project Status
+The project includes tests for its application components and core functionality.
 
-Developed as an end-to-end AI and agricultural technology portfolio project.
+## 🌱 Project Goals
 
-## Author
+* 🌾 Make agricultural market information easier to access.
+* 💡 Help farmers make informed selling decisions.
+* 🤝 Connect farmers and buyers through a digital marketplace.
+* 🧠 Apply AI and data analytics to agricultural challenges.
+* 🔐 Encourage transparency through transaction verification.
+
+## 🔮 Future Enhancements
+
+* 🌐 Integration with additional live agricultural market data.
+* 📈 Improved forecasting with expanded datasets.
+* 📱 Mobile-friendly farmer experience.
+* 🛒 Enhanced buyer and farmer marketplace features.
+* ⛓️ Further development of blockchain-based transaction records.
+
+## 👩‍💻 Author
 
 **Kaviya Azhagesan**
+🎓 B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+🏫 SRM Institute of Science and Technology, Tiruchirappalli
 
-GitHub: [kaviyaazhagesan23-ui](https://github.com/kaviyaazhagesan23-ui)
+---
+
+⭐ **AgriGuard – Empowering Agriculture Through AI and Technology** 🌾🚀
