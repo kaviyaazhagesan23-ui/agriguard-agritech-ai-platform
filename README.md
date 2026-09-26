@@ -6,15 +6,15 @@ The platform combines machine learning, weather data analysis, market insights, 
 
 ## 🚀 Key Features
 
-* 📈 **Paddy Price Forecasting:** Uses machine learning and XGBoost to forecast paddy prices based on historical market data.
-* 🤖 **AI-Based Selling Decisions:** Provides data-driven Sell/Wait recommendations to help farmers plan their sales.
-* 🏪 **Market Price Comparison:** Helps farmers compare prices across different agricultural markets.
-* 💰 **Revenue Estimation:** Estimates potential revenue to support informed selling decisions.
-* 🌦️ **Weather Data Integration:** Incorporates weather information into the agricultural data pipeline.
-* 👨‍🌾 **Farmer Marketplace:** Provides a digital platform for farmers to connect with potential buyers.
-* 🤝 **Buyer Matching:** Supports connections between farmers and buyers based on marketplace information.
-* 🔐 **Blockchain-Inspired Verification:** Uses SHA-256 hashing for local transaction integrity verification.
-* 📊 **Interactive Dashboard:** Presents forecasts, market insights, and agricultural information through a Streamlit interface.
+*  **Paddy Price Forecasting:** Uses machine learning and XGBoost to forecast paddy prices based on historical market data.
+*  **AI-Based Selling Decisions:** Provides data-driven Sell/Wait recommendations to help farmers plan their sales.
+*  **Market Price Comparison:** Helps farmers compare prices across different agricultural markets.
+*  **Revenue Estimation:** Estimates potential revenue to support informed selling decisions.
+*  **Weather Data Integration:** Incorporates weather information into the agricultural data pipeline.
+*  **Farmer Marketplace:** Provides a digital platform for farmers to connect with potential buyers.
+*  **Buyer Matching:** Supports connections between farmers and buyers based on marketplace information.
+*  **Blockchain-Inspired Verification:** Uses SHA-256 hashing for local transaction integrity verification.
+*  **Interactive Dashboard:** Presents forecasts, market insights, and agricultural information through a Streamlit interface.
 
 ## 🧠 Machine Learning
 
@@ -44,14 +44,14 @@ These metrics summarize the model's performance on the evaluated test observatio
 
 | Category                | Technologies          |
 | ----------------------- | --------------------- |
-| 💻 Programming Language | Python                |
-| 🤖 Machine Learning     | XGBoost, Scikit-learn |
-| 📊 Data Processing      | Pandas, NumPy         |
-| 📉 Data Visualization   | Matplotlib            |
-| 🌐 Web Application      | Streamlit             |
-| 🗄️ Database            | MySQL                 |
-| 🔐 Data Security        | SHA-256               |
-| ⚙️ Development Tools    | VS Code, Git, GitHub  |
+|  Programming Language | Python                |
+|  Machine Learning     | XGBoost, Scikit-learn |
+|  Data Processing      | Pandas, NumPy         |
+|  Data Visualization   | Matplotlib            |
+|  Web Application      | Streamlit             |
+|  Database            | MySQL                 |
+|  Data Security        | SHA-256               |
+|  Development Tools    | VS Code, Git, GitHub  |
 
 ## 🏗️ Project Architecture
 
@@ -87,14 +87,14 @@ AgriGuard
 
 ## 📊 Data Pipeline
 
-1. 📥 Collect historical paddy market price data.
-2. 🌦️ Integrate weather information.
-3. 🧹 Clean and prepare the dataset.
-4. ⚙️ Perform feature engineering.
-5. 🤖 Train and evaluate machine learning models.
-6. 🔮 Generate paddy price forecasts.
-7. 💡 Produce selling recommendations and market comparisons.
-8. 📊 Present insights through the farmer dashboard.
+1.  Collect historical paddy market price data.
+2.  Integrate weather information.
+3.  Clean and prepare the dataset.
+4.  Perform feature engineering.
+5.  Train and evaluate machine learning models.
+6.  Generate paddy price forecasts.
+7.  Produce selling recommendations and market comparisons.
+8.  Present insights through the farmer dashboard.
 
 ## 💻 Installation and Setup
 
@@ -145,25 +145,25 @@ The project includes tests for its application components and core functionality
 
 ## 🌱 Project Goals
 
-* 🌾 Make agricultural market information easier to access.
-* 💡 Help farmers make informed selling decisions.
-* 🤝 Connect farmers and buyers through a digital marketplace.
-* 🧠 Apply AI and data analytics to agricultural challenges.
-* 🔐 Encourage transparency through transaction verification.
+*  Make agricultural market information easier to access.
+*  Help farmers make informed selling decisions.
+*  Connect farmers and buyers through a digital marketplace.
+*  Apply AI and data analytics to agricultural challenges.
+*  Encourage transparency through transaction verification.
 
 ## 🔮 Future Enhancements
 
-* 🌐 Integration with additional live agricultural market data.
-* 📈 Improved forecasting with expanded datasets.
-* 📱 Mobile-friendly farmer experience.
-* 🛒 Enhanced buyer and farmer marketplace features.
-* ⛓️ Further development of blockchain-based transaction records.
+*  Integration with additional live agricultural market data.
+*  Improved forecasting with expanded datasets.
+*  Mobile-friendly farmer experience.
+*  Enhanced buyer and farmer marketplace features.
+*  Further development of blockchain-based transaction records.
 
 ## 👩‍💻 Author
 
 **Kaviya Azhagesan**
-🎓 B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)
-🏫 SRM Institute of Science and Technology, Tiruchirappalli
+ B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+ SRM Institute of Science and Technology, Tiruchirappalli
 
 ---
 
